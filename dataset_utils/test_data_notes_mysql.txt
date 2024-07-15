@@ -1,0 +1,14 @@
+encountered mistakes:
+
+  - avg(room_count) but column room_count does not exist (apartment_bookings)
+  - how many 180s have legs won of 45? select max(180) does just return 180 instead of the amount of won legs of 45
+  - inside max min brackets is as namer, which is not compatible
+  - republican table as :_steve_sauerberg seems odd
+  - intersect is a problematic statement 
+  - some garbage data like:
+        {
+        "question": "What is the least 08-09 i/o best?",
+        "context": "create table table_23938357_6 (id varchar, PRIMARY KEY (id))",
+        "answer": "select min(08 as _09_i_o_best) from table_23938357_6"
+        },
+  - generally: difficulties by correctly capturing and inserting data for join operations

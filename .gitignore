@@ -1,1 +1,3 @@
 *.ipynb
+experiments/
+data/test_data_copy.json
