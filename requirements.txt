@@ -1,4 +1,4 @@
 mysql-connector-python==8.4.0
 pandas
-json
-re
+# json
+# re
