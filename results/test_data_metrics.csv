@@ -1,0 +1,9 @@
+Metrics
+overall_accuracy,1.0
+overall_similarity,1.0
+join_accuracy,1.0
+join_similarity,1.0
+mult_table_accuracy,1.0
+mult_table_similarity,1.0
+single_table_accuracy,1.0
+single_table_similarity,1.0
