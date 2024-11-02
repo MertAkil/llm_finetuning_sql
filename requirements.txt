@@ -1,4 +1,7 @@
 mysql-connector-python==8.4.0
-pandas
-json
-re
+mysql_connector_repackaged==0.3.1
+datasets==3.0.2
+pandas==2.2.3
+peft==0.5.0
+torch==2.1.0
+transformers==4.45.2
