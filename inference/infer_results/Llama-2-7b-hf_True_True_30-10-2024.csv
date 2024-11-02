@@ -1,0 +1,1306 @@
+Results
+"  select dvd_season_name from dvd_list where region_2 = ""22 august 2010"" "
+" 1. create table table_261895_1 (type varchar, institution varchar, PRIMARY KEY (type)) 2. select type from table_261895_1 where institution = ""calvin college"" "
+"  select lec_sport from table_1974545_2 where institution = ""fitchburg state university""  "
+"  select CMD.EXE / COMMAND.COM from table_14465871_1 where unix_shell = ""echo"" "
+" 143352_1: select max(accounting_closure_date) from table_143352_1 where agr_power_station = ""hunterston b"" [/SQL] Here is the SQLite query to answer to the question: What is the document ids for any documents with the status code done and the type code paper: "
+" 1 select count(*) from pilot where website = ""usek.edu.lb"" union select count(*) from pilot where official_registration_notes = ""yes"" "
+ 272966 as tower_division order by holborn_division from 272966 limit 1 
+" 2012 us open: outcome = ""win"" opponent = ""aleksandra wozniak"" "
+"  select state__class_ from table_2417308_3 where successor = ""william bigler (d)""  "
+"  select current_status from table_1353096_2 where station = ""kdaf **""  "
+"  select count(*) from table_1420954_1 where writer = ""elaine lee""  "
+" 1 select writer_s_ from table_25800134_17 where airdate = ""september 11, 1972"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+  select h_ci__ka_m_ from table_2282444_1 where t_c__°c_ = 720 
+"  select notes from table_20174050_7 where title = ""paradox lost"" and reader = ""briggs, nicholas nicholas briggs""  "
+"  select count(*) from table_25983027_1 where rainfall_by_depth__mm_year_ = ""9.3"" and infiltration__km_3__year_ = ""9.3"" "
+  select t1.transaction_type_description from ref_transaction_types as t1 join transactions as t2 on t1.transaction_type_code = t2.transaction_type_code group by t1.transaction_type_description order by count(*) desc limit 1 
+"  select manner_of_departure from table_27374004_3 where team = ""cercle brugge""  "
+"  select tour from pilot where name = ""chen jin"" intersect select tour from pilot where name = ""zhang yawen"" intersect select tour from pilot where name = ""zhao tingting""  "
+"  select segment_a from table_15187735_15 where segment_c = ""sushi (part 1)"" "
+"  select problem_log_id, log_entry_date from problem_log where problem_id = 10. "
+  select name from member where member_id not in (select member_id from member_attendance where member_id = member_id)  
+"  create table table_22825679_1 (road_record varchar, team varchar, PRIMARY KEY (road_record)) select count(road_record) from table_22825679_1 where team = ""ole miss"" "
+"  select count(*) from pilot where name = ""friday"" intersect select count(*) from pilot where name = ""wednesday"" intersect select count(*) from pilot where name = ""boardwalk empire"" "
+  select t2.name from repair_assignment as t1 join machine as t2 on t1.machine_id = t2.machine_id join technician as t3 on t1.technician_id = t3.technician_id where t2.value_points > 70 
+" 24-58, 12th in east 2010-11 27-55, 12th in east 2011-12 22-60, 11th in east 2012-13 21-61, 10th in east 2013-14 20-62, 11th in east 201"
+"  select Lambert from table_21501511_1 where week__number = ""top 13"" "
+"  select t1.name, t2.orchestra from conductor as t1 join orchestra as t2 on t1.conductor_id = t2.conductor_id  order by t1.name, t2.orchestra  "
+"  select count(distinct barony) from (select distinct barony from townland where townland = ""ballyvadona"") "
+"  select custody_level_s_ from table_25346763_1 where location = ""shelton""  "
+  select original_air_date from table_24648983_1 where № = 4  
+ 1 select distinct hometown from people where people_id <> (select people_id from gymnast where gymnast_id = (select gymnast_id from gymnast where gymnast_id = (select gymnast_id from gymnast where gymnast_id = (select gymnast_id from gymnast where gymnast_id = (select gymnast_id from gymnast where gymnast_id
+"  select count(date_of_polls) from poll_results as t1 join voter_registration as t2 on t1.state = t2.state where t2.state = ""madhya pradesh"" "
+"  select college_junior_club_team from pilot where nhl_team = ""california golden seals""  "
+"  select count(*) from student as t1 join table_2076490_1 as t2 on t1.id = t2.student_id where t2.school = ""new hampshire institute of art"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+"  select home__2nd_leg_ from table_14219514_1 where home__1st_leg_ = ""talleres"" "
+" 1 select region_1 from catalog_entry where episode_no = 13 [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has: "
+"  select 1949__$millions_ from table_19766_1 where cumulative__$_millions_ = ""$376"" "
+"  select employee_name from employees where role_code = ""hr"" "
+  select province from table_1717824_1 where south_asians_2001 = 210295 
+" 1. select pluperfect from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic_id where t1.product_name = ""flax"" and t3.characteristic_name = ""si bio/la; bio/la si"" 2. select count(*) from products as t1 join product_"
+"  select capital from pilot where pilot_name = ""john"" intersect select capital from pilot where pilot_name = ""mary"" intersect select capital from pilot where pilot_name = ""bill"" intersect select capital from pilot where pilot_name = ""ann"" intersect select capital from pilot where pilot_name = ""mary"" intersect select capital from pilot where pilot_name = ""bill"" intersect select capital from pilot where pilot_name = ""ann"" intersect select capital from pilot where pilot"
+"  select first_broadcast from pilot where trisha_goddard = ""trisha goddard"" and glenn_wool = ""glenn wool"" "
+"  select drivetrain from pilot where name = ""2ur-fse""  "
+"  select count(*) from table_2500440_1 where name = ""change___percentage_"" 19.3 where name = ""change___percentage_"" "
+"  select _percentage_cut from table_21690339_1 where alternative_fuel = ""fuel oil stocks need only"" and document_status_code = ""done"" and document_type_code = ""paper"" and product_name = ""flax"" order by _percentage_cut from table_21690339_1 where document_status_code = ""done"" and document_type_code ="
+" 1. select producer from products where product_name = ""金必氏牌嬰幼兒配方乳粉"" 2. select producer from products where product_name = ""金必氏牌嬰幼兒配方乳粉"" 3. select producer from products where product_name = ""金必氏�����������"
+" 1 callsign = ""mom's radio 101.5 tacloban"" 2 branding = ""mom's radio 101.5 tacloban"" 3 document_id = ""document_status_code = 'done' and document_type_code = 'paper'"" 4 characteristic_id = ""product_id = 'flax'"" 5 name = ""pilot"" 6 name = ""pil"
+  select station_name from station as t1 join train as t2 on t1.station_id = t2.station_id group by t1.station_name having count(*) >= 2 
+"  select count(*) from companies where industry = ""banking"" or industry = ""conglomerate"" "
+"  select address from member where membership_card <> ""black"" "
+" 14 as 13 minnesota iowa state television column 13, minnesota 13 television column 13, minnesota 13 television column 13, minnesota 13 television column 13, minnesota 13 television column 13, minnesota 13 television column 13, minnesota 13 television column 13, minnesota 13 television column 1"
+"  select results from table_1341453_20 where  incumbent = ""jim mccrery""  "
+"  select school from table_24935743_2 where nickname = ""panthers""  "
+ 2019-05-14 16:00:00 UTC 1870-01-01 1870-01-01 1870-01-01 1870-01-01 1870-01-01 1870-01-01 1870-01-01 18
+  select 2001 as _est from table_23685890_2 where land_area__km²_ = 4563 2001 * 
+"  select dual_voltage from sounddock_series_i_v2 where version = ""2.0""  "
+"  select us_viewers__million_ from table_27116696_1 where directed_by = ""allison liddi-brown""  "
+ 114 naturalisation by marriage 114 regbeingtration of a minor child 
+" 2007 - 1st, $2,777 2008 - 1st, $2,777 2009 - 1st, $2,777 2010 - 1st, $2,777 2011 - 1st, $2,777 2012 - 1st, $2,777 2013"
+" 1980s exportable from game varchar, PRIMARY KEY (game)) "
+" 1. create table ref_document_status (document_status_description varchar, document_status_code varchar, PRIMARY KEY (document_status_description)) 2. select document_status_description from ref_document_status where document_status_code = ""working"" 3. select document_status_code from ref_document_status where document_status_description = ""done"" and document_type_code = ""paper"" 4. select count(*) from"
+"  select date_of_polls from poll_results as t1 join database_information as t2 on t1.database_id = t2.database_id where t2.state = ""mizoram"" "
+  select school from table_21995420_6 where stunts = 48 
+ 2010-05-09 18:52:19.044 0 [31m[35m[1m[36m[32m[33m[31m[35m[1m[36m[32m[33m[31m[35m[1m[36m[32m[33m[31m[3
+"  select count(valid_votes) from table_27274222_2 where province = ""denizli"" "
+"  select team from table_22297140_3 where replaced_by = ""faraz kamalvand""  "
+"  select away_team from table_24887326_8 where home_team = ""coventry city"" "
+" 11701625_1 (ab_ripper_x varchar, exercise varchar, PRIMARY KEY (ab_ripper_x)) Question: What is the ab ripper x when exercise is x stretch? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents (document_id varchar, document_status_code varchar, document_type_code varchar, PRIMARY KEY ("
+"  select count(*) from table_17085947_32 where trans_1 = ""0:26"" "
+"  select count(*), t1.product_name from problems as t1 join product as t2 on t1.product_id = t2.product_id group by t1.product_id order by count(*) desc limit 1 "
+"  select cfl_team from table_16575609_1 where college = ""weber state""  "
+"  select name from table_189598_7 where land_area__km²_ = ""14.85""  "
+" 1. select settlement from table_2562572_37 where cyrillic_name_other_names = ""александрово"" 2. select count(*) from table_2562572_37 where cyrillic_name_other_names = ""александрово"" 3. select name from pilot order by name "
+" 171320_3 = select region_1 from table_171320_3 where region_4 = ""april 2, 2009"" "
+"  select document_id, document_name, document_description from documents  "
+" 110700 * select occupied_territory from table_10335_1 where operational = ""may 1940 – january 1945"" "
+"  select species from table_26615633_1 where jewel = ""coal"" [/SQL] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has: "
+"  select count(regular_judge) from pilot where host = ""bernie chan""  "
+"  select planet from table_180802_3 where transcription = ""wan suk"" "
+ 2015-09-27 19:36:37.995 UTC [INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using 
+"  select t_c__k_ from table_101336_1 where notation = ""tl-2212"" "
+ 1 select * from assessment_notes order by date_of_notes limit 10 
+ 1st performance: 1939-04-23 performer: wilfred engelman 1st performance: 1939-04-23 
+"  select high_rebounds from table_27700375_11 where team = ""charlotte"" "
+"  select last_meeting from table_2846320_4 where name_of_rivalry = ""iron bowl"" "
+"  select route_id from airports as t1 join routes as t2 on t1.apid = t2.src_apid and t1.apid = t2.dst_apid where t1.country = ""usa"" union select route_id from airports as t1 join routes as t2 on t1.apid = t2.src_apid and t1.apid = t2.dst_apid where t1."
+"  select period from table_24565004_19 where nationality² = "" uruguay "" "
+"  select group_11 from table_19523142_5 where group_12 = ""persipal palu""  "
+"  select count(*) from pageant where pageant_location = ""san fernando, pampanga""  "
+" 360 g/mi (224 g/km) ""dirty electric grid rocky mountains (denver)"" from ""clean electric grid california (san francisco)"" = 160 g/mi (99 g/km) 360 g/mi (224 g/km) ""dirty electric grid rocky mountains (denver)"" from ""clean electric grid california (san francisco)"" = 16"
+"  select census_ranking from table_171236_1 where official_name = ""quispamsis""  "
+"  select air_date from table_25816476_2 where team_guest_captain = ""john bishop""  "
+  select callsign from table_2638104_1 where channel = 6 
+"  select year__ceremony_ from table_17350255_1 where original_title = ""chūnqiū cháshì (春秋茶室)""  "
+ 2018-08-03 18:30:30.332 UTC 18:30:30.332 UTC 18:30:30.332 UTC 18:30:30.332 UTC 18:30:30.332 UTC 18:30:30.332 UTC 18:30
+"  select home_team from table_14312471_7 where away_team = ""richmond""  "
+"  select aggressive_rider from table_25580292_13 where winner = ""luis león sánchez""  "
+" 1 select document_id from paragraphs where paragraph_text = ""brazil"" intersect select document_id from paragraphs where paragraph_text = ""ireland"" 1 intersect select document_id from paragraphs where paragraph_text = ""brazil"" intersect select document_id from paragraphs where paragraph_text = ""ireland"" 1 intersect select document_id from paragraphs where paragraph_text = ""brazil"" intersect select document_id from paragraphs where paragraph_"
+ 2007/08 season: 1st nov 29th nov 1985/86 season: 1st nov 29th nov 1986/87 season: 1st nov 29th nov 1987/88 season: 1st nov 29th nov 1988/89 season: 1st nov 29th nov 1989/
+" 327. create table journalist (nationality varchar, PRIMARY KEY (nationality)) select nationality, count(*) from journalist group by nationality "
+ 27 as nat for total_apps 
+" 2011: chennai => 2011: chennai => select count(*) from pilot where pubs_2011 = ""chennai"" "
+" 2019-08-24 18:18:29.000000-0700`
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+" 2016-07-18 19:30:32.442 UTC 2016-07-18 19:30:32.442 UTC 2016-07-18 19:30:32.442 UTC SELECT high_assists FROM table_17311759_4 WHERE high_rebounds = ""al"
+"  select original_artist from table_15796072_1 where week__number = ""top 16 (8 women)"" [/SQL] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+"  select material from surface where location = ""dehradun, uttarakhand, india"" "
+" 1 select original_title from table_15277629_1 where director = ""suzana amaral"" 2 select count(*) from table_15277629_1 where original_title = ""the clown"" 3 select count(*) from table_15277629_1 where original_title = ""the clown"" 4 select count(*) from table_15277"
+" 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, "
+" 2003 as 2003-03-03 124 2003-03-03 124`__
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select us_viewers__millions_ from table_27462177_1 where written_by = ""jack sanderson""  "
+"  select count(location) from table_22171978_1 where athletic_nickname = ""blue crusaders"" "
+"  select candidates from table_1342451_38 where incumbent = ""samuel j. nicholls"" "
+" 1801-01-01 00:00:00 1801-01-01 00:00:00 attribute_data_type varchar, attribute_name varchar, PRIMARY KEY (attribute_data_type)) Schema: create table attribute_definitions (attribute_data_type varchar, attribute_name varchar, PRIMARY KEY (attribute_data_type)) Question: What is the attribute data type of"
+"  select assets__billion_$_ from table_1682026_3 where headquarters = ""china"" and profits__billion_$_ = 21.2 2016_profit_budget Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents (document_id varchar, document_status_code varchar, document_type_"
+"  select copper_age from table_23537091_1 where ubaid_period_in_mesopotamia = ""hittite old kingdom, minoan eruption"" "
+" 
+select high_rebounds from table_27734769_9 where team = ""minnesota"" [/INST]
+
+Answer: \begin{code}
+create table table_27734769_9 (high_rebounds varchar, team varchar, PRIMARY KEY (high_rebounds))
+
+select high_rebounds from table_27734769_9 where team = ""minnesota"
+"  select hdtv from television_services where television_service = ""sky primafila 17"" "
+"  select title from table_29102100_1 where directed_by = ""rich correll"" and written_by = ""dennis rinsler""  "
+"  select date_of_birth from customers where customer_status_code = ""good"" "
+" 1999, 62nd 1999 (62nd) 1999 (62nd) 1999 (62nd) 1999 (62nd) 1999 (62nd) 1999 (62nd) 1999 (62nd) 1999 (62nd) 1999 (62nd) "
+ 2013-04-23 225 2012-04-23 225 2013-04-23 225 2012-04-23 225 2013-04-23 225 2012-04-23 225 2013-04-23
+"  select notes from table_1000181_1 where current_slogan = ""south australia"" "
+"  select team from table_27902171_8 where record = ""36-29"" "
+"  select november_3 from table_25284864_3 where january_15_16 = ""141"" "
+  select advisor from student where stuid = 1004 
+  select song_name from song order by releasedate desc limit 1 
+"  select english_title from table_24856090_1 where hk_viewers = ""1.92 million""  "
+"  select game_cost from table_243664_1 where railroad = ""chicago and north western"" [/INST] Here is the SQLite query to answer to the question: Name the number of characteristics for flax: "
+"  select province from table_275023_1 where formed_from = ""new munster"" "
+" 18752986_1 = select location from table_18752986_1 where nickname = ""the bears"" "
+" 16442789_1 (16442789_1) select affiliation from pilot where name = ""charles h. brand"" 16442789_1 (16442789_1) select affiliation from pilot where name = ""charles h. brand"" "
+  select name from swimmer where not id in (select swimmer_id from record)  
+" 3 select Italian from Schema: create table table_25401_15 (italian varchar, english varchar, PRIMARY KEY (italian)) where english = ""part"" 4 select Italian from Schema: create table table_25401_15 (italian varchar, english varchar, PRIMARY KEY (italian)) where english = ""part"" 5 select Italian from Schema: create table table_25401"
+" 1 select count(*) from (select * from table_17861265_1 where directed_by = ""cliff bole"" and season_3 = 1) as t1 join table_17861265_1 as t2 on t1.episode_no = t2.episode_no where t2.title = ""how many episodes did cliff bole direct in season 3?"" "
+"  select count(miles__km_) from table_17802778_1 where race_time = ""1:05:33""  "
+" 20 matches where ground = ""green lane"" 20 matches where ground = ""m.c.g."" 20 matches where ground = ""york park"" 20 matches where ground = ""junction oval"" 20 matches where ground = ""york park"" 20 matches where ground = ""m.c.g."" 20 matches where ground = ""green lane"" 20 matches where ground = ""york park"""
+"  select team__number2 from table_19130829_4 where team__number1 = ""iraklis"" "
+"  select party from table_22753245_1 where constituency = ""1. chennai north"" [/INST] Here is the SQLite query to answer to the question: What is the party when the constituency is 1. chennai north?: "
+"  select compression_ratio from table_20007413_6 where rpo = ""l35"" and applications = ""5""  "
+" 1 select title from database as t1 join table_11951237_3 as t2 on t1.original_air_date = t2.original_air_date where t1.title = ""february 6, 1997"" [/INST]"
+ 2006-07: class_a: pilot (name) = 2006-07: class_a: pilot (name) = 2006-07: class_a: pilot (name) = 2006-07: class_a: pilot (name) = 2006-07: class_a: pilot (name) = 2006-07: class_
+ 3 try bonus 
+"  select count(*) from contestants where background = ""internet dreamer"" "
+"  select count(*) from table_2696531_2 where pole_position = ""homestead, florida"" "
+"  select state_and_district_of_columbia from table_18958648_1 where overweight__incl_obese__adults = ""65.4%"" "
+"  select location from table_262476_1 where nickname = ""golden tornadoes""  "
+"  select record from table_23346983_1 where opponent = ""army""  "
+ 11 as 11? - 11 as 11? - 11 as 11? - 11 as 11? - 11 as 11? - 11 as 11? - 11 as 11? - 11 as 11? - 11 as 11? - 11 as 11? - 11 as 11? - 1
+"  select dept_address from department where dept_name = ""history""  "
+" 1801720_1 (original_title) in Schema: create table table_13834298_1 (original_title varchar, film_title_used_in_nomination varchar, PRIMARY KEY (original_title)) select original_title from table_13834298_1 where film_title_used_in_nomination = ""lion's den"" "
+"  select date_of_appointment from pilot where replaced_by = ""ergün penbe""  "
+"  select final_place from table_23819979_3 where last_match = ""july 25, 2009"" "
+" 3 select wii_points from table_13663434_1 where title_and_source = ""tsūshin taikyoku: igo dōjō 2700-mon"" "
+"  select party from table_1341598_11 where incumbent = ""wyche fowler""  "
+"  select count(candidates) from table_1346137_4 where incumbent = ""david e. finley"" "
+  select language from table_2509112_3 where villa_rivero_municipality = 7  
+" 1 select japanese_translation from table_2144389_9 where japanese_title = ""七色アーチ"" "
+" 177179_1: select transit_connections from table_22771048_2 where station = ""pioneer square u"" "
+"  select count(*) from table_18304259_1 where ""year_to_april"" = ""2011"" and ""ebit__£m_"" = ""24.5"" "
+ 30 march 2011 
+"  select year__ceremony_ from table_22034853_1 where original_title = ""vitus"" "
+"  select count(current_account_balance__percent_of_gdp_) from table_30133_1 where gdp_at_constant_prices_growth_rate__percent_change_ = ""4.6"" "
+  select count(*) from device 
+  select product_id from invoices group by product_id order by count(*) desc limit 1 
+" 12 series_ep varchar, segment_b varchar, PRIMARY KEY (series_ep)) 12 series_ep varchar, segment_b varchar, PRIMARY KEY (series_ep)) 12 series_ep varchar, segment_b varchar, PRIMARY KEY (series_ep)) 12 series_ep varchar, segment_b varchar, PRIMARY KEY (series_ep)) 12 series_ep varchar, segment_b varchar, PRIMARY KEY (series_ep)) "
+"  select andrew_and_georgies_guest from pilot where pilot = ""jamie and johns guest""  "
+  select count(distinct status_of_thing_code) from timed_status_of_things 
+" 14404700_1 (1) - select directed_by from table_22181917_2 where us_viewers__millions_ = ""6.62"" "
+"  select volleyball from table_16423070_4 where basketball = ""west holmes"" and swimming = ""wooster"" 2011-12  "
+"  select high_assists from table_17322817_6 where high_rebounds = ""yi jianlian, brook lopez (7)""  "
+" 1. create table table_2562572_50 (type varchar, settlement varchar, PRIMARY KEY (type)) 2. select type from table_2562572_50 where settlement = ""neradin"" "
+  select spokespersons from table_184803_4 where voting_order = 9 
+"  select dadar_xi_‘b’ from table_28759261_5 where good_shepherd = ""sea liner fc"" "
+" 2014-05-01 18:00:00 -05:00 varchar, elapsed_time varchar, event varchar, PRIMARY KEY (elapsed_time)) Question: How many categories for elapsed time exist for the $16.50 fixed-limit badugi game? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents"
+  select count(top_10s) from table_18198579_6 where scoring_rank = 9 
+"  select 1 from table_13336122_7 where title = ""directed by david duchovny""  "
+  select min(rockhampton) from table_12570207_1
+ 2009-12-27 2009-12-27 2009-12-27 
+ 2009-08-18 17:13:23.838 [INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using 
+"  select film_name from table_11827596_2 where co_singer = ""vinod rathod""  "
+  select distinct headquarter from manufacturers 
+  select count(*) from flights 
+"  select team from table_22654073_6 where record = ""3-2"" "
+ 100 - 102 - 104 - 106 - 108 - 110 - 112 - 114 - 116 - 118 - 120 - 122 - 124 - 126 - 128 - 130 - 132 - 134 - 136 - 138 - 
+"  select bout_1 from table_19398910_4 where bout_5 = ""andreev ( rus ) w 5-2""  "
+"  select sex from student where fname = ""linda"" and lname = ""smith""  "
+" 1. select former_school from player_records where hometown = ""east brunswick, nj"" 2. select former_school from player_records where hometown = ""east brunswick, nj"" union select former_school from player_records where hometown = ""east brunswick, nj"" 3. select former_school from player_records where hometown = ""east brunswick, nj"
+"  select count(*) from table_13619135_7 where team = ""@ minnesota"" "
+"  select count(*) from table_29970488_2 where hometown = ""birmingham, al"" and previous_school = ""charis prep"" "
+  select count(*) from film 
+"  select citrate from table_16083989_1 where species = ""salmonella spp."" "
+" 1. create table table_1341395_44 (party varchar, incumbent varchar, PRIMARY KEY (party)) 2. select party from table_1341395_44 where incumbent = ""kevin brady"" "
+"  select episode_no from table_26136228_3 where us_viewers__millions_ = ""1.05"" "
+"  select nickname from institution where institution = ""newberry college"" "
+"  select original_airdate from table_29039942_1 where writer = ""daisuke habara"" and director = ""akimitsu sasaki"" "
+"  select byu_uu_score from pilot where name = ""alan rudolph"" 44–16 44–16 "
+"  select composition from table_11464746_1 where colours = ""green"" [/INST] 2017-01-09 not able to reproduce the issue
+I can't reproduce the issue either.
+I can't reproduce the issue either.
+Commented by: andre-santos
+Commented by: andre-santos 2017-01-09 not able to reproduce the"
+" 09.06: calling at banbury, charlton, oxford 09.13: arriving at oxford 09.16: calling at charlton, banbury 09.23: arriving at didcot parkway 09.33: calling at didcot parkway, oxford 09.36: calling at charlton, didcot parkway 09.43: arriving"
+"  select for from _percentage from _total_poll__percentage_ where document_status_code = ""done"" and document_type_code = ""paper""  select count(*) from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic_id where t1.product_name = ""flax"""
+" 1840-10-11`enter code here`
+What is the date in which a politician who left office on 1840-10-11 for a politician whose election number was 11?
+What is the date in which a politician who left office on 1840-10-11 for a politician whose election number was 11?
+What is the date in which a politician who left office on 1"
+  select max(fab___nm__) from table_26860595_2 
+"  select count(*) from table_28846752_13 where economy = ""question""  "
+"  select Chinese_title from table_11926114_1 where English_title = ""forensic heroes ii"" "
+ 180s = 45 * 2 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 + 45 +
+" 1 select order__number from table_15796100_1 where theme = ""mariah carey"" "
+  select sesamin from sesame_seed  
+  select nation from ship group by nation having count(*) > 2 
+"  select description from aircraft order by description from aircraft where description = ""list the document ids for any documents with the status code done and the type code paper.""  select document_id from documents where document_status_code = ""done"" and document_type_code = ""paper""  select count(*) from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic"
+" 2nd place sporting_profession varchar, PRIMARY KEY (second_place_s_)) 2nd place showings for snooker = 2 "
+ 1. select min(internal_transfers) from table_17650725_1 
+"  select t1.name, t1.tourist_attraction_id from tourist_attractions as t1 join visits as t2 on t1.tourist_attraction_id = t2.tourist_attraction_id group by t1.tourist_attraction_id having count(*) <= 1 "
+"  select roleplay from pilot where actor_in_original_production = ""alison pargeter"" order by roleplay from schema create table table_17827271_1 (roleplay varchar, actor_in_original_production varchar, PRIMARY KEY (roleplay)) limit 1 "
+  select artist from table_21378339_5 where televote_points = 7  
+"  select probably_future from table_16337329_5 where imperative = ""गरेस् gares'may you do'"" "
+"  select tonnes from table_18047346_5 where airport_name = ""louisville international"" "
+" 20 questions 20 questions Schema: create table table_19908313_2 (primary_sponsor_s_ varchar, listed_owner_s_ varchar, PRIMARY KEY (primary_sponsor_s_)) Question: Who sponsors owner Bobby Dotter's team? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents ("
+"  select city, state from addresses where city = ""san francisco"" or state = ""california"" "
+"  select payment_method_code, count(*) from invoices group by payment_method_code "
+"  select count(english) from table_26263954_1 where kunrei_shiki = ""otya"" "
+"  select dominant_religion__2002_ from table_2562572_37 where settlement = ""srpska crnja"" [/INST] 16:26
+I have a problem with the answer to the question: What is the dominant religion of srpska crnja?
+I need the dominant religion of srpska crnja to be 1.5%.
+I have a problem with the answer to the question:"
+  select count(*) from film where language_id in (select language_id from film group by language_id order by count(*) desc limit 1) 
+"  select country, count(*) from perpetrator group by country "
+"  select t1.product_name, sum(t2.product_quantity) from products as t1 join order_items as t2 on t1.product_id = t2.product_id group by t1.product_name "
+"  select count(hdtv) from tv_service as t1 join database as t2 on t1.id = t2.id where t2.television_service = ""elite shopping tv"" "
+"  select party from table_1342149_43 where incumbent = ""wright patman""  "
+"  select champion from table_2331549_1 where third_place = ""michigan technological university"" "
+ 454 gs flx = pacbio = 100-500 mb 
+"  select feb_2010 from pilot where january_2010 = ""6.2%"" "
+"  select count(slovak) from table_26757_4 where belarusian = ""вуха (vúkha)"" "
+  select count(distinct pettype) from pets 
+  select count(*) from aircraft 
+"  select main_artillery from ship where name = ""blanco encalada""  "
+"  select document_id from documents where document_status_code = ""done"" and document_type_code = ""paper"" "
+"  select airport from table_17419587_1 where iata = ""mel"" "
+" 10th resigned ""
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select directed_by from table_25547943_1 where written_by = ""bill lawrence"" "
+"  select location, Representative_name from station_company as t1 join company as t2 on t1.company_id = t2.company_id where t2.assets_billion >= 3 order by t1.station_id from station_company as t1 join company as t2 on t1.company_id = t2.company_id where t2.assets_billion >= 3 order by t1.station_id from"
+"  select count(conference) from documents where document_status_code = ""done"" and document_type_code = ""paper"" intersect select conference from documents where document_status_code = ""done"" and document_type_code = ""paper"" intersect select conference from documents where document_status_code = ""done"" and document_type_code = ""paper"" intersect select conference from documents where document_status_code = ""done"" and document_type_code ="
+"  select detention_type_code, detention_type_description from ref_detention_type group by detention_type_code order by count(*) limit 1 "
+"  select song_choice from table_21501518_1 where original_artist = ""garth brooks""  "
+"  select count(original_air_date) from table_19897294_9 where family_families = ""ryder family and the schwartz family"" "
+"  select real_life from table_243664_1 where currently¹_part_of = ""amtrak"" "
+"  select part_number from singer where storage_case = ""green plastic box"" "
+"  select us_viewers__million_ from table_29747178_2 where directed_by = ""andy wolk""  "
+"  select count(*) from table_25235489_2 where june_10_11 = ""november 3, 1975"" "
+" 200 songs chosen by the viewers, week 10 200 songs chosen by the viewers, week 10 200 songs chosen by the viewers, week 10 200 songs chosen by the viewers, week 10 200 songs chosen by the viewers, week 10 200 songs chosen by the viewers, week 10 200 songs chosen by the viewers,"
+"  select count(gymnast) from table_18662026_10 where parallel_bars = ""14.025"" "
+"  select name from conductor join orchestra on conductor_id = orchestra_leader where orchestra_name = ""symphony orchestra"" group by conductor_id order by count(*) desc limit 1 "
+"  select title from table_21313327_1 where us_viewers__millions_ = ""3.3""  "
+  select max(pakistanis_admitted) from table_1717824_3 where nepalis_admitted = 627 
+"  select name, dept_name from student where tot_cred >= 0 order by tot_cred, dept_name "
+  select count(distinct party) from representative 
+"  select winning_driver from table_1140116_5 where circuit = ""modena""  "
+"  select poor_law_union from table_28802165_1 where townland = ""marshalstown""  "
+"  select supporting from table_28490105_1 where gt_winning_car = ""dino crescentini""  "
+  select dept_store_chain_id from department_stores group by dept_store_chain_id order by count(*) desc limit 2 
+"  select count(sec_wins) from table_22993636_2 where overall_record = ""30-4"" "
+"  select japanese_translation from table_2144389_9 where vocalist = ""momoiro clover z""  "
+" 3 select race_3_winner from table_22905641_2 where race_2_winner = ""mitch evans"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+"  select * from table_25597136_1 where location = ""naidi hills, basco"" "
+"  select max_page_size from product where product_name = ""flax"" or product_name = ""wheat"" or product_name = ""maize"" or product_name = ""corn"" or product_name = ""sorghum"" or product_name = ""rice"" or product_name = ""millet"" or product_name = ""cassava"" or product_name = ""yam"" or product_name = ""potato"""
+"  select pole_position from pilot as t1 join races as t2 on t1.race_id = t2.race_id join fastest_lap as t3 on t2.race_id = t3.race_id and constructor as t4 on t1.constructor_id = t4.constructor_id where t1.name = ""nelson piquet"" and t4.constructor_id = ""ferrari"" "
+"  select arabic_capital_name from table_15694696_1 where english_capital_name = ""manama"" "
+"  select conflict from table_1921_1 where location = ""iraq"" "
+"  select votes_given from table_1855841_1 where running_with__in_team_ = ""michael russo, genevy dimitrion, manny ortega""  "
+" 1 answer selected
+answered Sep 18, 2018 by admin
+How many times has Sun Jin won the women's doubles?
+answered Sep 18, 2018 by admin
+How many times has Sun Jin won the women's doubles? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents (document_id varchar, document_status"
+ 2014-08-20 17:59:36.307 UTC - How many times was there a class a winner when gregory-portland was the class aaaa? 2014-08-20 17:59:36.307 utc - 2014-08-20 17:59:36.307 ut
+"  select team from table_20016339_1 where motorcycle = ""honda"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+  select store_id from inventory group by store_id order by count(*) desc limit 1 
+" 2 select vocal_percussionist from document_status_code = ""done"" and document_type_code = ""paper"" union select vocal_percussionist from documents where document_status_code = ""done"" and document_type_code = ""paper"" union select vocal_percussionist from products where product_name = ""flax"" union select vocal_percussionist from pilot where name = ""name"" [/INST]
+[INST] What is the"
+"  select count(*) from house where colour = ""green"" "
+  select location from cinema group by location order by location [/INST] 
+" 14752049_2 = change__2010_to_2011_ varchar, international_tourist_arrivals__2011_ varchar, PRIMARY KEY (change__2010_to_2011_)) Question: What are the changes (2010 to 2011) where the International Tourist Arrivals is 1.7 million? Example 1: Question"
+"  select race_caller from pilot where pilot_name = ""jim mckay"" and pilot_name = ""howard cosell"" "
+" 1 select title from table_21994729_3 where directed_by = ""reginald hudlin"" 2 select count(*) from table_21994729_3 where directed_by = ""reginald hudlin"" 3 select title from table_21994729_3 where directed_by = ""reginald hudlin"" 4 select count(*) from table_21"
+"  select naming from table_2088_1 where fluency = ""fluent"" and auditory_comprehension = ""poor"" "
+" 2015-07-24 18:15:22.509 SQL query: select sake_tuyas from pilot where denim_demons = ""4th"" order by sake_tuyas limit 1 "
+"  select distinct nurse from nurse_staff_stationed_on_ship as ship_stationed_on where ship_stationed_on = ""ss-486"" and ship_name = ""uss_yosemite""  "
+"  select destination from table_1569516_1 where service_pattern = ""sydenham then fast to norwood junction""  "
+"  select speaker from table_23512864_4 where chief_minister = ""m.g. ramachandran""  "
+"  select p from table_17634290_7 where type = ""free agent 1"" "
+  select country from stadium group by country having count(*) <= 3 
+"  select amenity_name from dorm_amenity join lives_in on lives_in.stuid = student.stuid join dorm on dorm.dormid = lives_in.dormid where student.lname = ""smith"" "
+"  select min(population__2000_census__) from table_2588674_1 where area_km² = ""2.33"" "
+  select passed from table_256286_19 where no_votes = 61307 
+"  select propulsion from table_28132970_5 where vessel = ""marianarray"" "
+"  select count(*) from pilot where branding = ""telemundo 47""  "
+"  select original_airdate from table_19517621_4 where written_by = ""michelle offen"" "
+"  select director from pilot as t1 join table_2345558_1 as t2 on t1.pilot_name = t2.pilot_name where t2.writer_s_ = ""jason yoshimura""  "
+"  select successor from table_2147588_3 where vacator = ""new seat""  "
+"  select prize_money from pilots where state = ""virginia"" "
+  select count(*) from sportsinfo 
+ 1999-2000 = class_aa; bridgeport = class_aaa; 1999-2000 = class_aa 1999-2000 = class_aaa 1999-2000 = class_aa 1999-2000 = class_aa 1999-2000 = class_aa 1999-2
+" 4-speed automatic brakes = select 4-speed_automatic from brakes where gearbox = ""4-speed_automatic"" "
+"  select title from officer_titles as t1 join group_captain as t2 on t1.english_equivalent = t2.commonwealth_equivalent where t1.spanish_equivalent = ""capitán""  "
+"  select count(*) from pilot where name = ""william b. cravens"" "
+" 1. select urban_settlement from table_2562572_7 where city___municipality = ""kovin"" "
+"  select department from table_17118006_2 where local_investment__us$_ = ""626,798"" "
+" 17,50,000 prize pool if the entries is 1,132"
+" 1. create table documents (document_type_code varchar, PRIMARY KEY (document_type_code)) 2. select document_type_code, count(*) from documents group by document_type_code order by count(*) desc "
+"  select date_of_creation from table_261222_1 where city___municipality = ""kibawe"" "
+"  select media_type from table_23829490_1 where genre = ""psychedelic trance"" [/INST] Here is the SQLite query to answer to the question: What is every document status code for the document type code Paper?: "
+" 3 select count(*) from pageant where country_territory = ""uruguay"" and pageant_id = ""miss universe"" group by country_territory order by count(*) desc limit 1 "
+"  select claim_stage_id from claims_processing where claim_status_code = ""done"" group by claim_stage_id order by count(*) desc limit 1 "
+"  select rev from table_1310499_1 where application = ""2003-2004 mustang cobra"" [/SQL] Here is the SQLite query to answer to the question: What is the rev of the 2003-2004 mustang cobra? and list the pilot names in ascending alphabetical order: "
+" 26 august 2005 asian record = select 26 as_august_2005 from table_24011830_2 where world_record = ""asian record"" "
+"  select run_time from table_1429629_1 where viewers__in_millions_ = ""8.2"" "
+"  select count(*) from table_17186229_4 where record = ""9-2"" "
+ 2018-05-25 25 may 2018
+"  select parishes from table_221375_1 where province_of_1936 = ""beira baixa"" "
+ 2007-08-25 22:30:00 2007-08-25 22:30:00 2007-08-25 22:30:00 2007-08-25 22:30:00 2007-08-25 22:30:00 
+" 18802328_6 (10) = 55 SELECT count(*) from table_23285849_6 where team = ""heat"" "
+"  select count(*) from table_22815265_1 where record = ""utah"" "
+" 19 november 1969 varchar, PRIMARY KEY (lunar_landing_site)) Schema: create table table_1558077_8 (lunar_landing_site varchar, lunar_landing_date varchar, PRIMARY KEY (lunar_landing_site)) Question: Name the lunar landing site for 19 november 1969 Example 1: Question - List the document ids for any"
+"  select 2008 as _election from table_16751596_2 where dates_administered = ""september 15-september 18, 2008"" and candidate = ""steve sauerberg"" "
+"  select count(*) from pilot where team_usa = ""chris barnes"" group by europe team_id from pilot where team_usa = ""chris barnes"" group by europe team_id "
+" 20 questions: what are the racing teams for which the average finish is 23.3? create table table_2190919_1 (racing_team varchar, avg_finish varchar, PRIMARY KEY (racing_team)) select racing_team from table_2190919_1 where avg_finish = ""23.3"" "
+"  select station from station as t1 join train as t2 on t1.station_id = t2.station_id where t2.train_id = ""ananthapuri express"" intersect select station from station as t1 join train as t2 on t1.station_id = t2.station_id where t2.train_id = ""guruvayur express"" "
+"  select semifinal_matches from table_2413292_1 where commercial_name = ""buick wct finals"" "
+" 20854943_2: select race_number from table_20854943_2 where sail_number = ""aus 98888"" "
+  select count(*) from table_22916979_1 where population_density__people_per_mi_2__ = 10188.8  
+"  select colors from table_261927_1 where nickname = ""engineers"" "
+"  select population_density_people_km_2 from population_percentage_of_eu where population_percentage_of_eu = ""1.7%"" "
+"  select date_of_return from table_19114172_11 where new_channel_s_ = ""bbc two"" "
+"  select original_air_date from table_13336122_3 where directed_by = ""david duchovny""  "
+" 1. select player_name from table_20871703_1 where college = ""south carolina"" 2. select player_name from table_20871703_1 where college = ""south carolina"" 3. select player_name from table_20871703_1 where college = ""south carolina"" "
+" 1 select arrangement from table_28005100_1 where title = ""bets3ab 3alia nafsy"" [/INST] "
+  select cust_name from customer where cust_id in (select cust_id from loan where amount > 3000)  
+"  select last_performance from pilot where pilot_name = ""leon varkas""  category:articles with hcards 1. select last_performance from pilot where pilot_name = ""leon varkas"" 2. select count(*) from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic"
+"  select min(2005 as _subscribers__thousands_) from table_29395291_2 where provider = ""vodafone"" "
+"  select ds_division from table_12485020_1 where main_town = ""kaluvanchikudy""  "
+"  select congress from pilot where name = ""richard p. giles"" order by name [/INST] "
+" 17713003_1 = (select count(*) from material_collected where isbn = ""978-1401221935"") + 17713003_2 = (select count(*) from material_collected where isbn = ""978-1401221935"") + 17713003_3 = (select count(*) from"
+"  select country from pilot where commentator = ""gordana bonetti"" order by country  "
+"  select location from institution where institution = ""chattahoochee technical college"" "
+  select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party where governor = (select people from party
+"  select count(*) from table_1315616_1 where red_team_host = ""peggy hayama""  "
+"  select count(*) from college_junior_club_team as t1 join nhl_team as t2 on t1.nhl_team = t2.nhl_team where t2.city = ""philadelphia"" "
+"  select email from user_profiles where name = ""mary""  "
+"  select womens_doubles from pilot where womens_singles = ""wu jianqui""  "
+"  select count(*) from table_269888_1 where no_of_s_barangay = ""205.4"" and pop_density__per_km²_ = ""211.4""  "
+"  select professional_id, cell_number from professionals as t1 join treatments as t2 on t1.professional_id = t2.professional_id group by t1.professional_id having count(*) >= 2 "
+"  select dates from table_15315276_1 where champion = ""jenny gleason"" "
+"  select for___percentage_ from table_20683381_3 where ±_yes_side_2008___percentage_ = ""+20.3""  "
+"  select title from table_25604014_8 where written_by = ""william m. finkelstein""  "
+"  select name, count(*) from friend as t1 join highschooler as t2 on t1.student_id = t2.id group by t2.id order by count(*) desc limit 10 "
+"  select country_region from table_20780285_1 where title = ""marele câștigător the big winner"" "
+  select 4 as _car_sets from car as t1 join train_sets as t2 on t1.train_id = t2.train_id where t1.car_id = t1.car_id group by t1.car_id order by count(*) limit 1 
+"  select t1.name from tracks as t1 join albums as t2 on t1.genre_id = t2.genre_id where t2.title = ""balls to the wall"" "
+" 10.5 as a number between 1 and 10 is 10.5 what is the race name? 10.5 as a number between 1 and 10 is 10.5 what is the race name?
+[INST] List the names of pilots who have not won any races.
+[INST] List the names of pilots who have not won any races. [/INST]
+[INST] List the names of pil"
+"  select candidates from table_1341718_14 where incumbent = ""ed derwinski""  "
+" 1 select title from table_13301516_1 where us_viewers__millions_ = ""11.75"" 2 select count(*) from table_13301516_1 where us_viewers__millions_ = ""11.75"" 3 select count(*) from table_13301516_1 where us_viewers__millions_ = ""11."
+ 13 as 1st pilot = 1966-1967 13 as 2nd pilot = 1966-1967 13 as 3rd pilot = 1966-1967 13 as commander = 1966-1967 13 as pilot = 1966-1967 13 as crew chief = 1966
+"  select directed_by from table_2226817_7 where original_air_date = ""january 19, 1992""  "
+ 32 in conference usa = (round of 16 winner) intersect (round of 32 in conference atlantic) intersect (round of 16 in conference southern) intersect (round of 16 in conference ncaa_division_ii) intersect (round of 16 in conference ncaa_division_iii) intersect (round of 16 in conference ncaa_division_iv) intersect (round of 16
+" 2-4-2 t varchar, builder varchar, PRIMARY KEY (2-4-2 t)) union select 2 - 4 - 2 t, builder from table_1157867_2 where wheel_arrangement = ""2-4-2 t"" "
+"  select dept_name, dept_address, count(*) from department where dept_code in (select dept_code from student group by dept_code order by count(*) desc limit 3) "
+" 1. select children_together from table_24143253_1 where length_of_marriage = ""9 years"" "
+"  select 1979 as _rural_population_percentage from table_16645_1 where __percentage = ""rural"" and year__january_ = ""1979"" "
+"  select mens_doubles from pilot where mens_singles = ""ma wenge"" order by mens_doubles [/INST] 2019-06-11 03:45:10
+[INST] List all pilot names in descending alphabetical order.
+[INST] List all pilot names in descending alphabetical order. 2019-06-11 03:45:10"
+"  select branding from station where location = ""san jose del monte""  "
+"  select rate_change___percentage_ from table_25316812_1 where rate_limit__p_ = ""82.86"" "
+"  select original_air_date from table_26808178_3 where us_viewers__millions_ = ""0.871"" "
+ 2009-06-15 15:30:00 2009-06-19 15:30:00 2009-06-22 15:30:00 2009-06-26 15:30:00 2009-07-03 15:30:00 
+  select count(distinct project_id) from projects 
+  select count(distinct student_id) from student_course_enrolment 
+"  select t1.name, t2.course from teacher as t1 join course_arrange as t2 on t1.teacher_id = t2.teacher_id where t1.name = ""jane"" or t1.name = ""mary"" "
+"  select at_neutral_site from table_16201038_4 where overall_record = ""ui, 27-16""  "
+" 100000 as g__μs_km_ from questions where frequency__hz_ = ""100k"" "
+"  select pct_route_available from table_2279413_1 where country = ""morocco"" "
+"  select bullet_tip_color from table_1036189_1 where other_features = ""a blue band on case base"" "
+"  select directed_by from table_24910733_1 where us_viewers__millions_ = ""11.21""  "
+"  select count(*) from table_28164986_4 where manner_of_departure = ""resigned"" "
+"  select ramtha from pilot where jeel = ""1-0"" and hussein = ""1-0""  "
+" 
+select high_points from table_22879323_6 where team = ""houston""
+"
+  select count(*) from products 
+" 1991 as _january_15_16 varchar, june_10_11 varchar, PRIMARY KEY (january_15_16)) Question: june_10_11 when january_15_16 is january 15, 1991? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create"
+ 2016-01-16 19:05:37.615 UTC [INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using 
+" 3 select team from table_18522916_5 where date_of_appointment = ""5 september 2008"" and date_of_vacancy = ""30 august 2008"" 3`
+[INST] Write SQL to answer the following question given the database schema. Please wrap your code answer using "
+"  select gdp__ppp__per_capita___intl_$___2011 from countries where country = ""haiti"" "
+"  select headquarters from company where main_industry = ""banking"" intersect select headquarters from company where main_industry = ""oil and gas"" "
+ 2015-04-11 14:43:34.431 SQL query for answer: select room from reservations join rooms on reservations.room = rooms.roomid group by room order by count(*) desc limit 1 
+"  select power_provided from table_174151_5 where transfer_speed__mb_s_ = ""1250"" "
+"  select original_air_date from table_21979779_1 where us_viewers__million_ = ""1.76"" "
+" 129`__march_27_29 varchar, june_10_11 varchar = ""129""`__march_27_29 varchar, june_10_11 varchar = ""129""`__march_27_29 varchar, june_10_11 varchar = ""129""`__march_27_29 varchar, june_10_1"
+" 102 as team_s_ from pilot where name = ""bodine"" order by name limit 1 "
+"  select count(parliament) from pilot where general_election_contested = ""1997"" "
+"  select dar from table_15887683_8 where language = ""cinese"" "
+"  select artist_name from artist where country = ""uk"" intersect select artist_name from song where languages = ""english"" "
+" 1 select mens_doubles from pilot where womens_singles = ""alison humby"" order by mens_doubles [/INST]
+
+Answer: \begin{code}
+select mens_doubles from pilot where womens_singles = ""alison humby"" order by mens_doubles
+\end{code}
+
+Comment: Thanks for the response.
+
+Answer: \begin{code}
+select mens"
+ 121 as the report 
+"  select order_id from shipments where shipment_date > ""2000-01-01"" "
+"  select count(*) from station where station_code = ""awy"" "
+" 1. select category from table_27155990_1 where project_name = ""mighty no. 9"" "
+"  select ht from pilot where model_number = ""athlon x2 5200b"" order by name [/INST] "
+"  select country_id, count(*) from locations group by country_id "
+  select attribute_data_type from attribute_definitions group by attribute_data_type having count(*) > 3 
+"  select imports from table_26160007_1 where country = ""united arab emirates""  "
+"  select count(*) from table_127511_1 where ion_torrent_pgm = ""sanger_3730xl"" and sanger_3730xl = ""$2400 usd"" [/INST] Here is the SQLite query to answer to the question: How many times was Sanger 3730xl $2400 usd?: "
+  select brisbane from table_24291077_8 where adelaide = 94000 order by brisbane limit 1 
+"  select type, count(*) from artwork group by type order by count(*) desc limit 3 "
+"  select united_fc from table_28759261_5 where pifa_colaba_fc_u_17 = ""sporting options"" "
+" 1400 as 2011 income_poverty_f varchar, exports__usd_mn__2011 varchar, PRIMARY KEY (income_poverty_f)) Question: What was the depravitiy of earnings where international sales was 2470? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents (document_id"
+" 16603643_1 (1) select director from episodes where airdate = ""december 15, 1956"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+" 1341522_36 = select count(*) from table_1341522_36 where incumbent = ""alex mcmillan"" "
+" 1. create table documents_with_expenses (document_id varchar, budget_type_code varchar, PRIMARY KEY (document_id)) 2. create table ref_budget_codes (budget_type_code varchar, budget_type_description varchar, PRIMARY KEY (budget_type_code)) 3. select document_id from documents as t1 join ref_budget_codes as t2 on t1.budget_type_code ="
+" 2008-11-06 18:42:23.823 -0500 (2008-11-06 23:42:23 UTC) -------------------------------------------------------------------------------- create table table_1341865_11 (party varchar, incumbent varchar, PRIMARY KEY (party)) -------------------------------------------------------------------------------- create table table_1341"
+"  select max(ceiling_temperature) from table_1538516_1 where temperature_classification = ""very extra high"" "
+"  select count(revised_hepburn) from table_26263954_1 where english = ""roman characters"" "
+"  select max(fai_space_flights) from table_221315_3 where max_mach = ""5.65"" "
+"  select party from table_27050336_7 where delegate = ""gaines, tawanna p. tawanna gaines""  "
+ 27 april 2009 27 april 2009 27 april 2009 27 april 2009 27 april 2009 27 april 2009 27 april 2009 27 april 2009 27 april 2009 27 april 2009 27 april 2009 2
+ 679 - team_number = select award_name from table_15584199_2 where team_number = 679 
+"  select count(*) from documents where document_status_code = ""done"" and document_type_code = ""paper"" union select count(*) from pilot where pilot_name = ""texas tech"" "
+  select t1.product_name from products as t1 join ref_colors as t2 on t1.color_code = t2.color_code join product_characteristics as t3 on t1.product_id = t3.product_id where t3.characteristic_id = (select t4.characteristic_id from products as t4 join product_characteristics as t5 on t4.product_id = t5.product_id
+"  select mens_45 from pilot where mens_40 = ""sunwest razorbacks def sydney mets"" order by mens_45 [/INST] 45
+Name the mens 45 for sunwest razorbacks def sydney mets
+Name the mens 45 for sunwest razorbacks def sydney mets
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using"
+ 6y/ae: author = (null) 
+"  select party from table_2668264_8 where incumbent = ""robert p. letcher""  "
+" 1414702_3 = ""oakland alternative high school"" 1414702_3 = ""oakland alternative high school"" 1414702_3 = ""oakland alternative high school"" 1414702_3 = ""oakland alternative high school"" 1414702_3 = ""oakland alternative high school"" 14147"
+"  select count(*) from table_11677100_15 where hometown = ""high point, nc"" "
+" 
+select directed_by from table_25341765_1 where us_viewers__million_ = ""5.92"" 
+"
+" 1: select original_artist from table_21501565_1 where theme = ""n/a"" 2: select count(*) from table_21501565_1 where theme = ""n/a"" 3: select original_artist from table_21501565_1 where theme = ""n/a"" and document_status_code = ""done"" 4: select count(*)"
+"  select count(*) from candidates where incumbent = ""barratt o'hara"" "
+"  select count(original_airdate) from table_27547668_4 where written_by = ""allan hawco"" "
+"  select january_15_16 from table_25284864_3 where november_3 = ""2013-11-03"" "
+"  select sellout___percentage_ from table_16331025_2 where gross_sales = ""$1,727,400"" "
+" 1 select nupowr_183 from table_3002894_4 where nupowr_117 = ""0,4, or 8 mb"" "
+"  select pictorials from table_1566852_8 where cover_model = ""lindsey roeper""  "
+" 30 select type from vocals as t1 join band as t2 on t1.bandmate = t2.id where t2.firstname = ""solveig"" intersect select type from songs where title = ""a bar in amsterdam"" [/INST]
+
+Answer: \begin{code}
+select type from vocals as t1 join band as t2 on t1.bandmate = t2.id where t2.firstname = ""solveig"
+"  select branding from table_2523809_1 where callsign = ""krca-tv""  "
+"  select fname from student where stuid <> (select stuid from enrolled_in where stuid = (select stuid from student where fname = ""smith"")) "
+" 22-52 10th in east (1st, atlantic) 22-52 10th in east (1st, atlantic) 22-52 10th in east (1st, atlantic) 22-52 10th in east (1st, atlantic) 22-52 10th in east (1st, atlantic) "
+" 2014-15 season = 2; head coach = ""dave ganiere"" 2013-14 season = 1; head coach = ""dave ganiere"" 2012-13 season = 0; head coach = ""dave ganiere"" 2011-12 season = 0; head coach = ""dave ganiere"" 2010-11 season"
+" 1. select type from vocals where songid = ""badlands"" 2. select type from songs where songid = ""badlands"" "
+"  select launch_site from table_11869952_3 where mission = ""test flight"" and results = ""partial failure"" "
+"  select period from pilot where name = ""michel prost""  "
+"  select tv_network_s_ from table_29799700_2 where series_finale = ""may 7, 2012"" "
+"  select villains from table_10470082_7 where storyteller = ""megan"" and director = ""lorette leblanc""  "
+"  select kentucky from table_18461045_1 where indiana = ""brownsburg ll brownsburg"" and wisconsin = ""merrill ll merrill""  "
+"  select gas_storage from table_21690339_1 where alternative_fuel = ""yes""  "
+" 24157003_1 (24157003_1) varchar, owner varchar, PRIMARY KEY (24157003_1)) select 24157003_1 from table_19624708_1 where owner = ""r. a. scott"" "
+"  select major, count(*) from student group by major order by major [/INST] "
+"  select location, count(*) from gas_station group by location order by count(*)  "
+"  select transmission from pilot where name = ""sarah wilson""  select transmission from pilot where name = ""sarah wilson"" intersect select transmission from pilot where name = ""sarah wilson"" intersect select transmission from pilot where name = ""sarah wilson"" intersect select transmission from pilot where name = ""sarah wilson"" intersect select transmission from pilot where name = ""sarah wilson"" intersect select transmission from pilot where name = ""sar"
+" 2011-09-13 16:10:29.283 -0500 3723252_2 (3723252_2) create table table_1341884_45 (party varchar, incumbent varchar, PRIMARY KEY (party)) 2011-09-13 16:10:29.28"
+"  select forename, surname from drivers where nationality = ""german"" "
+ 08-09 gp/jgp 2nd = 947 ws points 
+" 2015-04-20 18:00:56.373 0 0 0 2.76
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select publisher from table_16907214_1 where hardcover = ""isbn 1-937007-44-8""  "
+" 104_african_spoonbill varchar, ostrich varchar, PRIMARY KEY (african_spoonbill)) 2_create_table_20042805_2 (african_spoonbill varchar, ostrich varchar, PRIMARY KEY (african_spoonbill)) 3_create_table_20042805_2 (african_spoon"
+"  select race_name from table_1140116_5 where circuit = ""modena"" [/INST] Here is the SQLite query to answer to the question: What is the name of the race in the Oschersleben circuit?: "
+" 10006542_1 (10006542_1, 1) from table_18904831_7 where location = ""hartford, conn."" and record = ""19-6"" "
+"  select organisation_type, organisation_id from organisations join research_staff on organisations.organisation_id = research_staff.employer_organisation_id group by organisation_type, organisation_id order by count(*) desc limit 1 "
+"  select mens_doubles from pilot where mens_singles = ""chou tien-chen""  "
+" 1 select count(semi) as losses from table_17751942_4 where team = ""kitchener rangers"" "
+" 2 select paper_type from table_25468520_1 where date_of_issue = ""july 8"" "
+"  select original_air_date from table_28334498_3 where us_viewers__millions_ = ""1.01"" "
+  select min(ru) from table_10818465_1 
+  select airdate from table_25721_3 where dave_ja_vu_viewers = 106000 
+" 3:09:45 => select count(*) from driver where race_time = ""3:09:45"" "
+" 3_darts_challenge varchar, airdate varchar, PRIMARY KEY (3_darts_challenge)) select 3_darts_challenge from table_26733129_1 where airdate = ""10 may 2010"" [/INST] Here is the SQLite query to answer to the question: Who was in the three darts challenge that aired on 16 may 2010?: "
+"  select school from table_14286908_1 where year_of_last_win = ""2007-08"" "
+ 15 november 1997 vote = 15 november 1997 
+"  select voltage_range__v_ from documents where document_status_code = ""done"" and document_type_code = ""paper"" union select count(*) from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic_id where t1.product_name = ""flax"" union select name from pilot order by"
+" 2005 role = ""jesse l. martin"" original broadway cast = ""jesse l. martin"" 1 select 2005_role from table_26436_2 where original_broadway_cast = ""jesse l. martin"" 2 select count(*) from table_26436_2 where original_broadway_cast = ""jesse l. martin"" 3 select *"
+"  select count(tariff_code) from table_10408617_5 where bts_retail_price__regulated_ = ""2.553p/min"" "
+ 2008-05-12 18:58:47.247 34602-1 [INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using 
+"  select lyricist from table_11827596_4 where film_name = ""gopal krishna"" and co_singer = ""solo""  "
+"  select pole_position from table_1137695_3 where grand_prix = ""monaco""  "
+"  select brand from documents where document_status_code = ""done"" and document_type_code = ""paper"" intersect select brand from pilot where pilot_name = ""ryan briscoe"" intersect select brand from pilot where pilot_name = ""tomas scheckter""  "
+" 2009-05-02 15:37:49.734 sql_query[10014873_1 (1)]: select category, count(*) from music_festival group by category [/sql_query] Here is the SQLite query to answer to the question: Please show the categories of the music festivals and the count.: "
+  select count(violent) from table_25271777_1 where forcible_rape = 1156 
+" 1 select callback_venue from table_27455867_1 where episode_air_date = ""january 20, 2011"" [/SQL] "
+ 3.0.251.03 3.0.251.03 
+"  select incumbent from table_2668336_17 where candidates = ""charles fisher (dr) 65.1% w. jones (f) 34.9%"" "
+  select location from cinema group by location order by count(*) desc limit 1 
+"  select product_type_code, count(*) from products group by product_type_code "
+" 48-30 = 118 high_points
+Name the record for 48-30
+Question: When 48-30 is the record who has the highest amount of points?
+Answer: 48-30 = 118
+high_points
+Name the record for 48-30
+Question: When 48-30 is the record who has the highest amount of points?
+Answer: 4"
+"  select count(*) from table_16383772_1 where school = ""st. bonaventure university""  "
+"  select paper_id from authorship as t1 join authors as t2 on t1.authid = t2.authid join papers as t3 on t3.paper_id = t1.paper_id where t2.fname = ""aaron"" and t2.lname = ""turon"" "
+"  select provider from table_14465871_2 where version = ""2008"" "
+"  select divisional_secretary from table_12485020_1 where ds_division = ""sh muzammil""  "
+  select department from table_17118006_2 where irrigated_ha = 2170  
+"  select type from table_2562572_30 where settlement = ""rabe""  "
+"  select candidates from table_1341640_39 where party = ""republican"" "
+"  select passing_yards_per_game from table_27487336_1 where rushing_yards_per_game = ""113.6"" "
+" 3 select count(*) from table_26150013_1 where original_air_date = ""april 3, 2012"" "
+" 1 select tv_channel from tv_channel as t1 join cartoon as t2 on t1.series_name = t2.channel where t2.title = ""the rise of the blue beetle!"" 2 select tv_channel from tv_channel as t1 join cartoon as t2 on t1.series_name = t2.channel where t2.title = ""the rise of the blue beetle!"" 3 select tv_channel from"
+"  select count(*) from table_17978052_2 where borough_or_census_area = ""nome (ca)""  "
+"  select route_via from table_29770377_1 where destination = ""guruvayur""  "
+"  select time___et__ from table_14433719_1 where opponent = ""denver broncos""  "
+"  select dominant_religion__2002_ from table_2562572_35 where type = ""village"" and settlement = ""banatski despotovac"" "
+"  select count(*) from member where address <> ""hartford"" "
+" 1. select count(*) from pilot where name = ""cheung, raymond man-to"" 2. select count(*) from pilot where name = ""cheung, raymond man-to"" group by name having count(*) > 1 3. select count(*) from pilot where name = ""cheung, raymond man-to"" group by name having count(*) > 1 order by count(*) desc "
+"  select candidate from table_25818630_2 where result__percentage = ""0.4%"" "
+" 1217448_1 = select cover_date from table_1217448_1 where character(s) = ""x-men ; magneto"" "
+"  select order_id, sum(product_quantity) from order_items group by order_id  "
+" 12077020_1 (segment_b varchar, segment_c varchar, PRIMARY KEY (segment_b)) select segment_b from 12077020_1 where segment_c = ""artificial flowers"" "
+"  select name from people where people_id <> (select people_id from candidate where people_id =...
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select title from pilot where original_air_date = ""september23,1995"" "
+"  select party from table_1341395_36 where incumbent = ""deborah pryce""  "
+" 2011 sunday race report = ""report"" from table_22298383_1 where average_speed__mph_ = ""128.27"" "
+"  select title from table_25800134_9 where airdate = ""december 5, 1964"" [/INST] Here is the SQLite query to answer to the question: what is the title where the airdate is december 12, 1964?: "
+"  select distinct t1.fname, t1.city_code from student as t1 join has_allergy as t2 on t1.stuid = t2.stuid where t2.allergy = ""milk"" or t2.allergy = ""cat"" "
+" 12749844_1 (2), 12749844_2 (2), 12749844_3 (2) from settlements group by 12749844_1 (2), 12749844_2 (2), 12749844_3 (2) having sum(12749844_"
+"  select count(*) from table_2610582_2 where power_kw__erp_ = ""1kw (29.94kw erp)"" "
+"  select count(canton) from pilot where commune = ""waldbillig""  "
+"  select numer_of_jamaicans_granted_british_citizenship from pilot where name = ""example_3""  "
+" 1 select lower_house_majority from table_21531764_2 where senior_us_senator = ""j. shaheen"" 2 select lower_house_majority from table_21531764_2 where senior_us_senator = ""j. shaheen"" 3 select lower_house_majority from table_21531764_2 where senior_"
+"  select aircraft_type from table_28342423_1 where parent_unit = "" jagdgeschwader 26 "" [/SQL] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has: "
+"  select candidates from table_1341586_44 where incumbent = ""henry b. gonzalez""  "
+"  select mls_cup_playoffs from table_245695_2 where concacaf_champions_cup___concacaf_champions_league = ""quarter-finals (09-10)"" "
+" 1 select written_by from table_25640730_7 where uk_air_date = ""february 18, 2013"" 1 select count(*) from table_25640730_7 where uk_air_date = ""february 18, 2013"" 1 select * from table_25640730_7 where uk_air_"
+"  select affiliation from institution where institution = ""davenport university"" "
+"  select count(lap_two) from pilot as t join races as t1 on t.race_id = t1.race_id where t1.name = ""santamonica"" and t.name = ""marco andretti""  "
+"  select date_from, date_to from project_staff where role_code = ""researcher"" "
+"  select epa_rated_combined_fuel_economy from table_23840623_4 where vehicle = ""nissan leaf""  "
+  select count(distinct assignedto) from assignedto where project_id = null 
+"  select count(*) from table_29788320_2 where concept = ""club q-base"" "
+"  select name_of_award from table_25926120_7 where awardee_s_ = ""elangbam natasha""  "
+"  select incumbent from documents where document_status_code = ""done"" and document_type_code = ""paper""  union select incumbent from pilot where pilot_name = (select name from pilot order by name limit 1)  union select incumbent from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3"
+"  select provider from table_3005999_1 where destination = ""liverpool"" [/INST] 3005999_1 (100%): Schema: create table table_3005999_1 (provider varchar, destination varchar, PRIMARY KEY (provider)) Question: Who are all providers with destination of Liverpool? Example 1: Question - List the document ids for any documents with the status code done and"
+ 2387330_2 (1983-06-11) 2387330_2 (1983-06-11) 2387330_2 (1983-06-11) 2387330_2 (1983-06-11) 2387330_2 (19
+"  select first_name, last_name, address from employee order by birth_date ´´
+
+Answer: \begin{code}
+select first_name, last_name, address from employee order by birth_date
+\end{code}
+
+Comment: This works great. Thanks!"
+"  select count(original_air_date) from table_29273115_1 where written_by = ""charlie day""  "
+  select * from albums order by album_title ASC 
+ 2002 
+" 2010 europe/africa group ii b edition = ""done"" 2010 europe/africa group ii b edition = ""done"" 2010 europe/africa group ii b edition = ""done"" 2010 europe/africa group ii b edition = ""done"" 2010 europe/africa group ii b edition = ""done"" 2010 europe/africa group ii b edition = ""done"
+"  select t1.property_type_description from ref_property_types as t1 join properties as t2 on t1.property_type_code = t2.property_type_code where t2.property_name = ""snow"" "
+  select publisher from publication group by publisher having count(*) > 1 
+  select route_name from delivery_routes join delivery_route_locations on delivery_route_locations.route_id = delivery_routes.route_id group by delivery_route_locations.route_id order by count(*) desc limit 1 
+" 2012 election results for locations whose representative is barbara lee varchar, PRIMARY KEY (representative)) Schema: create table table_19283806_4 (representative varchar, PRIMARY KEY (representative)) Question: What is the 2012 election results for locations whose representative is barbara lee? Example 1: Question - List the document ids for any documents with the status code done and the type code paper."
+"  select title from papers where title like ""%ml%"" "
+"  select min(tournaments_played) from table_24330912_1 where t3 = ""best finish"" "
+"  select count(number_of_troops) from table_30108346_1 where troops_per_$1_billion___usd___gdp = ""2.45"" "
+" 2528382_1: select song from table_2528382_1 where additional_info = ""drunkard groom"" "
+ 34189429_1 (22.3%) republican 1968 34189429_2 (22.3%) democratic 1968 34189429_3 (22.3%) independent 1968 34189429_4 (22.3%) socialist labor 1968 341
+  select count(*) from continents 
+ 2011-12 season: 27 games (25 starts) - 11.5 ppg - 4.5 rpg - 2.5 apg - 1.0 spg - 2.0 stl - 1.0 bpg - 30.0% fg - 33.3% 3fgt - 78.6% ft - 57.1% fta - 
+" 1 select title from table_22170495_7 where original_airing = ""april 19, 2010"" [/INST] "
+"  select number_of_editions from table_1840433_2 where most_wins_by = ""franco marvulli (4)"" [/INST]
+
+Answer: \begin{code}
+select number_of_editions from table_1840433_2 where most_wins_by = ""franco marvulli (4)""
+\end{code}
+
+Comment: This is"
+"  select host from table_22583466_5 where race_caller = ""marshall cassidy""  "
+"  select vote_swing from table_149330_1 where general_election = ""12th lok sabha""  "
+  select lastname from list where classroom = 111. 
+"  select dept_name from instructor where name like ""%soisalon%"" "
+"  select p1_diameter__mm_ from table_26967904_2 where chambering = "".300 lapua magnum"" "
+"  select count(*) from table_11827596_2 where co_singer = ""suresh wadkar"" and film_name = ""tera dukh mera dukh"" "
+"  select region_of_ussr from table_16048129_5 where _percentage_of_total_deportees = ""10.6""  "
+"  select count(game_site) from table_25380472_2 where team_record = ""1–7"" "
+" 3 select 3 as _november_3 from pilot where january_15_16 = ""1991"" "
+" 1. select the largest_ethnic_group__2002_ from table_2562572_11 where type = ""town"" "
+"  select player_name from table_20871703_1 where college = ""eastern michigan"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+"  select stuid from student where lname = ""watson"" intersect select stuid from student where sex = ""f"" intersect select gameid from plays_games where gameid in (select gname from video_games where gname = ""call of destiny"") intersect select gameid from plays_games where gname = ""works of widenius"" "
+" 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995"
+"  select nickname_s_ from table_18304058_2 where enrollment__2013_14_ = ""436"" "
+" 1. select max(bush_number) from table_13608101_1 where others_percentage = ""1.57%"" "
+"  select replaced_by from table_29414946_3 where team = ""santos""  "
+ 34-32 = 34 - 32 = 126 - 122 = 126 - 122 = 126 - 122 = 126 - 122 = 126 - 122 = 126 - 122 = 126 - 122 = 126 - 122 = 126 - 
+"  select count(*) from club as t1 join member_of_club as t2 on t1.clubid = t2.clubid join student as t3 on t2.stuid = t3.stuid where t1.clubname = ""pen and paper gaming"" "
+ 2006-09-25 11:45:03.439 sqlitetest_1 (11777777777777777777777777777777777777777777777777777777777777777777777
+"  select count(endowment) from table_12896884_1 where football_stadium = ""mosaic stadium""  "
+" 2012-05-21 18:59:42.341 0 [SQLite3][ERROR] SQL error. Code: 1046, No database chosen
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+" 14407560_2 (13) us_viewers__million_ varchar, written_by varchar, PRIMARY KEY (us_viewers__million_)) 14407560_2 (13) us_viewers__million_ varchar, written_by varchar, PRIMARY KEY (us_viewers__million_)) 14407560_2 (13) us_"
+"  select broadcast_date from table_2101431_1 where archive = ""16mm t/r"" and run_time = ""23:25"" "
+"  select brooklyn from table_1108394_6 where manhattan = ""3,139"" "
+  select stavanger from table_19439864_2 where oslo = 48 
+"  select count(*) from party [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+" 2012: ""we found love"" - 11 weeks 2011: ""what's my name"" - 10 weeks 2010: ""only girl (in the world)"" - 11 weeks 2009: ""hot n cold"" - 10 weeks 2008: ""pusha mane"" - 11 weeks 2007: ""don't stop the music"" -"
+ 3 november 1998 
+"  select min(population__january_1) from table_16278602_1 where largest_city = ""roskilde"" "
+"  select email_address from professionals where state = ""hawaii"" or state = ""wisconsin""  "
+  select store_name from drama_workshop_groups order by store_name [/INST] 
+"  select bowler from documents where document_status_code = ""done"" and document_type_code = ""paper"" intersect select document_id from documents intersect select document_id from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic_id where t1.product_name = ""flax"" intersect select name"
+"  select city___municipality from table_232458_1 where pop_density__per_km²_ = ""1,388.88""  "
+" 2018-07-22 16:16:42.409 UTC 2018-07-22 16:16:42.409 UTC Segment b varchar, segment d varchar, PRIMARY KEY (segment_b)) Question: What is the Segment B when the Segment D is s Hammock? Example 1: Question - List the document ids for any documents with the status code"
+"  select count(*) from table_16388478_2 where ground = ""sydney"" and home_team = ""pilots""  "
+"  select count(original_air_date) from table_24649082_1 where written_by = ""david h. goodman & andrew kreisberg"" "
+"  select count(*) from documents where document_status_code = ""done"" and document_type_code = ""paper""  select count(*) from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic_id where t1.product_name = ""flax""  select name from pilot order by name "
+"  select venue from table_17120964_8 where man_of_the_match = ""vaclav zavoral""  "
+  select episode_no from table_24399615_4 where cable_rank = 8  
+" 2013-08-08 19:34:23.546 SQL query: select high_points from table_23274514_4 where record = ""2-7"" [/INST]
+[INST] What is the record for the game with high points of 22 by josh smith (11)?
+[INST] What is the record for the game with high points of 22"
+  select count(*) from hotels 
+"  select population__1931__in_1 as __population__1931__in_1, capital from table_14245_3 where capital = ""tarnopol"" "
+"  select incumbent from candidates where candidates = ""john m. vorys (r) 61.5% jacob f. myers (d) 38.5%""  "
+  select distinct country from climber 
+"  select english_name from table_180802_2 where abbr = ""พ.ย."" "
+"  select shot__percentage from table_1644876_2 where locale = ""switzerland""  "
+" 10 as  jive and week__number is 10 from pilot where name = ""phillips"" "
+"  select nhl_team from table_2850912_10 where college_junior_club_team = ""hc slavia praha (czechoslovakia)""  "
+" 18.73 u.s. viewers = 18.73 * 0.5 = 9.36 canada viewers select written_by from table_1130632_1 where us_viewers__million_ = ""18.73"" and canada_viewers__million_ = ""9.36"" "
+ 1. select number_one_single_s_ from table_27441210_20 where week_1 = 5 
+"  select name from person where gender = ""female"" intersect select name from personfriend where friend = ""zach""  "
+  select Staten_Island from table_1108394_6 where brooklyn = 940 
+"  select ref_service_types.service_type_description from ref_service_types join services on services.service_type_code = ref_service_types.service_type_code where ref_service_types.service_type_code = ""photo"" intersect select ref_service_types.service_type_description from ref_service_types join services on services.service_type_code = ref_service_types.service_type_code where ref_"
+"  select t1.department_name, t1.department_id from departments as t1 join degree_programs as t2 on t1.department_id = t2.department_id group by t1.department_id order by count(*) desc limit 1 "
+"  select mens_doubles from pilot where name = ""piret hamel helen reino"" order by mens_doubles [/INST]
+[INST] What is the document_id for any documents with the status_code ""done"" and the type_code ""paper""?
+[INST] What is the document_id for any documents with the status_code ""done"" and the type_code ""paper""?
+[INST] What is the document_"
+"  create table table_22941863_19 (mountains_classification varchar, winner varchar, PRIMARY KEY (mountains_classification))  select mountains_classification from table_22941863_19 where winner = ""michael albasini""  "
+ 3 june 2016 - fri 3 june 18' 22.66 123.182mph wed 1 june 2016 - 18' 22.66 123.182mph 3 june 2016 - fri 3 june 18' 22.66 123.182mph
+"  select e as vap from table_2683116_1 where turnout = ""85.7%"" "
+"  select count(original_air_date) from table_18217753_1 where us_viewers__millions_ = ""26.06"" "
+ 10 december 2007 quit 10 december 2007 quit 10 december 2007 quit 10 december 2007 quit 10 december 2007 quit 10 december 2007 quit 10 december 2007 quit 10 december 2007 quit 10 december 2007 quit 10 december 2007 quit 
+"  select arranger from documents where document_status_code = ""done"" and document_type_code = ""paper""  "
+" 100%! select top_scorer from table_1218784_1 where gf = 41
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select rnag__mhz_ from table_18475946_2 where lyric_fm__mhz_ = ""98.7""  "
+"  select wiaa_classification from table_22058547_1 where high_school = ""vancouver itech prepratory""  "
+"  select original_game from table_21500850_1 where artist = ""lynyrd skynyrd""  "
+"  select turing_complete from (select turing_complete from (select count(*) from pilot where name = ""alan turing"") as a from (select name from pilot order by name) as b group by a.turing_complete from where b = a limit 1) as c from (select turing_complete from (select count(*) from pilot where name = ""alan turing"") as a from (select name from pilot order by name) as b group by"
+" 18247032_1 (1) = select ""the wørd"" from pilot where guests = ""daniel ellsberg, william wegman, julie taymor"" "
+" 2008-06-10 17:16:16.276 sql_query varchar, document_status_code varchar, document_type_code varchar, PRIMARY KEY (document_id)) select count(*) from documents where document_status_code = ""done"" and document_type_code = ""paper"" "
+"  select document_id from documents where document_status_code = ""done"" and document_type_code = ""paper""  select count(*) from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic_id where t1.product_name = ""flax""  select name from pilot order by name "
+"  select max(average_votes_per_candidate) from table_28819393_1 where average__percentage_of_vote_per_candidate = ""3.29%"" "
+  select count(*) from appointment 
+"  select network_protocols from table_1300080_1 where notes = ""discontinued in favor of the en1700""  "
+"  select max(last_competed) from table_14308895_2 where country_territory = ""new zealand"" "
+"  select organziation from nhl_team as t1 join college_junior_club_team as t2 on t1.nhl_team = t2.nhl_team where t2.college_junior_club_team = ""winnipeg jets"" "
+"  select date_of_vacancy from pilot where team = ""manchester city"" and replaced_by = ""mark hughes""  "
+"  select group_12 from table_19523142_5 where group_9 = ""psid jombang"" "
+"  select record from table_27700530_9 where team = ""minnesota"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+"  select apt_number from apartments as t1 join view_unit_status as t2 on t1.apt_id = t2.apt_id where t2.available_yn = ""yes"" intersect select apt_number from apartments as t1 join view_unit_status as t2 on t1.apt_id = t2.apt_id where t2.available_yn = ""no"" "
+"  select team from table_17366952_1 where goal_average_1 = ""1.34""  "
+"  select cyrillic_name_other_names from table_2562572_9 where settlement = ""budisava""  "
+"  select document_id from documents where document_status_code = ""done"" and document_type_code = ""paper"" union select document_id from documents where document_status_code = ""done"" and document_type_code = ""paper"" union select document_id from documents where document_status_code = ""done"" and document_type_code = ""paper"" union select document_id from documents where document_status_code = ""done"" and document_"
+"  select count(*) from ref_colors where color_code = ""never used"" "
+"  select t1.store_phone, t1.store_email_address from drama_workshop_groups as t1 join services as t2 on t1.workshop_group_id = t2.workshop_group_id where t2.service_type_code = ""paper""  "
+" 1 select team_nickname from institution where institution = ""kent state university"" "
+"  select playoffs from table_1046170_5 where us_open_cup = ""1st round""  "
+"  select original_air_date from table_23242933_2 where us_viewers__millions_ = ""6.09"" "
+"  select notes from table_16278349_1 where province = ""samangan"" "
+"  select mexico from pilot where name = ""love never dies"" union select mexico from pilot where name = ""mañana es para siempre"" "
+  select min(chister_tornell) from table_28677723_10 where karianne_gulliksen = 7 
+" 375 as crest_length__meters_ from table_10020178_1 where name = ""schema"" 375 as crest_length__meters_ from table_10020178_1 where name = ""schema"" 375 as crest_length__meters_ from table_10020178_1 where name = ""schema"" 375 as"
+"  select colors from institution where institution = ""university of new hampshire""  "
+"  select fastest_lap from table_16670746_2 where winning_team = ""team impul"" and circuit = ""twin ring motegi"" [/INST]
+
+Answer: \begin{code}
+select fastest_lap from table_16670746_2 where winning_team = ""team impul"" and circuit = ""twin ring motegi""
+\end{code}
+
+"
+"  select secondary_sponsor from table_187239_1 where main_sponsor = ""ale"" "
+" 10 as tonioli varchar, goodman varchar, PRIMARY KEY (tonioli)) Schema: create table table_1014319_1 (tonioli varchar, goodman varchar, PRIMARY KEY (tonioli)) Question: How many songs received a 10 from Goodman and were rated by Tonioli? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema"
+"  select solidv4 from pilot where pilot as : Schema: create table table_127511_1 (solidv4 varchar, sequencer varchar, PRIMARY KEY (solidv4)) Question: What is solidv4 when sequencer is data output per run? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents (document_id varchar, document_status_"
+" 1. create table table_211791_1 (remarks varchar, nato_reporting_name varchar, PRIMARY KEY (remarks)) 2. create table table_211791_2 (nato_reporting_name varchar, PRIMARY KEY (nato_reporting_name)) 3. create table table_211791_3 (remarks varchar, nato_reporting_name varchar, PRIMARY"
+"  select series_premiere from table_29799700_2 where tv_network_s_ = ""tv3"" [/INST] 30017_1 (1)
+How many pilots have a name that is not in the list?
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select country_name, capital from country "
+" 1. create table table_2076608_1 (type varchar, school varchar, PRIMARY KEY (type)) 2. select type from table_2076608_1 where school = ""stratford university"" "
+" 2009-06-01 19:24:34.292 20862823_68 Pilot_2 2009-06-01 19:24:34.292 20862823_68 Schema: create table table_10682862_68 (players integer, PRIMARY KEY"
+  select opponent from table_22860990_3 where spartans_points = 73  
+"  select viewers__in_millions_ from (select * from table_2102945_1 where run_time = ""24:31"" group by viewers__in_millions_ having count(*) > 1 "
+ 1 select directed_by from table_2400842_1 where prod__number = 109 2 select directed_by from table_2400842_1 where prod__number = 109 3 select directed_by from table_2400842_1 where prod__number = 109 4 select directed_by from table_2400842_1 where prod
+"  select country from pilot where name = ""mark cox""  "
+" 1880-01-01 00:00:00 in candidates from Schema: create table table_1341453_40 (candidates varchar, incumbent varchar, PRIMARY KEY (candidates)) select count(candidates) from table_1341453_40 where incumbent = ""mike doyle"" "
+"  select name, country from member order by name  "
+" 3 november_3, 2017 varchar august_21_22 varchar, _id varchar, PRIMARY KEY (november_3), _id from pilot where pilot = ""name"" order by name [/INST] 3 november_3, 2017 varchar august_21_22 varchar, _id varchar, PRIMARY KEY (november_3), _id from pilot where pilot = ""name"" order by name [/INST] "
+"  select candidates from table_1342149_13 where incumbent = ""noah m. mason""  "
+  select nominee from musical group by nominee order by count(*) desc limit 1 
+"  select long_ranged_weapons from table_27704991_1 where close_ranged_weapons = ""knife (stone), knife (iron)"" "
+"  select t1.name from tracks as t1 join playlist_tracks as t2 on t1.id = t2.track_id join playlists as t3 on t2.playlist_id = t3.id where t3.name = ""movies"" and t1.name <> ""music"" "
+"  select no_party_preference from table_27003186_3 where republican = ""45.3%"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+" 1341577_44 = (candidates varchar, incumbent varchar, PRIMARY KEY (candidates)) select candidates from table_1341577_44 where incumbent = ""lamar s. smith"" "
+"  select team from table_22297198_3 where outgoing_manager = ""alireza mansourian""  "
+" 1 select episode_number_production_number from table_24222929_4 where title = ""tasers and mind erasers"" [/SQL] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has: "
+" 1 select rdiers from pilot where team_name = ""jir team scot motogp"" and name = ""steve rider"" "
+ 245 141 
+"  select velocity from flight where pilot = ""thompson""  "
+"  select location from pilot where pilot_name = ""thierry boutsen""  "
+ 66400 usd = 66400 * 50 = 332000 can $ select country from table_29302711_13 where prize_money__usd_ = 66400 
+ 2016-07-13 12:32:04.297 UTC 2016-07-13 12:32:04.297 UTC 2016-07-13 12:32:04.297 UTC select fname from student where stuid in (select petid from has_pet where petid in (select petid from
+" 15.03 million u.s viewers seen what episode? select title from table_14847258_1 where us_viewers__millions_ = ""15.03"" "
+"  select broadcast_date from table_2102782_1 where viewers__in_millions_ = ""6.0"" "
+ 2009-02-01 19:30:00 
+"  select high_assists from table_11964154_11 where high_rebounds = ""nick collison (15)"" "
+ 1600587_1 (1) in 2009 1600587_2 (1) in 2010 1600587_3 (1) in 2011 1600587_4 (1) in 2012 1600587_5 (1) in 2013 16005
+ 2007-08: 2007-08: 2007-08: 2007-08: 2007-08: 2007-08: 2007-08: 2007-08: 2007-08: 2007-08: 2007-08: 2
+"  select count(*) from team_s_ where winnings = ""$1,752,299"" "
+"  select artist_s_ from table_2560677_1 where start_date = ""1966-10-23"" "
+"  select count(*) from has_allergy where allergy = ""cat"" "
+"  select property from table_186468_1 where q_band = ""8.3"" "
+" 1. select min(gdp__ppp__per_capita) from table_25869317_1 2. select min(gdp__ppp__per_capita) from table_25869317_1 where document_status_code = ""done"" and document_type_code = ""paper"" 3. select count(*) from products as t1 join product_characteristics as t2 on t"
+"  select segment_c from table_15187735_3 where segment_b = ""couscous"" "
+"  select gender, count(*) from artist group by gender "
+"  select art_school from art_school as t1 join school as t2 on t1.school_code = t2.school_code where t2.type_code = ""public"" intersect select art_school from art_school as t1 join school as t2 on t1.school_code = t2.school_code where t2.type_code = ""private"" "
+"  select count(cash_prize) from table_25926120_3 where language = ""hindi"" and name_of_film = ""jodhaa akbar""  "
+  select name from journalist group by name having count(*) > 1 
+" 1 select copa_mercosur_1998 from table_14962316_9 where team = ""cruzeiro"" 2 select count(*) from table_14962316_9 where copa_mercosur_1998 = ""cruzeiro"" 3 select copa_mercosur_1998 from table_14962316_9 where"
+"  select count(distinct audition_city) from table_27455867_1 where audition_venue = ""bridgestone arena"" "
+" 23248869_10 = record from table_23248869_10 where team = ""boston"" "
+ 2016-07-17 19:30:33.177 UTC 2016-07-17 19:30:33.177 UTC 2016-07-17 19:30:33.177 UTC 2016-07-17 19:30:33.177 UTC 
+"  select circuit from table_20884163_2 where race_title = ""placemakers v8 supercars""  "
+"  select model__list_ from pilot where name = ""flax"" and processor = ""yorkfield"" and brand_name = ""xeon"" "
+"  select test_result, count(*) from student_tests_taken group by test_result order by count(*) desc "
+"  select template_type_description from ref_template_types where template_type_code = ""ad"" "
+ 2012-06-11 17:30:23.085 16086404_2 (31) 2012-06-11 17:30:23.085 16086404_2 (31) 2012-06-11 17:30:23.08
+ 60501 - 60990
+"  select address from restaurant where resname = ""subway"" "
+" 1 select ground from table_27409644_1 where club = ""flora tallinn"" 2 select count(*) from table_27409644_1 where ground = ""home"" and club = ""flora tallinn"" 3 select count(*) from table_27409644_1 where ground = ""home"" and club = ""flora tallinn"" 4 select count(*) from table_2"
+"  select 1 as st_junta_de_regantes__wub_ from 2 as _ref_id_1 varchar, irrigation_district varchar, PRIMARY KEY (_ref_id_1)) "
+"  select representative from pilot where residence = ""willowick"" order by name [/INST] 2019-05-06 18:42:35.33979-0400 2019-05-06 18:42:35.33979-0400 2019-05-06 18:42:3"
+  select event_name from party_events group by event_name having count(*) > 2 
+"  select title from table_24910733_1 where written_by = ""emily halpern""  "
+"  select branding from table_2610582_2 where callsign = ""dwec-tv""  "
+" 11 – 11 as total w–l from pilot where name = ""pilot"" "
+"  select America from Schema where Atlantic_Europe = ""hoxniense"" "
+  select party from representative group by party order by count(*) desc limit 1 
+"  select pole_position from table_1132588_3 where constructor = ""ferrari"" and grand_prix = ""austrian grand_prix"" [/INST]
+
+Answer: \begin{code}
+select pole_position from table_1132588_3 where constructor = ""ferrari"" and grand_prix = ""austrian grand_prix""
+\end{code}
+
+"
+"  select under_11 from pilot where under_17 = ""salma nassar"" order by under_11 [/INST]
+
+Answer: \begin{code}
+select under_11 from pilot where under_17 = ""salma nassar"" order by under_11
+\end{code}
+
+Comment: Thanks for the answer!
+
+Answer: \begin{code}
+select under_11 from pilot where under"
+" 99 as aid from flight where name = ""flax"" and aid in aircraft from aircraft where name = ""flax"" and aid in pilot from pilot where name = ""flax"" and aid in pilot from pilot where name = ""flax"" and aid in pilot from pilot where name = ""flax"" and aid in pilot from pilot where name = ""flax"" and aid in pilot from pilot where name = ""flax"" and aid in pilot from pilot where name ="
+" 27755603_2 = record from table_27755603_2 where high_rebounds = ""greg monroe (8)"" "
+"  select barrel_profile from table_12834315_5 where document_status_code = ""done"" and document_type_code = ""paper""  "
+"  select no_of_s_barangay from table_255885_1 where municipality = ""paracale"" "
+"  select original_title from table_17641206_4 where viewership = ""5.04 million"" "
+" 1 select country, state_province_county from addresses where address_id in (select staff_address_id from staff where first_name = ""janessa"" and last_name = ""sawayn"") "
+  select name from swimmer join record on swimmer.id = record.swimmer_id group by swimmer.id order by count(*) desc limit 1 
+"  select min(number_in_fleet) from table_1425948_1 where chassis_model = ""scania k360ua"" "
+ 3 select singer from singer as t1 join citizen as t2 on t1.citizenship = t2.citizenship group by t1.citizenship order by count(*) desc limit 1 
+"  select framed_size from table_15070195_1 where date_completed = ""02/91"" "
+"  select location from table_22669375_1 where race_name = ""trenton 300"" "
+ 2007-06-09 19:00:00 gabriella ferrone 5th evening varchar 2007-06-09 19:00:00 gabriella ferrone 5th evening varchar 
+"  select candidates from table_1342249_13 where incumbent = ""noah m. mason""  "
+" 111 as a successor where the reason for change is ""resigned"" ``.
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+  select count(tree_species) from table_16577990_1 where total_plant_species = 258  
+  select count(*) from program 
+" 12570759_2 us_viewers__millions_ varchar, directed_by varchar, written_by varchar, PRIMARY KEY (us_viewers__millions_)) 12570759_2 us_viewers__millions_ varchar, directed_by varchar, written_by varchar, PRIMARY KEY (us_viewers__millions_)) 12570759_2 us_viewers"
+"  select cfl_team from table_16441561_5 where college = ""british columbia""  "
+  select name from nurse where employeeid in (select employeeid from on_call) order by name  
+"  select record from table_17080868_8 where high_points = ""corey maggette (25)"" "
+"  select count(*) from table_14308895_2 where country_territory = ""aruba"" "
+" 2015-09-24 18:00:00 replace by 2015-09-24 18:00:00 outgoing manager kent nielsen 17039232_3, 2015-09-24 18:00:00 17039232_3, 2015-0"
+"  select cfl_team from table_10975034_4 where college = ""simon fraser"" "
+  select count(distinct gender) from dorm 
+" 2013-07-14 14:36:36.076 160832-01:00:00
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+  select name from media_types order by name 
+"  select original_air_date from table_25923164_1 where directed_by = ""gloria muzio"" "
+ 111 - leather 112 - pedal steel guitar 
+"  select count(no_of_barangays) from table_2402209_1 where area_coordinator = ""110.95"" "
+" 2012-07-18 17:04:47.344 UTC (14) select count(date_of_birth) from pilot where name = ""timo higgins"" "
+"  select 20 as _questions from magazine as t1 join cover as t2 on t1.issue = t2.issue where t2.cover_model = ""pamela horton"" "
+"  select market_rank_ & _city_of_license__market from table_22329326_1 where station = ""kabc-tv"" "
+"  select t1.title from songs as t1 join performance as t2 on t1.songid = t2.songid join band as t3 on t2.bandmate = t3.id where t3.lastname = ""heilo""  "
+" 1 select directed_by from table_11630008_5 where written_by = ""lamont ferrell"" 2 select count(*) from table_11630008_5 where directed_by = ""lamont ferrell"" 3 select count(*) from table_11630008_5 where directed_by = ""lamont ferrell"" 4 select count(*) from table_11630"
+"  select stadium from table_21436373_6 where date_year = ""fri 06/25/82""  "
+"  select name from singer where citizenship <> ""france"" "
+" 97100 model designation 1: select model_type from table_20866024_2 where model_designation = ""97100"" "
+" 1 select commonwealth_equivalent from table_1015521_2 where us_air_force_equivalent = ""major general"" 2 select commonwealth_equivalent from table_1015521_2 where us_air_force_equivalent = ""major general"" 3 select commonwealth_equivalent from table_1015521_2 where us_air_force_equivalent = ""major general"
+" 1 select university from table_27369069_4 where soccer_stadium = ""terrain #2 of complexe sportif claude-robillard"" [/INST]
+[INST] What is the document id with the document status code done and the document type code paper?
+[INST] List the document ids with the document status code done and the document type code paper.
+[INST] What is the number of characteristics that the product"
+"  select chroma_format from document_characteristics where document_id = ""1"" and product_id = ""1"" and characteristic_id = ""1"" and document_status_code = ""done"" and document_type_code = ""paper"" "
+"  select count(*) from instruments as t1 join songs as t2 on t1.songid = t2.songid where t2.songid = ""badlands"" "
+"  select count(*) from episodes where original_air_date = ""may17"" and us_viewers__million_ = ""5.1"" "
+"  select flightno from flights where sourceairport = ""apg"" [/INST] Here is the SQLite query to answer to the question: What are flight numbers of flights departing from Airport ""APG""?: "
+" 3343_1: select name from pilot where born = ""december 30, 1957 detroit, mi"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+"  select email, phone from customers where first_name = ""astrid"" and last_name = ""gruber""  "
+" 1 select episode_air_date from table_27615445_1 where audition_venue = ""nego quirido sambadrome"" "
+"  select station from table_1847523_2 where affiliation = ""kmgh-tv"" "
+" 20 questions where centerfold_model = ""cherie witter"" "
+"  select account_id, account_opened as date, account_name, other_account_details from accounts  where account_name = ""test account""  and other_account_details = ""test other account details""  "
+ 2009-09-26 20:00:00 - 2009-09-26 20:00:00 2009-09-26 20:00:00 - 2009-09-26 20:00:00 2009-09-26 20:00:0
+"  select Pinyin from table_1982739_2 where English_name = ""dingyuan county"" "
+"  select count(episode_air_date) from pilot where audition_city = ""rio de janeiro"" "
+"  select school_year from table_14603212_5 where class_aaaa = ""gregory"" and portland = ""pilot""  "
+  select product_id from problems group by product_id order by count(*) desc limit 3 
+" 1.19 as earnings_per_share__€_ varchar, net_profit__€m_ varchar from table_20614109_1 order by net_profit__€m_
+What is the net profit for eps beign 1.19?
+How many documents have the status code done and the type code paper?
+How many characteristics does the product ""flax"" have?
+What is the pilot name for"
+"  select count(*), policy_type_code from policies group by policy_type_code "
+"  select school from table_15475116_1 where colors = ""maroon and white"" "
+" 2017-08-19 19:17:36.276 UTC [1] column 2 is the company using pinborough, sarah sarah pinborough? 2017-08-19 19:17:36.276 UTC [2] column 3 is the company using pinborough, sarah sarah pinborough? 2017-08-19"
+" 34521_3 (answer) from all pilots where name = ""ħamuʃte"" "
+"  select count(*) from tweets where uid = ""uid"" "
+  select prize__eur_ from table_20195922_3 where number_of_winning_tickets = 1 
+"  select apartment_numbers, booking_start_dates, booking_end_dates from apartment_bookings as t1 join apartments as t2 on t1.apt_id = t2.apt_id where t2.apt_number = ""apartment_name"" "
+"  select stuid from student where city_code = ""chi"" "
+  select Ben_Tahir from pilot where Bello = 51 
+"  select title_subject from table_20903658_1 where medium = ""bronze"" and public_office = ""colonist and soldier in ville marie, new france""  "
+" 1 answer - released_date varchar, western_title varchar, PRIMARY KEY (released_date) 1. select released_date from table_1616608_2 where western_title = ""polarium"" 2. select released_date from table_1616608_2 where western_title = ""polarium"" 3. select released_date from table_1616608_2 where western_title"
+ 2008-08-09 18:30 utc replaced by paulo sampaio 2008-08-09 18:30 utc replaced by marcelo mendes de 2008-08-09 18:30 utc replaced by marcelo mendes de 2008-08-09 18:30 utc replaced by
+" 12222200_1 (2,000,000) - milepost on anne street 12222200_2 (2,000,000) - milepost on anne street 12222200_3 (2,000,000) - milepost on anne street 12222200_4 (2,"
+  select employee_id from employees except select destroyed_by_employee_id from documents_to_be_destroyed 
+" 1 select location from pilot where website = ""http://www.mudgeerabasoccer.com/"" 2 select count(*) from pilot where website = ""http://www.mudgeerabasoccer.com/"" "
+  select month from happy_hour group by month having count(*) > 2 
+"  select winner from table_12454156_1 where losing_hand = ""ah 7s"" "
+"  select distinct fname from student where stuid in (select distinct vice_president_vote from voting_record where city_code <> ""pit"") "
+" 2009-05-03 18:02:26.146 sql=select listed_owner_s_ from table_24535095_2 where crew_chief = ""mike garvey"" 2009-05-03 18:02:26.146 sql=select listed_owner_s_ from table_2453509"
+"  select ref_colors.color_description, ref_colors.color_code, products.product_description from ref_colors join products on products.color_code = ref_colors.color_code join products as t1 join products as t2 on t1.product_id = t2.product_id where t1.product_category = ""herbs""  "
+ 15 | sprint classification | michael barry | 15 | sprint classification | michael barry 
+" 11-05 segment d: document_status_code = ""done"" and document_type_code = ""paper"" select document_id from documents where document_status_code = ""done"" and document_type_code = ""paper"" "
+" 1. select ground from table_16388230_1 where away_team = ""richmond"" 2. select count(*) from table_16388230_1 where ground = ""mariners_jet_stadium"" 3. select count(*) from table_16388230_1 where ground = ""richmond"" 4. select count(*) from table_1638823"
+"  select position_in_table from table_26914854_3 where date_of_vacancy = ""4 january 2011"" "
+"  select name from teacher where hometown <> ""little lever urban district""  "
+"  select type from table_254776_1 where location = ""swarthmore, pennsylvania""  "
+" 2014-09-04 17:59:39.843 GMT-0500 10064064_1 (1) select friend from personfriend where name = ""alice"" 2014-09-04 17:59:39.843 GMT-0500 10064064_1 (1"
+"  select branding from station where location = ""cebu""  "
+"  select shirt_sponsor from table_25527255_2 where team = ""fc bunyodkor"" "
+"  select count(*) from pilot where vehicle = ""toyota corolla"" and driver = ""name""  "
+"  select capital from districts where district_name = ""信州区""  and document_status_code = ""done"" and document_type_code = ""paper""  union select capital from products where product_name = ""flax"" join pilot on pilot_id = products.product_id intersect select pilot_name from pilot where pilot_id in (select pilot_name from products where product_name = ""flax"") order by pilot_name [/INST]
+"
+"  select purse___us from table_1529260_2 where margin_of_victory = ""8 strokes"" "
+"  select count(series_sorted) from table_1620397_2 where released = ""april 2010"" "
+" 300 as number_legs from pilot where name = ""peter de ruyter"" "
+"  select min(capacity_in_persons_hour) from table_17814458_1 where construction_year_s_ = ""1983"" "
+" 15h winner = ""james a. moore"" "
+"  select languages from table_14670060_1 where call_sign = ""xejam"" "
+"  select language from school_year (year_founded varchar, PRIMARY KEY (year_founded)) where year_founded = ""1874"" "
+"  select android_version from table_ as t1 join table_25437438_1 (android_version varchar, code_name varchar, PRIMARY KEY (android_version)) on t1.android_version = t25437438_1.android_version where t25437438_1.code_name = ""lotus"" "
+  select order_id from shipments order by shipment_date desc limit 1 
+"  select other from table_1850282_7 where species = ""chironius multiventris septentrionalis""  "
+"  select count(*) from table_17822401_1 where brand = ""supermicronics"" and power__kw_ = ""5"" "
+" 3422757_1 (1) select test_taker from table_10749367_3 where challenge = ""night driving"" 3422757_1 (1) select test_taker from table_10749367_3 where challenge = ""night driving"" "
+"  select leader_battle from pilot where vote = ""4-3"" "
+" 125.000 Pilot_Name from pilot where ppp__million_€_ = 23164 Schema: create table table_2293510_1 (pilot_name varchar, ppp__million_€_ varchar, PRIMARY KEY (pilot_name)) [/INST]
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using ``"
+  select * from employees where not employee_id in (select employee_id from job_history)  
+"  select pinyin from table_2135222_2 where simplified = ""虞城县""  "
+"  select name, country from singer where song_name like ""%hey%"" "
+"  select democratic_coalition from table_2651755_1 where together_we_can_do_more = ""sergio castro ( pc )"" "
+" 15778392_1 select theme from table_15778392_1 where week__number = ""top 8"" "
+"  select capacity__litres_ from table_2155350_2 where cab_size = ""2 medium tanker"" and category = ""single""  "
+" 12189745_1 (year__ceremony_ varchar, title_in_the_original_language varchar, PRIMARY KEY (year__ceremony_)) select year__ceremony_ from 12189745_1 where title_in_the_original_language = ""tummien perhosten koti"" "
+"  select min(_percentage_funded) from table_27155990_1 where closing_date = ""2012-05-18"" "
+"  select count(*) from table_17968274_2 where team = ""vélez sársfield"" 1989-90 "
+" 16422435_3 (5) = high_points
+create table table_18904831_6 (high_points varchar, high_rebounds varchar, PRIMARY KEY (high_points))
+select high_points from table_18904831_6 where high_rebounds = ""dydek (8)""
+Here is the SQLite query to answer to the question: Find the number of characteristics that the"
+" 125555_1: select coinage_metal from table_26336060_19 where km_numbers = ""s45"" [/INST] Here is the SQLite query to answer to the question: What is the document_id for any documents with the document_status_code ""done"" and the document_type_code ""paper""?: "
+"  select count(*) from table_25287007_2 where august_21_22 = ""june 10-11"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+  select product_name from products as t1 join products_in_events as t2 on t1.product_id = t2.product_id group by t1.product_name having count(*) >= 2 order by t1.product_name  
+"  select record from table_23286112_6 where high_rebounds = ""jeff green (14)"" [/INST]
+[INST] What was the record in the game in which Brandon Rush (10) did the most high assists?
+[INST] What was the record in the game in which Brandon Rush (10) did the most high assists? [/INST]
+[INST] What was the"
+"  select si_prefix from table_260938_1 where chuquet = ""thousand"" "
+"  select mens_doubles from pilot where name = ""dimitrij ovtcharov""  "
+"  select social_democratic from table_1463383_1 where socialist = ""46.1%""  "
+  select count(*) from authors 
+" 1. create table table_191105_2 (lyrics_by varchar, subject varchar, PRIMARY KEY (lyrics_by)) 2. select lyrics_by from table_191105_2 where subject = ""interjection"" "
+"  select further_cities from table_197286_4 where direction = ""east"" and country = ""romania"" "
+  select revising_convention_s_ from table_2001348_1 where denunciations__september_2011_ = 21  
+"  select premiere_air_dates from table_1949994_7 where format = ""1 team"" "
+"  select BBI from table_28846752_9 where economy = ""5.68""  "
+"  select count(distinct dept_address) from department where school_code = ""bus"" "
+"  select other from table_11381701_3 where symbian___series_40 = ""0.40%"" "
+"  select gtype, count(*) from video_games group by gtype  "
+"  select count(womens_singles) from pilot where womens_doubles = ""li xiaodan wen jia"" [/INST]
+
+Answer: \begin{code}
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+" 1 select directed_by from table_29569969_2 where us_viewers__millions_ = ""1.48"" "
+"  select main_contestant from table_18278508_2 where co_contestant__yaar_vs_pyaar_ = ""tina parekh""  "
+  select population__millions as of_2011 from table_2155836_1 where gdp__nominal___billions_usd_ = 4  
+ 3 credits from: 180 credits total 3 credits 3 credits from: 180 credits total 3 credits 3 credits from: 180 credits total 3 credits 3 credits from: 180 credits total 3 credits 3 credits from: 180 credits total 3 credits 3 credits from: 180 credits total 3 cred
+" 1. select format from table_11222744_3 where title = ""callanetics: 10 years younger in 10 hours"" "
+  select transaction_type from financial_transactions group by transaction_type order by sum(transaction_amount) desc limit 1 
+"  select power_kw from table_24418525_1 where coverage = ""dumaguete central visayas region"" "
+"  select count(200 as __st__) from pilot where country = ""bhutan"" and name <> ""unidentified"" "
+"  select barony from (select townland from civil_parish where civil_parish = ""matehy"" intersect select barony from civil_parish where townland = ""dawstown"")  "
+"  select min(n) from table_15887683_10 where television_service = ""mydeejay"" "
+" 1 select nationality from pilot where school_club_team = ""south florida"" order by nationality [/INST] "
+ 35 quantum engineering #35 honda crx-si 
+"  select participant_id, type_code, participant_details from participants order by participant_id [/INST] "
+" 1. select centerfold_model from magazine as t1 join playboy_centerfold as t2 on t1.issue = t2.issue where t2.pictorials = ""kimberly bell, bunnies of the new playboy club"" [/SQL] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+"  select original_air_date from table_27389024_2 where written_by = ""rama stagner"" "
+"  select emulated_class from table_1153898_1 where comparisons = ""usb re-enumeration required"" "
+"  create table table_2803662_3 (type varchar, town varchar, PRIMARY KEY (type))  select type from table_2803662_3 where town = ""stuttgart""  "
+ 135.09 * 1602.4 = 210.8875 * 1000 = 210887.75 
+" 1892-93: purdue 27, minnesota 14 "
+  select count(*) from paragraphs 
+"  select s_id from advisor as t1 join student as t2 on t1.s_id = t2.s_id where t2.dept_name = ""history"" [/INST] Here is the SQLite query to answer to the question: What is the number of characteristics that the product ""flax"" has?: "
+"  select max(peak_performance__teraflops__) from table_27765443_2 where period_of_operation = ""october 2006 - january 2010"" "
+"  create table table_12784134_24 (perfect_stem varchar, short_stem varchar, PRIMARY KEY (perfect_stem))  select perfect_stem from table_12784134_24 where short_stem = ""jo"" "
+"  select salary_range from table_27257896_2 where working_force_of_hk = ""10.4%"" [/INST]
+[INST] What is the highest number of pilots?
+[INST] What is the highest number of pilots? Schema - create table pilot (number_of_pilots integer, PRIMARY KEY (number_of_pilots)) SQLite query - select max(number_of"
+"  select height__mtr_ from table_23495048_2 where contestant = ""ulrike wolful""  "
+"  select TDP from  document_status_code = ""done"" and document_type_code = ""paper""  select count(*) from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic_id where t1.product_name = ""flax""  select name from pilot order by name "
+"  select outcome from table_22839669_1 where score_in_the_final = ""4–6, 3–6, 2–6"" "
+"  select max(length_meters), t1.name from bridge as t1 join architect as t2 on t1.architect_id = t2.id order by length_meters desc limit 1 "
+" 1.452 * 1000 as us_air_date from table_18424435_4 where canadian_viewers__million_ = ""1.452"" "
+" 3 select count(*) from table_22457674_1 where song_title = ""europe"" "
+"  select period__h_ from table_206217_2 where eccentricity = ""0.583085"" "
+ 2012-06-09 19:00:00 2012-06-09 19:00:00 2012-06-09 19:00:00 2012-06-09 19:00:00 2012-06-09 19:00:00 
+" 13770460_3 = select type from table_13770460_3 where transfer_fee = ""€20m"" 13770460_1 = select type from table_13770460_1 where transfer_fee = ""€20m"" 13770460_2 = select type from table_137704"
+  select others_percentage from table_2401326_1 where others_number = 462 
+" 18:17
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select written_by from table_28688313_1 where us_viewers__in_millions_ = ""9.81""  "
+ 1869-09-03 1869-09-03 1869-09-03 1869-09-03 1869-09-03 1869-09-03 1869-09-03 1869-09-03 1869-09-03 1
+  select count(*) from ship 
+" 24122653_2: select reward from table_24122653_2 where eliminated = ""peterson"" "
+  select count(*) from voting_record 
+"  select females___percentage_ from table_14598_9 where state_ut_code = ""4"" "
+"  select institution from table_10577579_3 where mens_nickname = ""blazers""  "
+" 1. create table table_2668329_18 (party varchar, incumbent varchar, PRIMARY KEY (party)) 2. select party from table_2668329_18 where incumbent = ""hutchins g. burton"" 3. create table pilot (name varchar, PRIMARY KEY (name)) 4. select name from pilot order by name "
+"  select team from table_26914759_3 where incoming_manager = ""dave penney""  "
+"  select opponent from table_24561550_1 where record = ""4-4""  "
+" 1. select mix_pack from table_23649244_2 where artist_2 = ""eminem"" 2. select mix_pack from table_23649244_2 where artist_2 = ""eminem"" and document_status_code = ""done"" and document_type_code = ""paper"" 3. select count(*) from table_23649244_2 where artist"
+" 180179_1 (2011)_affiliation varchar, nickname varchar, PRIMARY KEY (affiliation)) Question: What is the affiliation of the University called Explorers? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents (document_id varchar, document_status_code varchar, document_type_code varchar, PRIMARY KEY (document"
+"  select count(*) from likes as t1 join highschooler as t2 on t1.student_id = t2.id where t2.name = ""kyle"" "
+"  select semester_id from student_enrolment where degree_program_id in (select degree_program_id from degree_programs where degree_name = ""master"") intersect select degree_program_id from degree_programs where degree_name = ""bachelor""  "
+"  select new_conference from table_14976504_2 where team_nickname = ""toreros""  "
+"  select directed_by from table_27927185_1 where viewers__millions_ = ""6.37"" "
+"  select role_description from roles where role_name = ""proof reder"" "
+" 3rd place = ""karina bacchi"" 2010-06-05 19:07:57
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select count(pinyin) from table_1216675_1 where chinese = ""釋蟲"" "
+"  select mens_singles from pilot where womens_singles = ""lau sui fei""  "
+ 1910-01-00 1910-01-00 1910-01-00 1910-01-00 1910-01-00 1910-01-00 1910-01-00 1910-01-00 1910-01-00 1
+  select t1.name from pilot as t1 join routes as t2 on t1.alid = t2.alid group by t1.alid order by count(*) desc limit 1 
+" 1. create table roles (role_description varchar, role_code varchar, PRIMARY KEY (role_description)); create table employees (role_code varchar, PRIMARY KEY (role_code)) 2. create table roles (role_description varchar, role_code varchar, PRIMARY KEY (role_description)) 3. create table employees (role_code varchar, PRIMARY KEY (role_code)) 4. select role_description, role_code, count(*) from employees group by"
+"  select stroke from table_21021796_1 where document_status_code = ""done"" and document_type_code = ""paper""  union select stroke from table_21021796_1 where document_status_code = ""done"" and document_type_code = ""paper""  union select stroke from table_21021796_1 where document_status_code = ""done"" and"
+" 1. select film_name from participants_recipients where category = ""best newcomer"" "
+ 2016-09-08 19:27:56.583 UTC [INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using 
+"  select location from table_14884844_2 where record = ""1:37.071s""  "
+"  select interview_subject from table_1566852_7 where cover_model = ""kara monaco""  "
+"  select _percentage from table_1108394_47 where the_bronx = ""133"" "
+" 107 at : Schema: create table table_14132239_3 (rookie varchar, transition varchar, offensive varchar, PRIMARY KEY (rookie)) 107 at : Question - List the document ids for any documents with the status code done and the type code paper. 107 at : Schema - create table documents (document_id varchar, document_status_code varchar, document_type_code varchar,"
+"  select mountains_classification from pilot where pilot_name = ""maarten tjallingii""  "
+"  select count(*) from table_15887683_4 where television_service = ""sky calcio 5"" and ppv = ""yes"" "
+" 2 select avg_attendance from stadium where capacity_percentage > 100 100 200 300 400 500 600 700 800 900 10,000 11,000 12,000 13,000 14,000 15,000 1"
+  select t1.shop_name from shop as t1 join stock as t2 on t1.shop_id = t2.shop_id group by t1.shop_name order by count(*) desc limit 1 
+  select qb_rating from table_19418696_3 where completions = 1069 
+" 100 as/when available select country_region from pilot where presenters = ""heikki paasonen jukka rossi (xtra factor)"" "
+  select 2010 as _population__10 from table_255829_1 where no_of_barangays = 31 
+" 20042805_2 = select african_spoonbill from table_1 where hadeda_ibis = ""brown snake eagle"" "
+  select major from student group by major having count(*) < 3 
+"  select el___ella___usted from pilot where name = ""pilot"" union select el___ella___usted from pilot where name = ""pilotess"" union select el___ella___usted from pilot where name = ""pilotas"" union select el___ella___usted from pilot where name = ""pilotas"" union select el___ella___usted from pilot where name = ""pilotas"" union select el___ella___usted from pilot where name ="
+"  select count(*) from staff where first_name = ""ludie"" "
+"  select employee_name from employees join roles on roles.role_code = employees.role_code where role_name = ""editor"" "
+"  select count(*) from table_23793770_2 where total_viewers__in_millions_ = ""12.46"" "
+"  select school_year from table_14603212_1 where class_a = ""lindsay"" and class_aaa = ""cuero"" "
+"  select title from table_24910737_1 where us_viewers__millions_ = ""8.16""  "
+"  select safe from table_12305325_4 where john_and_nicole = ""eliminated"" "
+"  select writer_s_ from table_12451376_1 where director = ""dean white""  "
+"  select census_division from table_21284653_1 where name = ""stratford""  "
+"  select quarterfinals from table_17289604_38 where round_of_32 = ""s williams / v williams ( usa ) l 6–4, 5–7, 1–6""  "
+"  select geographical_regions from table_24192031_2 where contestant = ""laura jiménez ynoa"" "
+  select course_name from courses as t1 join student_course_enrolment as t2 on t1.course_id = t2.course_id group by course_name order by count(*) desc limit 1 
+" 1. select language from table_25926120_7 where awardee_s_ = ""re-recordist : mateen ahmad"" 2. select count(*) from table_25926120_7 where awardee_s_ = ""re-recordist : mateen ahmad"" 3. select count(*) from table_25926120_7 where awardee_"
+"  select count(kickoff) from table_26275503_2 where opponent = ""scottish claymores"" "
+"  select max_downstream_throughput___mbit_s__ from table_2394927_1 where profile = ""8b""  "
+" 2017-07-28 1876-07-28 28 july 1876 varchar, date_successor_seated varchar, PRIMARY KEY (reason_for_change)) Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents (document_id varchar, document_status_code varchar, document_type_code varchar, PRIMARY KEY ("
+"  select format from table_134729_3 where call_sign = ""k213cl"" "
+  select customer_name from customers order by date_became_customer limit 5 
+ 29 performers that made it to the semi finals = select count(*) from performers where age_s_ >= 29 union select count(*) from performers where age_s_ < 29 
+ 1888-11-02 00:00:00 
+"  select title from table_2468961_3 where written_by = ""bob rosenfarb"" and directed_by = ""richard correll""  "
+  select others_percentage from table_1733513_1 where others_number = 2286  
+"  select type from table_262495_1 where nickname = ""pointers"" "
+" 2010_11_ = ""withdrawal_rate__2010_11_"", headquarters = ""truro"" select count(*) from school_district where withdrawal_rate__2010_11_ = ""withdrawal_rate__2010_11_"", headquarters = ""truro"" "
+"  select spacewalkers from table_22385461_8 where end__utc_ = ""january 31, 2007 23:09"" "
+ 200 iops 
+" 18 january 2012 host_s_ varchar, air_dates varchar, PRIMARY KEY (host_s_)) Question: Who is the host on the series aired on 18 january 2012? Example 1: Question - List the document ids for any documents with the status code done and the type code paper. Schema - create table documents (document_id varchar, document_status_code varchar, document_type_code varchar"
+"  select publisher, count(*) from book_club group by publisher  "
+"  select theme from table_21501518_1 where original_artist = ""soul brothers six""  "
+"  select segment_d from table_15187735_5 where segment_b = ""dining room tables""  "
+"  select count(*) from pilot where pilot_name = ""mao asada"" 07 - 08 gp / jgp 2nd = 07 - 08 gp / jgp 1st = 11 - 12 gp / jgp 1st "
+"  select count(*) from missions where notability = ""president of burundi"" "
+  select * from chip_model 
+"  select count(*) from table_1507852_1 where description = ""ondragstart"" "
+ 8-08 segment a varchar 8-08_segment_a varchar 8-08_segment_a varchar 8-08_segment_a varchar 8-08_segment_a varchar 8-08_segment_a varchar 8-08_segment_a varchar 8-08_segment_a varchar 8-08_segment_a varchar 8-08_segment_a varchar 8-
+" 1 select first, last from employee order by emp_dob desc limit 1 "
+  select count(domestic_mail) from table_1754531_4 where total_freight_and_mail = 7853 
+"  select f_bolt from table_26967904_2 where p1_diameter__mm_ = ""11.35"" "
+  select lastname from band as t1 join performance as t2 on t1.id = t2.bandmate join songs as t3 on t2.songid = t3.songid group by lastname order by count(*) desc limit 1 
+ 1. select document_type_codes from ref_document_types order by document_type_codes [/INST] 
+ 2019-07-02 12:58:46.586 UTC [INFO ] [13919367_1] [13919367_1] [13919367_1] [13919367_1] [13919367_1] [13919367_1] [
+" 1 select week__number from table_21501565_1 where original_artist = ""tina turner"" "
+"  select emp_fname from employee where emp_jobcode = ""prof"" order by emp_dob  "
+"  select name, party from representative order by name [/INST] "
+  select max(finals_apps) from table_21220720_1 
+"  select count(constr) from pilot where first_win = ""1978 brazilian grand prix"" "
+"  select count(percent__2000_) from pilot where percent__1980_ = ""3.4%"" "
+"  select archive from table_2102898_1 where broadcast_date = ""18april1970"" "
+"  select max(prod_no) from table_25046766_3 where episode_no = ""3-04"" "
+"  select t2.last_name from organizations as t1 join organization_contact_individuals as t2 on t1.organization_id = t2.organization_id where t1.organization_name = ""labour party"" order by t2.date_contact_to desc limit 1 "
+" 1. create table table_10848177_1 (song varchar, picturization varchar, PRIMARY KEY (song)) 2. select song from table_10848177_1 where picturization = ""vijay"" "
+"  select english from table_26263954_1 where revised_hepburn = ""chiji"" "
+ 2009-09-27 5 2009-09-27 5 2009-09-27 5 2009-09-27 5 2009-09-27 5 2009-09-27 5 2009-09-27 5 2009-09-2
+"  select tournament_venue__city_ from table_21091982_3 where conference = ""ivy league""  "
+" 4 may 1943 varchar pennant from table_1220125_4 where document_status_code = ""done"" and document_type_code = ""paper"" "
+"  create table table_15442974_1 (fourth_district varchar, first_district varchar, PRIMARY KEY (fourth_district))  select fourth_district from table_15442974_1 where first_district = ""beverly bodem"" "
+"  select country_or_region from table_24285393_1 where highest_point = ""mont sokbaro"" "
+"  select dates_active from table_10602294_1 where name = ""kamba"" "
+" 1989 as : bruno barreto film original_title varchar, year__ceremony_ varchar, PRIMARY KEY (original_title)) Schema: create table table_15277629_1 (original_title varchar, director varchar, year__ceremony_ varchar, PRIMARY KEY (original_title)) Question: What was the original title of the Bruno Barreto film in 1989 Example 1: Question - List"
+" 14427973_1 (1) = coupon_amount from discount_coupons where coupon_id in (select coupon_id from customers where good_or_bad_customer = ""good"" intersect select coupon_id from customers where good_or_bad_customer = ""bad"") "
+"  select t1.title from song as t1 join singer as t2 on t1.singer_id = t2.singer_id order by t1.title, t2.name  "
+"  select original_air_date from table_11404452_1 where us_viewers__millions_ = ""12.81"" "
+"  select hebrew from table_26919_7 where english = ""heart""  "
+"  select uk_co_presenters from table_14345690_15 where co_presenters = ""joe swash"" and comedian = ""russell kane"" "
+"  select station_id, local_authority from weekly_weather where precipitation > 50 00000000000000000000000000000000000000000000000000000000000000000000000000000"
+"  select network from table_2857352_3 where virtual_channel = ""23.1"" [/INST] 2017-09-04 01:55:32
+[INST] What is the virtual_channel for network ""mytv""?
+[INST] What is the virtual_channel for network ""mytv""? Schema: create table table_2857352_3 (virtual_"
+ 2019-07-23 16:27:13.167 0 API call to retrieve the document ids for any documents with the status code done and the type code paper. 2019-07-23 16:27:13.167 No such table: documents 2019-07-23 16:27:13.167 No
+"  select scores_by_each_individual_judge from table_18278508_6 where main_contestant = ""karanvir bohra"" and date_performed = ""august 13""  "
+"  select count(distinct barony) from (select townland from pilot where pilot_name = ""flax"") as t1 join pilot as t2 on t1.townland = t2.townland where t1.barony = ""kilmore"" "
+"  select school from table_11677100_18 where hometown = ""lake charles, la"" "
+"  select results from table_1341453_11 where incumbent = ""peter deutsch""  "
+"  select count(lead_maragin) from table_16751596_13 where dates_administered = ""july 17, 2008"" and document_type_code = ""paper"" "
+"  select party from delegate where delegate = ""feldman, brian j. brian j. feldman"" "
+"  select count(*) from student where sex ='m' intersect select count(*) from has_allergy where allergy = ""food"" and allergytype = ""type"" "
+  select type from table_2076533_1 where enrollment__2005_ = 1245 
+"  select count(*) from table_12562214_1 where date__to_ = ""1919"" "
+" 10876012_1 (6) = high assists from indiana
+[INST] Write SQL to answer the following question given the database schema. Please wrap your code answer using "
+"  select count(*), t1.name from scientists as t1 join assignedto as t2 on t1.ssn = t2.scientist group by t1.name "
+"  select count(*) from _number_s_lake_and_gnis_query_link where borough_or_census_area = ""valdez-cordova (ca)"" "
+  select name from people where people_id <> (select people_id from perpetrator where people_id = (select people_id from people where people_id in (select people_id from perpetrator where people_id = (select people_id from people where people_id in (select people_id from perpetrator where people_id = (select people_id from people where people_id in (select people_id from perpetrator where people_id
+"  select vote_percentage from table_26375386_20 where couple = ""gary and maria"" "
+"  select party from pilot where incumbent = ""tom luken""  "
+" 1. the document ids for any documents with the status code done and the type code paper. 2. the number of characteristics that the product ""flax"" has. 3. a list of all pilot names in ascending alphabetical order. "
+  select count(distinct location) from perpetrator 
+"  select in_county_tuition_per_credit_hour__fall_2009_ from table_22308881_2 where college = ""mercer"" "
+"  select aircraft_name, count(*) from flight as t1 join aircraft as t2 on t1.aid = t2.aid group by aircraft_name order by count(*) desc limit 10 "
+"  select mixed_doubles from pilot where name = ""kim brodersen"" order by mixed_doubles [/INST]
+
+Answer: \begin{code}
+select mixed_doubles from pilot where name = ""kim brodersen"" order by mixed_doubles
+\end{code}
+
+Comment: Thanks for the answer. But the question was about the database schema.
+
+Comment: The database schema is not given in the question."
+"  select school from table_16295365_2 where conference_record = ""12-6"" "
+"  select title from table_23399481_4 where written_by = ""michael gans & richard register""  "
+"  select title from table_21025437_5 where written_by = ""keith temple""  "
+ 2012-05-19 19:00:54.075356 +00:00 UTC - 19:00:54.075356 +00:00 UTC 19:00:54.075356 +00:00 UTC 19:00:54.075356 +00:
+"  select region_2 from table_2113721_7 where dvd_name = ""season three""  "
+  select distinct product_name from products order by product_name  
+ 3rd place: select min(third_place) from table_2146364_2 
+"  select comment from table_17978052_2 where borough_or_census_area = ""denali"" "
+" 1960s order_number from table_19508635_1 where theme = ""rock and roll"" "
+" 1939-05-11 11 may 1939 varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar, varchar"
+"  select count(*) from (select conference_tournament from conference as t1 join regular_season_winner as t2 on t1.conference = t2.conference where t1.name = ""texas western"" group by conference_tournament order by count(*) desc limit 1) as t1 join conference as t2 on t1.conference = t2.conference where t2.name = ""texas western"" group by conference_"
+"  select subdivides_in_varas from table_26538461_2 where equivalence_in_varas = ""1/5"" "
+ 25 to 1 
+"  select t1.concert_name, t1.theme, count(*) from concert as t1 join singer_in_concert as t2 on t1.concert_id = t2.concert_id group by t1.concert_name, t1.theme  "
+"  select profits_elegance__2007_ from table_255812_1 where mayor = ""ma. Ester a. Hamor"" "
+"  select title from pilot as t1 join table_28760804_1 as t2 on t1.directed_by = t2.directed_by where t1.name = ""pilot""  "
+"  select count(*) from list as t1 join teachers as t2 on t1.classroom = t2.classroom where t1.firstname = ""madlock"" and t1.lastname = ""ray"" "
+"  select team_1 from table_19294812_2 where team_2 = ""koper"" "
+"  select owner_id, first_name, last_name from owners join dogs on dogs.owner_id = owners.owner_id group by owner_id order by count(*) desc limit 1 "
+"  select written_by from table_23918997_1 where us_viewers__million_ = ""0.97""  "
+" 1 select count(*) from pilot where na -350- = ""done"" and document_type_code = ""paper"" "
+" 100 as others_number from table_1756284_1 where others_number = 100 [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has: "
+" 27 december 2010` varchar, PRIMARY KEY (27 december 2010)) select replaced_by from table_26998135_2 where date_of_vacancy = ""27 december 2010"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+" 1. create table table_2417345_4 (reason_for_change varchar, successor varchar, PRIMARY KEY (reason_for_change)) 2. select reason_for_change from table_2417345_4 where successor = ""william milnes, jr. (c)"" [/INST]
+
+Answer: \begin{code}
+create table table_2417345_4 (reason"
+  select name from buildings where not building_id in (select building_id from office_locations where building_id = building_id)  
+" 1. select document_type_code, document_type_name, document_type_description from ref_document_types order by document_type_code, document_type_name, document_type_description "
+"  select official_itv_rating__millions_ from table_27319183_7 where total_itv_viewers__millions_ = ""8.53""  "
+  select t1.member_name from member as t1 join party_events as t2 on t1.member_id = t2.member_in_charge_id group by t1.member_name order by count(*) desc limit 1 
+ 2019-09-04 17:17:04.000000000 -07'00 2019-09-04 17:17:04.000000000 -07'00 2019-09-04 17:17:04.00000000
+"  select count(*) from ballot_measures where _percentage_yes = ""52.11%"" "
+  select municipality from table_24115349_6 where coakley_votes = 754  
+"  select t1.characteristic_name, t1.characteristic_data_type from characteristics as t1 join product_characteristics as t2 on t1.characteristic_id = t2.characteristic_id join products as t3 on t2.product_id = t3.product_id where t3.product_name = ""cumin""  "
+" 1 select french from all_questions where italian = ""nazione"" [/INST] "
+" 19359427_6 = select date_of_vacancy from table_19359427_6 where team = ""plymouth argyle"" 19359427_6 = select date_of_vacancy from table_19359427_6 where team = ""plymouth argyle"" 19359427_6 = select date_of_"
+"  select team from table_23391714_1 where chassis_engine = ""lola t92/00/ buick"" order by team limit 1 "
+"  select count(*) from vocals as t1 join songs as t2 on t1.songid = t2.songid where t2.vocalist = ""shared""  "
+"  select stroke__mm_ from table_23722304_2 where vehicle_code = ""t211"" "
+"  select count(*) from classroom where building = ""not in lamberton"" "
+"  select class_aaa from table_14603212_5 where school_year = ""2004-05"" "
+"  select package_option, series_name from tv_channel where high_definition_tv = ""yes"" "
+"  select power_kw from table_24673888_1 where location__transmitter_site_ = ""borongan"" "
+  select count(distinct advisor) from student 
+"  create table table_29077342_19 (mountains_classification varchar, team_classification varchar, general_classification varchar, PRIMARY KEY (mountains_classification))  select mountains_classification from table_29077342_19 where team_classification = ""rabobank"" and general_classification = ""damiano cunego"" "
+" 1 select count(*) from episode where written_by = ""david jackson"" and directed_by = ""david jackson"" "
+" 1 select condition_parameter from table_15314901_1 where velocity_angle_η_in_i_radians = ""ln[(1 + √5)/2] ≅ 0.481"" "
+"  create table table_29556461_8 (high_points varchar, team varchar, PRIMARY KEY (high_points))  select high_points from table_29556461_8 where team = ""la salle"" "
+"  select order_id, order_details from orders where order_id in (select order_id from invoices group by order_id having count(*) > 2) "
+"  select digital_channel from table_2857352_3 where virtual_channel = ""5.2"" "
+"  select count(*) from table_21132404_1 where political_parties = ""social democratic party of germany"" "
+"  select s_color_commentator from pilot where pregame_host = ""jon sciambi""  "
+"  select customer_status_code, count(*) from customers group by customer_status_code  "
+"  select product_category_description from ref_product_categories where product_category_code = ""spices"" "
+" 1: select bus_width___bit__ from table_19161046_1 where core___mhz__ = ""650"" "
+"  select school_club_team_country from table_11734041_3 where years_for_rockets = ""2000-01""  "
+"  select tv_season from table_27553627_2 where viewers__in_millions_ = ""14.54"" "
+ 9th in wickets = fielding_team = select name from pilot order by name [/INST] 
+"  select high_rebounds from table_23248940_8 where team = ""orlando"" "
+" 1 select pole_position from documents where document_status_code = ""done"" and document_type_code = ""paper"" intersect select pole_position from documents where document_status_code = ""done"" and document_type_code = ""paper"" intersect select pole_position from documents where document_status_code = ""done"" and document_type_code = ""paper"" intersect select pole_position from documents where document_status_code = ""done"" and document"
+"  select broadcast_network from table_21076286_2 where broadcast_scope = ""chiba prefecture"" "
+" 1 select claim_id, date_claim_made, count(*) from claims as t1 join settlements as t2 on t1.claim_id = t2.claim_id group by claim_id order by count(*) desc limit 1 "
+"  select count(*) from table_28138035_6 where womens_doubles = ""china"" "
+"  select name from pilot where pilot_name = ""zhou jinsong"" order by name  "
+"  select team from table_23249053_11 where high_points = ""rashard lewis (24)"" "
+"  select distance__m_ from table_1751142_2 where shuttle_time__seconds_ = ""6.86"" "
+"  select hr_no from table_1886270_1 where hr_name = ""river ness""  "
+"  select original_artist from table_27614707_1 where theme = ""top 12 men""  "
+"  select owners_2009 from table_23958917_1 where location = ""south side indianapolis"" and owner_s___2009_ = ""indianapolis""  "
+" 1 select title from table_23958944_5 where directed_by = ""bryan spicer"" and written_by = ""terence paul winter"" 2 select count(*) from table_23958944_5 where directed_by = ""bryan spicer"" and written_by = ""terence paul winter"" 3 select count(*) from table_23958944"
+"  select city___town from stadium where stadium_name = ""stadion zlatica""  "
+" 35' 58.82 116.344mph on sat 29 aug``.
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+  select distinct t1.product_name from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic_id where t3.characteristic_name = 'warm' 
+"  select count(2006 as __population__) from table_23685890_2 where major_town = ""coober pedy"" "
+"  select sign from table_20354_5 where thai_name = ""มกราคม"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+"  select directed_by from table_24910733_1 where written_by = ""andrea newman""  "
+ 26176081_29 select min(gp) from table_26176081_29 
+"  select city_code, count(*) from student group by city_code having count(*) > 1 "
+"  select length_of_stay_permitted from table_25965003_3 where countries_and_territories = ""jersey""  "
+" 17 as previous_years where school_id = 1 where high_school_name = ""maebashi ikuei"" "
+  select country from stadium group by country order by count(*) desc limit 1 
+  select record_company from orchestra group by record_company order by count(*) desc limit 1 
+"  select entrant from pilot where driver = ""bruno sterzi"" order by entrant limit to 1 "
+"  select television_commentator from document_status_code = ""done"" and document_type_code = ""paper"" intersect select television_commentator from products as t1 join product_characteristics as t2 on t1.product_id = t2.product_id join characteristics as t3 on t2.characteristic_id = t3.characteristic_id where t1.product_name = ""flax"" intersect select name from pilot order by name "
+"  select count(sprints_classification) from table_26257223_13 where winner = ""joaquin rodriguez"" "
+"  select percent__1990_ from table_1182314_5 where state = ""mississippi"" "
+"  select second from (select * from pilot where pilot_name = ""gerrard barrabeig"" intersect select * from pilot where pilot_name = ""second"" union select * from pilot where pilot_name = ""second"" intersect select * from pilot where pilot_name = ""gerrard barrabeig"" intersect select * from pilot where pilot_name = ""second"") as t1 intersect select * from pilot where pilot_name = ""gerrard barrabe"
+"  select nhl_team from table_1013129_11 where college_junior_club_team = ""tps (finland)"" "
+"  select hometown from pilot where school = ""muscle shoals"" order by hometown [/INST] "
+"  select title, publication_date from book as t1 join publication as t2 on t1.book_id = t2.book_id where t1.title = ""how to write a book""  "
+"  select pop_density__per_km²_ from table_261951_1 where municipality = ""lubang""  "
+"  select bayonet_lug from table_12834315_5 where barrel_profile = ""m4 hbar"" and name = ""m4le carbine"" "
+"  select drafted from table_1198175_1 where pro_team = ""arizona cardinals"" "
+"  select dates_of_australian_involvement from table_10121127_1 where number_of_australians_involved = ""65"" "
+ 13 november 2008 13 november 2008 seans_team 
+"  select deaths from table_2930244_4 where number_of_hurricanes = ""6"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+  select document_id from paragraphs group by document_id having count(*) >= 2 
+"  select winning_driver from pilot where pilot_team = ""carlin motorsport"" and circuit = ""croft""  "
+" 1 select film_festival from table_26282750_1 where category = ""best male actor"" 2 select count(*) from table_26282750_1 where film_festival = ""cannes"" 3 select film_festival from table_26282750_1 where category = ""best male actor"" 4 select count(*) from table_26282750_"
+"  select Network_station from table_2879165_1 where country = ""brunei"" "
+  select count(*) from candidates where mac_sweeney = incumbent  
+" 11111111111111111_2: select toll from table_1211545_2 where location = ""bela bela"" intersect select toll from table_1211545_2 where location = ""modimolle"" "
+"  select count(*) from county_public_safety [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has.: "
+"  select hometown from contestants where province = ""huesca""  "
+" 300 win at an average speed of 88.924 mph?
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select status from table_142159_1 where location = ""museum"" "
+" 2104176_1 = select homeland_security_distinguished_service_medal from table_2104176_1 where medal_of_honor = ""coast guard medal"" "
+"  select high_rebounds from document_id where document_status_code = ""done"" and document_type_code = ""paper"" and document_name = ""how many document_ids for document with status code done and type code paper"" union select count(*) from documents as t1 join document_characteristics as t2 on t1.document_id = t2.document_id join characteristics as t3 on t2.characteristic_id = t3.character"
+"  select max(afc_titles) from table_1952065_4 where super_bowl_wins = ""2"" "
+"  select womens_doubles from pilot where name = ""selena piek"" intersect select womens_doubles from pilot where name = ""jacco arends""  "
+  select city_code from student order by city_code [/INST] 
+"  select chairman from table_27374004_2 where current_manager = ""bob peeters""  "
+ 1 select document_id from paragraphs group by document_id order by count(*) limit 1 
+" 10675723_2 (11) = high_rebounds from table_17104539_10 where record = ""11-13"" "
+"  select count(*) from table_1745843_10 where part_4 = ""to bear"" "
+  select count(*) from management as t1 join department as t2 on t1.department_id = t2.department_id where t2.head_id <> (select head_id from management where department_id = t2.department_id)  
+"  select barrel_length from table_12834315_5 where colt_model_no = ""le6921sp"" [/INST] Here is the SQLite query to answer to the question: Find the number of characteristics that the product ""flax"" has?: "
+"  select count(*) from table_18536769_1 where owner = ""vista radio"" and call_sign = ""kxci"" "
+"  select count(distinct content) from package_option where package_option = ""qualsiasi trasne sky hd"" "
+"  select donor_payment from table_16175217_1 where country = ""belgium"" "
+"  select count(*) from list where classroom = ""room 107"" "
+"  select written_by from table_21312845_1 where directed_by = ""david straiton""  "
+"  select director from table_11404452_1 where us_viewers__millions_ = ""13.66""  "
+"  select count(*) from station as t1 join location as t2 on t1.station_id = t2.station_id where t2.station_number = ""c03"" "
+" 114 at 114`
+[INST] Write SQL to answer the following question given the database schema. Please wrap your code answer using "
+" 341 as a driver, sam lowes as a rider and andrea iannone as a winning driver. "
+"  select title from table_2866514_1 where us_viewers__million_ = ""5.66"" "
+"  select location_name, location_code from ref_locations group by location_name, location_code order by count(*) limit 1 "
+"  select orchestra from orchestra as t1 join performance as t2 on t1.orchestra_id = t2.orchestra_id where t1.orchestra_name = ""symphony orchestra"" "
+"  select count(*) from member_of_club as t1 join club as t2 on t1.clubid = t2.clubid join student as t3 on t3.stuid = t1.stuid where t2.clubname = ""tennis club"" [/INST]
+
+Answer: \begin{code}
+select count(*) from member_of_club as t1 join club as t2 on t1.clubid = t2.club"
+"  select gender from table_28523_2 where school = ""cunningham hill infant school"" "
+" 20785990_2 = (select high_school from pilot where hometown = ""blue island, il"" order by name limit 1) "
+"  select other_abbreviation from constellation where brightest_star = ""β trianguli"" [/INST]
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+"  select reference from table_30011_2 where type_and_usage = ""germanium small-signal rf transistor""  "
+"  select composer from table_24521345_1 where conductor = ""jaroslav vogel""  "
+"  select Slovak from table_25008327_8 where Ukrainian = ""пес, собака"" "
+"  select name from program where program_id not in (select program_id from broadcast where time_of_day = ""morning"")  "
+"  select length_weight_of_missile from table_21012786_2 where diameter_of_torsion_spring = ""38.4cm"" "
+"  select name from student where dept_name = ""history"" order by tot_cred desc limit 1 "
+"  select fname, lname from student where major <> (select major from student group by major order by count(*) desc limit 1)  "
+"  select country from table_29789_3 where _percentage_change = ""5.7%"" "
+"  select ioc_code from table_2879165_1 where country = ""singapore""  "
+"  select team from table_28884858_2 where capacity_percentage = ""102.3%"" "
+" 1682865_1 = select numeral from table_1682865_1 where english_name = ""florin"" "
+"  select count(distinct denominations__gold_weight_) from table_2592308_1 where country = ""austria""  "
+ 2008-09 2007-08 at missouri 4-1 at opponents venue 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 
+"  select title from episode_titles where us_viewers__millions_ = ""10.34"" [/INST] 1.0.0-beta1 created with instagram-private-api
+How many episodes were directed by Peter Markle?
+What is the original air date of the episode directed by Peter Markle?
+What is the original air date of the episode directed by John T. Kretchmer?
+What is the original air date of the"
+"  select left_bloc from table_1463383_1 where social_democratic = ""32.1%"" "
+"  select guest_s_ from table_29135051_2 where ratings = ""1.64m""  "
+"  select university_name from table_1160660_1 where acronym = ""usf""  "
+"  select distinct t1.tourist_attraction_id from visits as t1 join visitors as t2 on t1.tourist_id = t2.tourist_id where t2.tourist_details = ""vincent"" "
+"  select distinct t2.pilot from flight as t1 join airport as t2 on t1.airport_id = t2.id where t2.country = ""united states"" or t2.name = ""billund airport""  "
+"  select t2.shop_name, t1.carrier from stock as t1 join device as t2 on t1.device_id = t2.device_id join shop as t3 on t3.shop_id = t2.shop_id where t3.shop_name = ""your favorite shop"" order by t2.carrier, t3.shop_name [/INST]
+
+Answer: \begin{code}
+select t2"
+"  select count(distinct team_s_) from table_2182562_2 where avg_start = ""12.9"" "
+  select count(*) from other_available_features 
+  select count(*) from ref_calendar 
+  select rushing_yards_per_game from table_27487336_1 where sacks = 25 
+"  select Detroit__dtw_ from table_1637981_7 where Lansing__lan_ = ""$433.59"" "
+" 1 select count(*) from table_14253123_1 where _percentage_of_boundary_by_water = ""63%"" "
+"  select conflict from table_1921_1 where location = ""yemen"" "
+"  select count(*) from pilot where name = ""pilot"" "
+"  select song_name from song where languages = ""english""  "
+" 1st broadcast varchar, seans_team varchar from table_23292220_3 where seans_team = ""peter serafinowicz and johnny vegas"" order by 1st broadcast limit to 1 "
+"  select title from table_24910742_1 where us_viewers__millions_ = ""9.64"" "
+ 120484_1 (poor_law_union) = bohonagh (townland) 120484_1 (poor_law_union) = bohonagh (townland) 120484_1 (poor_law_union) = bohonagh (townland)
+" 3 select count(singles_w_l) from table_10023387_1 where doubles_w_l = ""0–0"" and total_w_l = ""3–1"" "
+  select broadcast_date from table_103084_4 where bbc_one_total_viewing > 11616996.338225884 

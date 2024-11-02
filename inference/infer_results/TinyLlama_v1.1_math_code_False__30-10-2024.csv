@@ -1,0 +1,2813 @@
+Results
+"  SELECT dvd_name, region_2, 1  FROM table_1067134_1  WHERE dvd_name = 'The Hobbit: The Battle of the Five Armies'  AND region_2 = 'Region 2'  "
+"  SELECT 1 AS type, ""Calvin College"" AS institution  FROM sqlite_master  WHERE type = ""table""  AND name = ""table_261895_1""  UNION  SELECT 1 AS type, ""Calvin College"" AS institution  FROM sqlite_master  WHERE type = ""table""  AND name = ""table_261895_2""  UNION  SELECT 1 AS type, ""Calvin College"" AS"
+"  SELECT 1 AS sport, ""Fitchburg State University"" AS institution  FROM sqlite_master  WHERE type = ""table"" AND name = ""table_1974545_2""  ORDER BY sport  LIMIT 1; "
+" 
+
+<|user|>
+Write a SQL query to find the total number of records in the table ""table_14465871_1""</s>
+<|assistant|>
+To find the total number of records in the table ""table_14465871_1"", you can use the following SQL query:
+
+"
+  SELECT accounting_closure_date FROM table_143352_1 WHERE agr_power_station = 'Hunterston B' 
+  SELECT 1 FROM sqlite_master WHERE type='table' AND name='table_1160660_1'  
+"  SELECT holborn_division, tower_division, holborn_division = holborn_division + 1, tower_division = tower_division + 1, holborn_division = holborn_division + 1, tower_division = tower_division + 1, holborn_division = holborn_division + 1, tower_division = tower_division + 1, holborn_div"
+  SELECT COUNT(*) FROM table_18183850_12  WHERE opponent = 'Aleksandra Wozniak'; 
+"  SELECT state__class_, successor FROM table_2417308_3 WHERE successor = 'william bigler (d)' "
+" 
+
+
+# + [markdown] id=""_1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  SELECT COUNT(*) FROM table_1420954_1  WHERE issues = 'elaine lee worked on how many issues' 
+  SELECT 1  FROM Schema.table_25800134_17  WHERE 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 
+"  SELECT h_ci__ka_m_ AS h_ci__ka_m_, t_c__°c_ AS t_c__°c_ FROM table_2282444_1 "
+  SELECT notes FROM table_20174050_7 WHERE title = 'Paradox Lost' AND reader = 'Nicholas Nicholas Briggs'; 
+  SELECT COUNT(*) FROM table_25983027_1 WHERE rainfall_by_depth__mm_year = 9.3; 
+"  SELECT transaction_type_description, COUNT(*) as transaction_count  FROM transactions  GROUP BY transaction_type_description  ORDER BY transaction_count DESC  LIMIT 1; "
+"  SELECT manner_of_departure, team, 1 AS PRIMARY_KEY  FROM Schema.create_table_27374004_3(manner_of_departure varchar, team varchar, PRIMARY KEY (manner_of_departure))  WHERE team = 'Cercle Brugge'  "
+  SELECT name FROM sqlite_master WHERE type='table' AND name='table_14496232_2'  
+  SELECT segment_a FROM table_15187735_15 WHERE segment_c = 'Sushi' 
+"  SELECT id, date  FROM problem_log  WHERE problem_id = 10  "
+  SELECT name FROM member  WHERE member_id = '123'  AND attendance = 0  
+  SELECT COUNT(*) FROM table_22825679_1 WHERE road_record = 'ole miss' 
+  SELECT COUNT(*) FROM table_18173916_6 WHERE friday = '190 Boardwalk Empire' AND wednesday = '190 Boardwalk Empire' 
+  SELECT technician_id  FROM technician  WHERE value_points > 70;
+"  SELECT record, team FROM table_15780718_8 WHERE record = 'Boston' "
+"  SELECT song_choice, week__number, week_number, week_number_2021, week_number_2022, week_number_2023, week_number_2024, week_number_2025, week_number_2026, week_number_2027, week_number_2028, week_number_2029, week_number_20"
+"  SELECT name, orchestra  FROM conductor  UNION  SELECT name, orchestra  FROM orchestra  "
+  SELECT COUNT(*)  FROM   barony_townland  WHERE  barony = 'Ballyvadona'  AND  townland = 'Ballyvadona'  
+  SELECT custody_level_s_ FROM table_25346763_1 WHERE custody_level_s_ = 'Shelton' 
+"  SELECT  original_air_date,  №, 
+
+"
+  SELECT DISTINCT hometown FROM people  WHERE people_id NOT IN (SELECT gymnast_id FROM gymnast); 
+  SELECT COUNT(*) FROM table_15329030_1 WHERE date_of_polls = '2022-01-01'; 
+"  SELECT college_junior_club_team, nhl_team  FROM table_1473672_9  WHERE nhl_team = 'california golden seals' "
+  SELECT COUNT(*) FROM New Hampshire Institute of Art  WHERE enrollment__2005_ = '2005'  
+  SELECT * FROM table_14219514_1 WHERE home__2nd_leg_ = 'Talleres' AND home__1st_leg_ = 'Talleres' 
+  SELECT region_1 FROM table_171320_3 WHERE ep__number = 13; 
+  SELECT SUM(cumulative__millions) FROM table_19766_1 WHERE cumulative__millions > 376; 
+" 
+
+
+"
+"  SELECT province, south_asians_2001 FROM table_1717824_1 WHERE south_asians_2001 = 210295; "
+  SELECT pluperfect FROM table_27298240_26 WHERE perfect ='si bio/la; bio/la si' 
+  SELECT COUNT(*) FROM table_1404456_1 WHERE capital = '284657' AND population_census_2009 = 284657; 
+  SELECT first_broadcast FROM table_23292220_5 WHERE jasons_team = 'trisha goddard' AND first_broadcast = 'glenn wool' 
+  SELECT drivetrain FROM 2ur_fse  
+" 
+
+<SQLite>
+CREATE TABLE table_2500440_1 (
+name varchar,
+change___percentage_ varchar,
+PRIMARY KEY (name)
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+"  SELECT  _percentage_cut, alternative_fuel, 100.0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  SELECT producer FROM table_18943444_1 WHERE product = '金必氏牌嬰幼兒配方乳粉' 
+" 
+
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+#"
+"  SELECT name, station_id, COUNT(*) AS trains  FROM train_station  GROUP BY station_id  HAVING trains >= 2;"
+  SELECT COUNT(*) FROM companies WHERE INDUSTRY = 'Banking' OR INDUSTRY = 'Conglomerate' 
+"  SELECT address, membership_card, COUNT(*) AS count  FROM member  GROUP BY address, membership_card  HAVING count = 0  ORDER BY count DESC  LIMIT 1; "
+"  SELECT COUNT(television)  FROM table_23718905_6  WHERE matchup_results = 'Iowa State 14, Minnesota 13' "
+"  SELECT results, incumbent, PRIMARY KEY (results)  FROM table_1341453_20  WHERE incumbent = 'Jim McCrery'  ORDER BY results DESC  LIMIT 1  "
+"  SELECT school, nickname FROM table_24935743_2 WHERE nickname = 'the panthers' "
+"  SELECT family_families, no_overall, PRIMARY KEY (family_families) FROM uk31  "
+"  SELECT year, land_area__km² AS est, est AS est FROM table_23685890_2 WHERE land_area__km² = est; "
+  SELECT * FROM sounddock_series_i_v2 WHERE dual_voltage = 'Yes' AND version = 'Yes' AND sound_type = 'Yes' AND sound_quality = 'Yes' AND sound_format = 'Yes' AND sound_language = 'Yes' AND sound_engineer = 'Yes' AND sound_designer = 'Yes' AND sound_mixer = 'Yes' AND sound_mastering = 'Yes' AND sound_
+  SELECT us_viewers__million_ FROM table_27116696_1 WHERE directed_by = 'Allison Liddi-Brown' 
+"  SELECT naturalisation_by_marriage, registration_of_a_minor_child  FROM table_11214212_1  WHERE naturalisation_by_marriage = 114  AND registration_of_a_minor_child = 114  "
+"  SELECT wsop_cashes, wsop_earnings, wsop_earnings AS wsop_earnings_23696862_6, wsop_earnings AS wsop_earnings_23696862_6_1, wsop_earnings AS wsop_earnings_23696862_6_2, wsop_earnings AS wsop_earnings_2"
+" 
+
+
+# +
+# Write your SQL query below:
+
+
+
+# -
+
+# ### 2.
+#
+#
+# "
+" 
+
+
+# + [markdown] id=""1_1_1_1_1_answer_answer""
+# ## Answer
+#
+#
+#
+# "
+"  SELECT date_of_polls, state FROM table_15329030_1 WHERE date_of_polls = '2023-01-01' OR date_of_polls = '2023-01-02' OR date_of_polls = '2023-01-03' OR date_of_polls = '2023"
+"  SELECT school, stunts  FROM table_21995420_6  WHERE stunts = 48  "
+  SELECT visitor FROM table_11964047_7 WHERE leading_scorer = 'roy' 
+"  SELECT valid_votes, province, province_name, province_code, province_code_name, province_code_name_en, province_code_name_tr, province_code_name_tr_en, province_code_name_tr_tr, province_code_name_tr_en_tr, province_code_name_tr_tr_en, province_code_name_tr_en_tr_en, province_code_"
+"  SELECT  team, replaced_by, 
+
+"
+"  SELECT away_team, home_team  FROM table_24887326_8  WHERE away_team = 'coventry city'  ORDER BY away_team;"
+"  SELECT ab_ripper_x, exercise, ab_ripper_x = CASE WHEN exercise = 'x stretch' THEN 'x stretch' ELSE 'x' END  "
+  SELECT COUNT(*) FROM table_17085947_32 WHERE athlete = 'trans_1' AND trans_1 = '0:26' 
+"  SELECT COUNT(problems.id) AS number_of_problems, problems.problem_name FROM problems, product WHERE problems.product_id = product.product_id GROUP BY problems.product_id ORDER BY number_of_problems DESC;"
+"  SELECT cfl_team, college, player_name, player_position, player_id, player_height, player_weight, player_college, player_year_elig, player_year_elig_2 FROM table_16575609_1 WHERE player_id = 100000000000000000000000000000000"
+"  SELECT name, land_area__km², PRIMARY KEY (name)  FROM table_189598_7  WHERE land_area__km² = 14.85 "
+  SELECT settlement FROM table_2562572_37 WHERE settlement = 'Александрово' 
+  SELECT region_1 FROM table_171320_3 WHERE region_4 = '2009-04-02' 
+"  SELECT document_id, document_name, document_description  FROM documents  WHERE document_id IN (SELECT document_id  FROM documents  WHERE document_name = 'Python')  UNION  SELECT document_id, document_name, document_description  FROM documents  WHERE document_id IN (SELECT document_id  FROM documents  WHERE document_name = 'JavaScript')  UNION  SELECT document_id, document_name, document_description  FROM documents  WHERE document"
+"  SELECT occupied_territory, operational  FROM table_10335_1  WHERE operational = 'operational'  AND occupied_territory = 'occupied territory'  "
+"  SELECT species, jewel, PRIMARY KEY (species)  FROM table_26615633_1  WHERE jewel = 'coal' "
+  SELECT COUNT(*) FROM table_1597866_3; 
+"  SELECT planet, transcription FROM table_180802_3 WHERE transcription = 'wan suk' "
+"  SELECT gtu_winning_team, to_winning_team, gtu_winning_team = to_winning_team  FROM gtu_winning_team_to_winning_team  WHERE gtu_winning_team = Steve Ross  ORDER BY gtu_winning_team ASC  LIMIT 1; "
+  SELECT t_c__k_ AS t_c__k_ FROM table_101336_1 WHERE notation = 'tl-2212' 
+"  SELECT  date_of_notes,  assessment_notes  FROM assessment_notes  ORDER BY date_of_notes ASC;"
+  
+"  SELECT team, high_rebounds FROM table_27700375_11 WHERE high_rebounds = 'Charlotte' "
+  
+"  SELECT rid, dst_apid, src_apid, apid, country  FROM routes  WHERE src_apid IN ('1234567890', '1234567890', '1234567890', '1234567890', '1234567890', '1234567890') "
+"  SELECT period, nationality  FROM table_24565004_19  WHERE nationality = 'Uruguay' "
+"  SELECT group_11, group_12, Persupal Palu FROM table_19523142_5 WHERE group_11 = '11' AND group_12 = '12' "
+"  SELECT COUNT(*) FROM table_1825751_14  WHERE pageant ='san fernando, pampanga'; "
+" 
+
+"
+  SELECT census_ranking  FROM table_171236_1  WHERE official_name = 'Quispamsis' 
+  SELECT  `air_date`  FROM  `table_25816476_2`  WHERE  `team_guest_captain` = 'john bishop'  
+"  SELECT callsign, channel, channel_number, channel_letter_assigned, channel_letter_assigned_date, channel_letter_last_assigned, channel_last_assigned_date, channel_last_assigned_time, channel_last_assigned_timezone, channel_last_assigned_country, channel_last_assigned_country_iso2, channel_last_assigned_country_iso3, channel_last_"
+  SELECT year__ceremony_ FROM table_17350255_1 WHERE year__ceremony_ = '春秋茶室' 
+" 
+
+# +
+# SQLite query to answer the question:
+# What is the team where the record is 1-1 and the player is 1-1?
+
+# The team where the record is 1-1 and the player is 1-1 is the team where the record is 1-1 and the player is 1-1.
+# -
+
+# ## Conclusion
+#
+# In this tutorial, you learned how to:
+"
+  SELECT home_team  FROM table_14312471_7  WHERE away_team = 'Richmond'  ORDER BY home_team;
+"  SELECT winner, aggressive_rider, winner FROM table_25580292_13 WHERE winner = 'luis león sánchez' "
+"  SELECT document_id, paragraph_text FROM paragraphs WHERE paragraph_text = 'Brazil' AND document_id = 'Ireland' "
+"  SELECT horse, jockey  FROM table_24915874_1  WHERE jockey = 'Peter Wells'  ORDER BY jockey  LIMIT 1  "
+"  SELECT  nationality, COUNT(*) AS journalists  FROM  journalist  GROUP BY  nationality  ORDER BY  journalists DESC  LIMIT 10  "
+"  SELECT nat, total_apps, PRIMARY KEY (nat)  FROM table_19018191_5  WHERE nat = '27' "
+  SELECT COUNT(*) FROM table_167354_2 WHERE pubs_2011 = 'Chennai'; 
+"  SELECT 19 AS forfeited_in_seats, 1 AS seats_won, 1 AS seats_won_1, 1 AS seats_won_2, 1 AS seats_won_3, 1 AS seats_won_4, 1 AS seats_won_5, 1 AS seats_won_6, 1 AS seats_won_7, 1 AS seats_won_8, 1 AS seats_won_"
+"  SELECT 17311759_4.high_assists, 17311759_4.high_rebounds  FROM 17311759_4  WHERE 17311759_4.high_assists = 17  "
+  SELECT original_artist FROM table_15796072_1 WHERE week__number = 8; 
+" 
+
+# +
+# Write your SQL query below:
+
+# +
+# Write your SQL query above as a string.
+
+# +
+# Write your SQL query above as a string.
+
+# +
+# Write your SQL query above as a string.
+
+# +
+# Write your SQL query above as a string.
+
+# +
+# Write your SQL query above as a string.
+
+# +
+# Write your SQL query above as a"
+  SELECT original_title FROM table_15277629_1 WHERE director = 'Suzana Amaral' 
+  SELECT COUNT(*) FROM table_25216791_3 WHERE january_15_16 = '155' AND august_21_22 = '155' 
+"  SELECT year_of_construction, name  FROM table_10020178_1  WHERE name ='spitallamm' "
+"  SELECT us_viewers__millions_, written_by_ FROM table_27462177_1  WHERE written_by_ = 'Jack Sanderson'  "
+  SELECT COUNT(*) FROM table_22171978_1 WHERE location = 'blue crusaders'; 
+"  SELECT candidates, incumbent FROM table_1342451_38 WHERE candidates ='samuel j. nicholls' "
+" 
+
+
+"
+  SELECT 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+"  SELECT 1 AS ubaid_period_in_mesopotamia, 1 AS copper_age  FROM sqlite_master  WHERE type='table' AND name='table_23537091_1'  ORDER BY ubaid_period_in_mesopotamia ASC  LIMIT 1  "
+"  SELECT 1 AS high_rebounds, ""Minnesota"" AS team  FROM table_27734769_9  WHERE ""high_rebounds"" = ""Minnesota"" "
+  SELECT hdtv FROM sky primafila 17
+  SELECT title  FROM table_29102100_1  WHERE directed_by = 'Rich Correll'  AND written_by = 'Dennis Rinsler'  ORDER BY title DESC  LIMIT 1;
+"  SELECT  date_of_birth, customer_status_code, 1 AS status_code  FROM customers  WHERE customer_status_code = 'Good Customer'  ORDER BY date_of_birth ASC  LIMIT 1  "
+  SELECT year__ceremony_ FROM table_22102732_1 WHERE year__ceremony_ = '2010' AND english_title = 'time out' 
+"  SELECT april_2013_cum_rank, rank_2012, rank_2012_cum_rank FROM table_24307126_3 WHERE april_2013_cum_rank = 225; "
+  SELECT notes FROM table_1000181_1 WHERE notes = 'South Australia' 
+"  SELECT team, record FROM table_27902171_8 WHERE record = 36 AND team = 29 "
+"  SELECT november_3 AS result, january_15_16 AS result  FROM table_25284864_3  WHERE november_3 = 141  "
+"  SELECT student.advisor AS advisor, student.stuid AS stuid  FROM student  WHERE student.stuid = 1004  "
+"  SELECT song_name, releasedate, COUNT(*) AS song_count  FROM song  GROUP BY song_name, releasedate  ORDER BY song_count DESC  LIMIT 1  "
+  SELECT  `english_title`  FROM  `table_24856090_1`  WHERE  `hk_viewers` = 192000000000000000000000000000000000000000000000000000000000000
+"  SELECT game_cost, railroad, 1 AS railroad_cost  FROM table_243664_1  WHERE game_cost = 'chicago'  UNION  SELECT game_cost, railroad, 2 AS railroad_cost  FROM table_243664_1  WHERE game_cost = 'north western' "
+  SELECT province FROM table_275023_1 WHERE formed_from = 'New Munster' 
+" 
+
+
+# + [markdown] id=""18752986_1""
+# ## 1.1.1.1. 
+#
+# "
+" 
+
+<SQLite>
+CREATE TABLE table_1342379_10 (party varchar, incumbent varchar, PRIMARY KEY (party))
+"
+  SELECT name FROM swimmer  WHERE swimmer_id IS NULL  
+"  SELECT italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian, english, italian,"
+  SELECT COUNT(*) FROM table_17861265_1 WHERE title = 'Cliff Bole' AND directed_by = 'Cliff Bole' 
+  SELECT COUNT(*) FROM table_17802778_1  WHERE miles__km_ = '1'  AND race_time = '1:05:33' 
+  SELECT MAX(t20_matches) FROM table_1176371_1 WHERE name_of_ground = 'green lane' 
+"  SELECT team__number2, team__number1  FROM table_19130829_4  WHERE team__number1 = 'Iraklis'  ORDER BY team__number1  LIMIT 1  "
+  SELECT party FROM table_22753245_1 WHERE constituency = '1. Chennai North' 
+"  SELECT compression_ratio, rpo, applications, 1 AS id  FROM  (SELECT compression_ratio, rpo, applications, 1 AS id  FROM  (SELECT compression_ratio, rpo, applications, 1 AS id  FROM  (SELECT compression_ratio, rpo, applications, 1 AS id  FROM  (SELECT compression_ratio, rpo, applications, 1 AS id  FROM  (SELECT compression_ratio"
+"  SELECT title  FROM table_11951237_3  WHERE original_air_date = 'february 6, 1997'; "
+"  SELECT class_a, school_year, COUNT(*) AS class_a_wins  FROM table_14603057_2  GROUP BY class_a, school_year  HAVING COUNT(*) > 1  ORDER BY COUNT(*) DESC  LIMIT 1  "
+"  SELECT 1 AS 1, 1 AS 2, 1 AS 3, 1 AS 4, 1 AS 5, 1 AS 6, 1 AS 7, 1 AS 8, 1 AS 9, 1 AS 10, 1 AS 11, 1 AS 12, 1 AS 13, 1 AS 14, 1 AS 15, 1 AS"
+  SELECT COUNT(*) FROM table_19810459_1; 
+"  SELECT COUNT(*) FROM table_2696531_2 WHERE location = 'homestead, florida'; "
+" 
+
+<SQLite>
+CREATE TABLE `table_18958648_1` (
+  `state_and_district_of_columbia` varchar(255),
+  `overweight__incl_obese__adults` varchar(255),
+  PRIMARY KEY (`state_and_district_of_columbia`)
+)
+"
+  SELECT location FROM table_262476_1 WHERE nickname = 'golden tornadoes' 
+"  SELECT 1 AS 1, ""Orangemen"" AS 2, ""Army"" AS 3, ""1914-08-04 12:00:00"" AS 4, ""1914-08-04 12:00:00"" AS 5, ""1914-08-04 12:00:00"" AS 6, """
+  SELECT COUNT(*) FROM table_11236195_5 WHERE lossingteam ='sydney' AND location ='sydney' 
+"  SELECT department.dept_address, department.dept_name  FROM department  WHERE department.dept_name = 'HISTORY'  "
+  SELECT original_title FROM table_13834298_1 WHERE film_title_used_in_nomination = 'lion' AND original_title <> 'lion'  
+  SELECT date_of_appointment FROM table_27091128_2 WHERE replaced_by = 'Ergün Penbe' 
+"  SELECT final_place FROM table_23819979_3 WHERE final_place = 'july 25, 2009' "
+"  SELECT 1 AS wii_points, igo, dōjō, 2700-mon FROM igo_dōjō_tsūshin_taikyoku_2700mon  WHERE igo = 'igo' AND dōjō = 'dōjō' AND 2700-mon = 2700-mon;"
+"  SELECT party, incumbent  FROM table_1341598_11  WHERE party = 'Wyche Fowler' "
+"  SELECT candidates, COUNT(*)  FROM table_1346137_4  GROUP BY candidates  HAVING COUNT(*) > 1  "
+"  SELECT language FROM Schema.create_table_2509112_3(language varchar, villa_rivero_municipality varchar, PRIMARY KEY (language)) WHERE villa_rivero_municipality = '7' "
+"  SELECT japanese_translation, japanese_title  FROM table_2144389_9  WHERE japanese_translation = '七色アーチ'  "
+" 
+
+
+# + [markdown] id=""10000000""
+# ## 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+"  SELECT year_to_april, ebit__£m_ FROM table_18304259_1 WHERE year_to_april = 24.5; "
+"  SELECT 1, ""Airdate""  FROM ""table_27987623_4""  WHERE ""rank_timeslot_ = 'Airdate'""  ORDER BY ""rank_timeslot_"";  "
+"  SELECT year__ceremony_ FROM table_22034853_1 WHERE original_title = ""Vitus"" "
+  SELECT COUNT(*) FROM table_30133_1 WHERE current_account_balance__percent_of_gdp_ = '4.6%' 
+  SELECT COUNT(*) FROM device; 
+"  SELECT product_id, COUNT(*) AS cnt  FROM invoices  GROUP BY product_id  HAVING COUNT(*) = (SELECT COUNT(*) FROM invoices)  ORDER BY cnt DESC  LIMIT 1; "
+" 
+
+SELECT series_ep FROM table_15187735_12 WHERE segment_b = 'popcorn' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+"  SELECT Andrew_and_Georgies_guest, Jamie_and_Johns_guest, Jessica_Ennis  FROM table_29141354_2  WHERE Andrew_and_Georgies_guest = Jamie_and_Johns_guest  AND Andrew_and_Georgies_guest = Jessica_Ennis  "
+  SELECT COUNT(*) FROM timed_status_of_things; 
+  SELECT directed_by  FROM table_22181917_2  WHERE us_viewers__millions_ = 6.62  
+"  SELECT volleyball, school_year, basketball, swimming, 1 AS volleyball_winner  FROM table_16423070_4  WHERE volleyball = 'West Holmes'  AND school_year = '2011-12'  AND basketball = 'West Holmes'  AND swimming = 'West Holmes'  ORDER BY volleyball_winner ASC  "
+  SELECT high_assists FROM table_17322817_6 WHERE high_assists = 7;  
+  SELECT COUNT(*) FROM table_2562572_50  
+  SELECT spokespersons FROM table_184803_4 WHERE voting_order = 9 
+"  SELECT dadar_xi_b, good_shepherd, PRIMARY KEY (dadar_xi_b)  FROM table_28759261_5  WHERE good_shepherd ='sea liner fc'  "
+" 
+
+
+# +
+# %%time
+
+# Create a table to answer the question
+
+# Create a table to answer the question
+
+# Create a table to answer the question
+
+# Create a table to answer the question
+
+# Create a table to answer the question
+
+# Create a table to answer the question
+
+# Create a table to answer the question
+
+# Create a table to answer the question
+
+# Create a table to answer the question
+"
+  SELECT COUNT(*) FROM score_18198579_6 WHERE scoring_rank = 9; 
+"  SELECT episode, directed_by  FROM table_13336122_7  WHERE directed_by = 'David Duchovny'  "
+  SELECT 1 AS 1  FROM   rockhampton  WHERE 1  = 1  
+" 
+
+# +
+# SQLite query
+
+SELECT 
+    `december_27`,
+    movies,
+    `movies`.`december_27`
+FROM
+    movies
+WHERE
+    movies.`december_27` = '2020-12-27'
+
+# -
+
+# ## 2. What is the figure for December 27 for ang tanging ina mo (last na"
+  
+  SELECT film_name FROM table_11827596_2 WHERE co_singer = vinod rathod; 
+"  SELECT headquarter, count(*) FROM manufacturers GROUP BY headquarter HAVING count(*) > 1; "
+  SELECT COUNT(*) FROM flights; 
+"  SELECT team, record FROM table_22654073_6 WHERE record = 3-2; "
+"  SELECT fastest_lap, winning_team, circuit  FROM table_25322130_3  WHERE circuit = 'Silverstone'  ORDER BY fastest_lap DESC  LIMIT 1  "
+"  SELECT bout_1, bout_5, andreev ( rus ) w 5-2  FROM table_19398910_4  WHERE bout_1 = '5'  AND bout_5 = '5'  "
+  SELECT sex FROM student WHERE lname = 'Smith' AND fname = 'Linda' AND sex = 'Male' 
+"  SELECT former_school  FROM table_25177625_1  WHERE hometown = 'East Brunswick, NJ'  "
+  SELECT COUNT(*) FROM table_13619135_7 WHERE high_assists ='minnesota'; 
+"  SELECT COUNT(*) FROM Schema.create_table_29970488_2(hometown varchar, previous_school varchar); "
+  SELECT COUNT(*) FROM film; 
+" 
+
+<SQLite>
+"
+"  SELECT party, incumbent  FROM table_1341395_44  WHERE party = 'Republican'  "
+"  SELECT episode_no, us_viewers__millions_ FROM table_26136228_3 WHERE us_viewers__millions_ = 1.05; "
+  SELECT nickname FROM table_11658094_3 WHERE institution = 'Newberry College'; 
+  SELECT airdate FROM table_29039942_1 WHERE writer = 'daisuke habara' AND director = 'akimitsu sasaki' 
+"  SELECT byu_uu_score, uu_usu_score, byu_uu_score - uu_usu_score AS uu_usu_score  FROM table_13665809_2  WHERE byu_uu_score = 44 AND uu_usu_score = 16  "
+"  SELECT composition, colours, green_house_composition, green_house_colours, green_house_green_house_composition, green_house_green_house_colours, green_house_green_house_green_house_composition, green_house_green_house_green_house_green_house_colours, green_house_green_house_green_house_green_house_green_house_colours, green_"
+  SELECT COUNT(*) FROM table_18333678_2 WHERE calling_at = '09.06' 
+"  SELECT  for___percentage_, total_poll___percentage_, 100 * for___percentage_ / total_poll___percentage_ AS for percentage  FROM  create_table_20683381_3  WHERE  for___percentage_ = 60,254  AND  total_poll___percentage_ = 58.0  "
+"  SELECT election_number, left_office, date_trunc('month', election_date) AS election_date  FROM table_26362472_1  WHERE election_number = 11  "
+  SELECT fab___nm__ FROM table_26860595_2  
+  SELECT COUNT(*) FROM table_28846752_13 WHERE economy = '2' AND bbi = '2/19'; 
+"  SELECT chinese_title, english_title, 1 AS PRIMARY_KEY  FROM table_11926114_1  WHERE chinese_title LIKE '%Forensic heroes ii%'  UNION ALL  SELECT chinese_title, english_title, 1 AS PRIMARY_KEY  FROM table_11926114_1  WHERE chinese_title LIKE '%Forensic heroes ii%'  UNION ALL "
+  SELECT COUNT(*) FROM table_20948329_1 WHERE legs_won = 45; 
+"  SELECT order__number, theme, 1  FROM table_15796100_1  WHERE order__number = '1'  ORDER BY theme  LIMIT 1  "
+  SELECT sesamin FROM sesame_seed_1831262_2 WHERE sesamin = sesamin;
+  SELECT nationality  FROM ship  GROUP BY nationality  HAVING COUNT(*) > 2;
+  SELECT aircraft.description  FROM aircraft  WHERE aircraft.description LIKE '%Aircraft%'  ORDER BY aircraft.description;
+  SELECT COUNT(*) FROM sport_20823568_2 WHERE sporting_profession ='snooker' 
+"  SELECT internal_transfers, COUNT(*) FROM table_17650725_1 GROUP BY internal_transfers; "
+"  SELECT name, tourist_attraction_id  FROM tourist_attractions  WHERE tourist_attraction_id IN (SELECT name FROM tourist_attractions  WHERE tourist_attraction_id IN (SELECT name FROM tourist_attractions  WHERE tourist_attraction_id IN (SELECT name FROM tourist_attractions  WHERE tourist_attraction_id IN (SELECT name FROM tourist_attractions  WHERE"
+"  SELECT actor_in_original_production, roleplay FROM table_17827271_1 WHERE roleplay = 'Alison Pargeter' "
+  SELECT artist FROM table_21378339_5 WHERE televote_points = 7 
+  SELECT 1 AS 1 FROM 1  WHERE 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 
+"  SELECT tonnes, airport_name, 1 AS PRIMARY_KEY_SCHEMA, 1 AS PRIMARY_KEY_SCHEMA_SCHEMA, 1 AS PRIMARY_KEY_SCHEMA_SCHEMA_SCHEMA, 1 AS PRIMARY_KEY_SCHEMA_SCHEMA_SCHEMA_SCHEMA, 1 AS PRIMARY_KEY_SCHEMA_SCHEMA_SCHEMA_SCHEMA_"
+  SELECT 1  FROM   table_19908313_2  WHERE  listed_owner_s_ = 'Bobby Dotter'  
+  SELECT  name  FROM  addresses  WHERE  state_province_county = 'Virginia'  UNION  SELECT  name  FROM  addresses  WHERE  state_province_county = 'Virginia'  UNION  SELECT  name  FROM  addresses  WHERE  state_province_county = 'Virginia'  UNION  SELECT  name  FROM  addresses  WHERE  state_province_county = '
+"  SELECT payment_method_code, COUNT(*)  FROM invoices  GROUP BY payment_method_code  ORDER BY payment_method_code;"
+  
+  SELECT dominant_religion__2002_ FROM table_2562572_37 WHERE settlement ='srpska crnja' 
+"  SELECT COUNT(*) FROM film WHERE language_id IN ('en', 'es', 'fr', 'pt'); "
+"  SELECT country, COUNT(*) AS number_of_perpetrators  FROM perpetrator  GROUP BY country  ORDER BY number_of_perpetrators DESC  LIMIT 10;"
+"  SELECT product_name, SUM(product_quantity) AS total_quantity_ordered  FROM order_items  GROUP BY product_name; "
+  SELECT COUNT(*) FROM Schema.table_15887683_16 WHERE television_service = 'elite shopping tv' 
+"  SELECT party, incumbent  FROM table_1342149_43  WHERE party = 'Republican'  AND incumbent = 'Wright Patman'  "
+"  SELECT champion, third_place, 3 AS third_place_position  FROM table_2331549_1  WHERE champion = 'Michigan Technological University' AND third_place = 'Third'  ORDER BY third_place_position ASC  LIMIT 1; "
+"  SELECT pacbio, 454gsflx, 100-500mb FROM table_127511_1 WHERE pacbio = '100-500 mb' "
+"  SELECT february_2010, january_2010 FROM table_25256368_1 WHERE february_2010 = 'february_2010' AND january_2010 = 'january_2010' "
+  SELECT COUNT(*) FROM table_26757_4 WHERE slovak = 'belarusian' 
+  SELECT COUNT(*) FROM pets WHERE pettype = 'dog'  
+  SELECT COUNT(*) FROM aircraft; 
+  SELECT main_artillery FROM table_23614702_1 WHERE warship = 'Blanco Encalada' 
+"  SELECT 1 AS 1, 46 AS 2, 46 AS 3, 46 AS 4, 46 AS 5, 46 AS 6, 46 AS 7, 46 AS 8, 46 AS 9, 46 AS 10, 46 AS 11, 46 AS 12, 46 AS 13, 46 AS "
+  SELECT * FROM table_17419587_1 WHERE airport = 'MEL' 
+  SELECT date_of_vacancy  FROM table_27133147_3  WHERE manner_of_departure ='resigned'  AND position_in_table = 10;
+  SELECT directed_by  FROM table_25547943_1  WHERE written_by = 'Bill Lawrence'  
+"  SELECT location, representative_name, station_id, 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  SELECT COUNT(*) FROM Schema.Table_24160890_3; 
+  
+" 
+
+
+# + [markdown] id=""_1100000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  SELECT COUNT(*)  FROM table_19897294_9  WHERE original_air_date = 'ryder family'  AND family_families = 'ryder family'  
+" 
+
+# +
+# %%time
+
+# Create a SQLite database
+#!sqlite3 -f /content/amtrak.db
+
+# +
+# %%time
+
+# Create a SQLite table
+#!sqlite3 -f /content/amtrak.db create table table_243664_1 (real_life_eventual_outcome varchar, currently¹_part_of varchar, PRIMARY KEY (real_life_event"
+  SELECT 1  FROM Schema.table_28652521_1  WHERE singer_part_number = 'green plastic box' 
+  SELECT us_viewers__million_ FROM table_29747178_2 WHERE directed_by = 'andy wolk' 
+"  SELECT COUNT(*) FROM table_25235489_2 WHERE june_10_11 = 'NOvember 3, 1975' "
+"  SELECT song_choice, week__number, week_number, week_number_top10, week_number_top10_2020, week_number_top10_2021, week_number_top10_2022, week_number_top10_2023, week_number_top10_2024, week_number_top10_2025, week"
+  SELECT COUNT(*) FROM table_18662026_10 WHERE gymnast = 'parallel_bars' AND parallel_bars = 14.025; 
+"  SELECT name, COUNT(*) AS conductor_count  FROM orchestra  GROUP BY name  ORDER BY conductor_count DESC  LIMIT 1;"
+"  SELECT title, us_viewers__millions_, 1 AS us_viewers__millions_  FROM table_21313327_1  WHERE us_viewers__millions_ = 3.3  ORDER BY us_viewers__millions_ ASC  LIMIT 1  "
+  SELECT COUNT(*) FROM table_1717824_3 WHERE pakistanis_admitted > 627; 
+"  SELECT name, dept_name, tot_cred  FROM student  ORDER BY name ASC, dept_name ASC, tot_cred ASC; "
+"  SELECT party, COUNT(*) AS distinct_parties  FROM representative GROUP BY party; "
+  SELECT winning_driver  FROM table_1140116_5  WHERE circuit = 'Modena'  
+  SELECT  poor_law_union  FROM  create_table_28802165_1  WHERE  townland = 'Marshalstown'  
+"  SELECT supporting, gt_winning_car, round, PRIMARY KEY (supporting, gt_winning_car, round)  FROM table_28490105_1  WHERE round = 1  ORDER BY round ASC  "
+"  SELECT department_stores.dept_store_chain_id, department_stores.dept_store_chain_name, COUNT(department_stores.dept_store_chain_id) AS department_stores_count  FROM department_stores  GROUP BY department_stores.dept_store_chain_id, department_stores.dept_store_chain_name  ORDER BY department_stores_count DESC "
+  SELECT COUNT(*) FROM SEC_WINS WHERE sec_wins = '30-4' 
+"  SELECT japanese_translation, vocalist  FROM table_2144389_9  WHERE vocalist ='momoiro clover z'  "
+  SELECT COUNT(*)  FROM table_22905641_2  WHERE race_3_winner = 'Mitch Evans'  AND race_2_winner = 'Mitch Evans'  
+" 
+
+# +
+# SQLite query to answer the question:
+# Location for focal plane in ft (m) is naidi hills, basco.
+
+# +
+# SQLite query to answer the question:
+# Location for focal plane in ft (m) is naidi hills, basco.
+
+# +
+# SQLite query to answer the question:
+# Location for focal plane in ft (m) is naidi hills, basco.
+"
+  
+"  SELECT  pole_position, fastest_lap, constructor, 1 AS PRIMARY_KEY  FROM  table_1140076_2  WHERE  constructor = 'Ferrari'  ORDER BY  pole_position DESC  LIMIT  1  "
+" 
+
+# + id=""_10110000_1""
+#!sqlite3 -edit /content/drive/MyDrive/Colab Notebooks/capital_name.db ""SELECT * FROM table_15694696_1 WHERE arabic_capital_name = 'Manama'""
+
+# + [markdown] id=""_10110000_1""
+# **"
+"  SELECT 1, ""Iraq"", ""conflict""  FROM table_1921_1  WHERE 1  "
+" 
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +
+# SQLite query to answer the question
+
+# +"
+  SELECT COUNT(*) FROM table_28138035_33 WHERE mens_doubles = 'Sun Jin' AND womens_singles = 'women' 
+  SELECT COUNT(*) FROM table_14603057_2 WHERE class_a = 'Gregory-Portland' AND class_aaaa = 'AAA AAAA' 
+"  SELECT team, motorcycle  FROM table_20016339_1  WHERE team = 'Honda'  "
+"  SELECT store_id, COUNT(*) AS num_items  FROM inventory  GROUP BY store_id  ORDER BY num_items DESC  LIMIT 1; "
+  SELECT vocal_percussionist  FROM table_28715942_6  WHERE vocal_percussionist = 'The Coral' 
+  SELECT COUNT(*) FROM table_11464746_1 WHERE colours = 'green'; 
+  SELECT location  FROM cinema  WHERE cinema.location LIKE 'Cinema'  ORDER BY cinema.location  LIMIT 10  
+"  SELECT 1.7, 2010, 2011  FROM  table_14752049_2  WHERE 1.7 = 1.7  AND 2010 = 2010  AND 2011 = 2011  "
+  SELECT race_caller FROM table_22514845_5 WHERE s_host = 'jim mckay' OR s_host = 'howard cosell' 
+  
+"  SELECT naming, fluency, auditory_comprehension, auditory_comprehension, auditory_comprehension, auditory_comprehension, auditory_comprehension, auditory_comprehension, auditory_comprehension, auditory_comprehension, auditory_comprehension, auditory_comprehension, auditory_comprehension, auditory_compreh"
+"  SELECT 4 AS place, 1 AS place_name, 1 AS place_type, 1 AS place_subtype, 1 AS place_subtype_name, 1 AS place_subtype_type, 1 AS place_subtype_subtype, 1 AS place_subtype_subtype_name, 1 AS place_subtype_subtype_type, 1 AS place_subtype_subtype_subtype, "
+  
+" 
+
+
+# + [markdown] id=""_1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+"  SELECT 1 AS 1, 2 AS 2, 3 AS 3, 4 AS 4, 5 AS 5, 6 AS 6, 7 AS 7, 8 AS 8, 9 AS 9, 10 AS 10, 11 AS 11, 12 AS 12, 13 AS 13, 14 AS 14, 15 AS "
+  
+"  SELECT country, COUNT(*) AS stadiums  FROM stadium  GROUP BY country  HAVING COUNT(*) <= 3  ORDER BY COUNT(*) DESC  LIMIT 1  "
+  SELECT amenity_name FROM dorm_amenity WHERE amenity_name = 'bathroom' AND student_last_name = 'Smith' AND student_lname = 'Smith' AND student_stuid = '12345'; 
+  SELECT population__2000_census__ FROM table_2588674_1 WHERE area_km² = 2.33; 
+"  SELECT passed, no_votes, COUNT(*) AS total_votes FROM table_256286_19 GROUP BY passed, no_votes; "
+" 
+
+
+# +
+# Write your SQL query below:
+
+
+
+# -
+
+# ### Answer the following question using SQL:
+#
+#
+# What is the propulsion when the vessel is marianarray?
+
+# +
+# Write your SQL query below:
+
+
+
+# -
+
+# ### Answer the following question using SQL:
+#
+#
+# What is the propulsion when the vessel is marianarray?
+
+#"
+  SELECT COUNT(*) FROM table_1979203_1 WHERE branding = 'Telemundo 47' 
+"  SELECT  original_airdate,  written_by  FROM  table_19517621_4  WHERE  original_airdate = '1999-01-01'  "
+  SELECT director  FROM table_2345558_1  WHERE writer_s_ = 'Jason Yoshimura'  ORDER BY director  LIMIT 1  
+"  SELECT successor, vacator, PRIMARY KEY (successor)  FROM table_2147588_3  WHERE vacator ='successor'  ORDER BY successor ASC  LIMIT 1;  "
+  SELECT prize_money  FROM table_11622496_1  WHERE location = 'Virginia'; 
+  SELECT COUNT(*) FROM sportsinfo WHERE sportname = 'baseball'; 
+"  SELECT class_aa, COUNT(*) FROM table_14601528_2 GROUP BY class_aa ORDER BY COUNT(*) DESC LIMIT 1;  "
+  SELECT brakes FROM table_250230_2 WHERE brakes = 'brakes' 
+  
+  SELECT COUNT(*) FROM table_1342292_4 WHERE party = 'incumbent' 
+"  SELECT urban_settlement, city___municipality FROM table_2562572_7 WHERE urban_settlement = 'Kovin' "
+" 
+
+# +
+# %%bigquery --project $PROJECT_ID
+
+SELECT 
+    department,
+    local_investment__us__$626798,
+    local_investment__us__$626798_2
+FROM
+    `bigquery-samples.local_investments.table_17118006_2`
+WHERE
+    department = 'local_in"
+"  SELECT prize, entries, prize_pool  FROM table_2534387_11  WHERE prize = '1,132'  "
+"  SELECT document_type_code, COUNT(*)  FROM documents GROUP BY document_type_code; "
+  SELECT date_of_creation FROM table_261222_1 WHERE city___municipality = 'Kibawe' 
+"  SELECT media_type, genre  FROM table_23829490_1  WHERE genre = 'Psychedelic Trance'  "
+  SELECT COUNT(*) FROM table_29942205_1 WHERE country_territory = 'Uruguay'; 
+"  SELECT 1 AS claim_stage_id, 1 AS claim_status_name  FROM claims_processing  WHERE claim_status_name = 'claim_processing'  UNION  SELECT 1 AS claim_stage_id, 2 AS claim_status_name  FROM claims_processing  WHERE claim_status_name = 'claim_processing'  UNION  SELECT 1 AS claim_stage_id, 3 AS claim_status_name  FROM"
+"  SELECT rev, application, rev AS rev_rev FROM table_1310499_1 WHERE rev = '2003-2004 Mustang Cobra' "
+"  SELECT world_record, COUNT(*) FROM table_24011830_2 WHERE world_record = '26 august 2005 asian record' GROUP BY world_record ORDER BY COUNT(*) DESC LIMIT 1;  "
+"  SELECT run_time, viewers__in_millions_ FROM table_1429629_1 WHERE run_time = '8.2 million viewers' "
+  SELECT COUNT(*) FROM table_17186229_4 WHERE opponent = '9-2' 
+  SELECT COUNT(*) FROM table_17327458_1 WHERE manner_of_departure = '25 May' 
+  SELECT parishes FROM table_221375_1 WHERE province_of_1936 = 'beiara baixa' 
+"  SELECT 1 AS game_site, ""Rheinenergiestadion"" AS team_record, 1 AS record_year, 1 AS record_month, 1 AS record_day, 1 AS record_hour, 1 AS record_minute, 1 AS record_second, 1 AS record_microsecond, 1 AS record_millisecond, 1 AS record_nanosecond, 1 AS record_quarter, "
+  SELECT COUNT(*) FROM table_23285849_6 WHERE high_points = 'highest_points'  
+  SELECT COUNT(*) FROM table_22815265_1 WHERE opponent = 'Utah'; 
+  SELECT lunar_landing_site FROM table_1558077_8 WHERE lunar_landing_date = '19 november 1969' 
+  SELECT DISTINCT  Steve Sauerberg  FROM  table_16751596_2  WHERE  dates_administered  =  '2008-09-15'  AND  dates_administered  =  '2008-09-18'  
+  SELECT COUNT(*) FROM table_19072602_3; 
+  SELECT team_s_  FROM table_2190919_1  WHERE avg_finish = 23.3  ORDER BY team_s_ ASC  LIMIT 1  
+"  SELECT name FROM train_station  WHERE train_id IN ('Ananthapuri Express', 'Guruvayur Express') "
+"  SELECT commercial_name, semifinal_matches FROM table_2413292_1 WHERE semifinal_matches ='semifinal_matches' ORDER BY semifinal_matches ASC LIMIT 1;"
+"  SELECT race_number, sail_number  FROM table_20854943_2  WHERE race_number = 'AUS 98888'  "
+  SELECT COUNT(*) FROM table_22916979_1 WHERE population_density__people_per_mi_2__ = 10188.8; 
+"  SELECT  colors, nickname  FROM  table_261927_1  WHERE  colors = 'nickname'  "
+" 
+
+
+# +
+# Write your SQL query statement below.
+
+
+
+# -
+
+# ### Answer the following question:
+
+# +
+# Write your SQL query statement below.
+
+
+
+# -
+
+# ### Answer the following question:
+
+# +
+# Write your SQL query statement below.
+
+
+
+# -
+
+# ### Answer the following question:
+
+# +
+# Write your SQL query statement below.
+
+"
+" 
+
+# +
+# %%bigquery --project $PROJECT_ID
+
+CREATE OR REPLACE TABLE `schema.table_19114172_11` (
+  `date_of_return` DATE,
+  `new_channel_s_` VARCHAR(255),
+  PRIMARY KEY (`date_of_return`)
+)
+
+# -
+
+# ### 2. Create a new table with the following"
+"  SELECT  original_air_date, directed_by,  original_air_date,  original_air_date,  original_air_date,  original_air_date,  original_air_date,  original_air_date,  original_air_date,  original_air_date,  original_air_date,  original_air_date,  original_air_date,  original_air_date,  original_air"
+"  SELECT player_name, college FROM table_20871703_1 WHERE player_name = 'South Carolina' "
+"  SELECT arrangement, title FROM table_28005100_1 WHERE arrangement = 'bets3ab 3alia nafsy' "
+  SELECT cust_name  FROM customer  WHERE amount > 3000;
+" 
+
+# +
+# %%bigquery --project $PROJECT_ID
+
+SELECT
+  last_performance,
+  performer,
+  PRIMARY KEY (last_performance)
+
+# -
+
+# ## 2. What is the last performance of leon varkas category:articles with hcards:
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#"
+"  SELECT subscribers__2005___thousands_, provider  FROM table_29395291_2  WHERE subscribers__2005___thousands_ < 20000000000000000000000000000000000000000000000000000000"
+  SELECT DISTINCT ds_division FROM table_12485020_1 WHERE ds_division = 'Kaluvanchikudy' 
+"  SELECT congress, member_elect, PRIMARY KEY (congress)  FROM table_14158567_1  WHERE congress = '1995'  ORDER BY congress  "
+  
+"  SELECT country, commentator, commentator_commentator_relation, commentator_commentator_relation_commentator, commentator_commentator_relation_commentator_relation, commentator_commentator_relation_commentator_relation_commentator, commentator_commentator_relation_commentator_relation_commentator, commentator_commentator_relation_commentator_relation_commentator, commentator_commentator_relation_commentator_relation_comment"
+  SELECT location FROM table_16734640_1 WHERE institution = 'chattahoochee technical college' 
+"  SELECT  party, COUNT(*) AS governor  FROM party  GROUP BY party  ORDER BY governor DESC  LIMIT 10  "
+"  SELECT kōhaku__number, red_team_host  FROM table_1315616_1  WHERE kōhaku__number = '1315616'  AND red_team_host = 'Peggy Hayama'  "
+  SELECT COUNT(*) FROM table_1473672_4  WHERE nhl_team = 'Philadelphia Flyers' 
+  SELECT email FROM user_profiles WHERE name = 'Mary' 
+"  SELECT 1 AS `1`, 2 AS `2`, 3 AS `3`, 4 AS `4`, 5 AS `5`, 6 AS `6`, 7 AS `7`, 8 AS `8`, 9 AS `9`, 10 AS `10`, 11 AS `11`, 12 AS `12`, 13 AS `13`, 14 AS `14`, 15 AS `"
+"  SELECT 1 AS no_of_s_barangay, 205.4 AS pop_density__per_km², 1 AS no_of_s_barangay, 205.4 AS pop_density__per_km²  FROM  (SELECT 1 AS no_of_s_barangay, 205.4 AS pop_density__per_km², 1 AS no_of_"
+"  SELECT  professionals.professional_id, professionals.cell_number, professionals.professional_name, professionals.professional_id, professionals.professional_name, professionals.professional_id, professionals.professional_name, professionals.professional_id, professionals.professional_name, professionals.professional_id, professionals.professional_name, professionals.professional_id, professionals."
+"  SELECT dates, champion, PRIMARY KEY (dates)  FROM table_15315276_1  WHERE champion = 'Jenny Gleason'  ORDER BY dates;"
+"  SELECT 2008_percentage_ AS for_percentage, 20683381_3 AS table_name  FROM sqlite_master  WHERE type='table'  AND name='table_20683381_3'  ORDER BY for_percentage DESC  LIMIT 1; "
+"  SELECT title, written_by  FROM table_25604014_8  WHERE written_by = 'William M. Finkelstein'  "
+"  SELECT name, COUNT(*) AS friends  FROM highschooler  GROUP BY name  ORDER BY friends DESC  LIMIT 10;"
+"  SELECT country_region, title, title_en  FROM table_20780285_1  WHERE country_region = 'Romania'  "
+"  SELECT id, total_vehicles, 1 AS total_vehicles_set  FROM table_19255192_2  WHERE total_vehicles < 4  GROUP BY id, total_vehicles  HAVING total_vehicles < 4  ORDER BY total_vehicles_set ASC  LIMIT 4  "
+  SELECT name FROM tracks  WHERE genre_id = '8'  
+"  SELECT race_name, fastest_lap, 1 AS PRIMARY_KEY  FROM table_2454550_1  WHERE race_name = 'Buddy Rice'  ORDER BY fastest_lap DESC  LIMIT 1;  "
+"  SELECT candidates, incumbent  FROM table_1341718_14  WHERE incumbent = 'ed derwinski'  ORDER BY candidates ASC  LIMIT 1  "
+" 
+
+<SQLite>
+CREATE TABLE table_13301516_1 (title varchar, us_viewers__millions_ varchar, PRIMARY KEY (title))
+"
+"  SELECT years_for_rockets, no_s_ FROM table_11734041_3 WHERE years_for_rockets = 13; "
+  SELECT directed_by  FROM table_2226817_7  WHERE original_air_date = '1992-01-19' 
+"  SELECT round_of_32, conference FROM table_10722506_6 WHERE conference = 'USA' "
+"  SELECT builder, wheel_arrangement, COUNT(*) AS num_of_locomotives  FROM table_1157867_2  GROUP BY builder, wheel_arrangement  HAVING num_of_locomotives = 2  ORDER BY builder, wheel_arrangement  "
+"  SELECT  dept_name,  dept_address,  dept_code,  COUNT(*)  FROM  student  GROUP BY  dept_name,  dept_address,  dept_code  ORDER BY  COUNT(*) DESC  LIMIT  3; "
+"  SELECT  children_together,  length_of_marriage,  PRIMARY KEY (children_together)  FROM  table_24143253_1  WHERE  children_together = '9'  "
+"  SELECT rural, year, 1979 AS year_january, 1 AS percentage FROM table_16645_1 WHERE rural = 1979 AND year = 1979 AND percentage = 1979; "
+  SELECT * FROM table_28211988_1  WHERE mens_doubles = Ma Wenge  
+  SELECT branding FROM table_27588823_2 WHERE location ='san jose del monte'; 
+" 
+
+
+# +
+# Write your SQL query statement below.
+
+
+
+# +
+# Write your SQL query statement above as a comment.
+# -
+
+# ### Answer the following question:
+
+# +
+# Write your SQL query statement above.
+
+
+
+# +
+# Write your SQL query statement above.
+
+
+
+# +
+# Write your SQL query statement above.
+
+
+
+# +
+# Write your SQL query statement"
+" 
+
+<|user|>
+Write a SQL query to answer the following question: Which original air date had 0.871 U.S. viewers (millions)?
+<|assistant|>
+To answer the question, we need to find the original air date with a U.S. viewers (millions) of 0.871.
+
+Here is the SQL query to find the original air date with a U.S. view"
+  SELECT  `air_dates`  FROM  `table_27487310_5`  WHERE  `network` = 'ABS-CBN'  
+  SELECT COUNT(*)  FROM projects  WHERE name = 'Project 1'  OR name = 'Project 2'  OR name = 'Project 3'  OR name = 'Project 4'  OR name = 'Project 5'  OR name = 'Project 6'  OR name = 'Project 7'  OR name = 'Project 8'  OR name = 'Project 9'  OR name = 'Project 10'  OR name
+  SELECT COUNT(DISTINCT student_id) FROM student_course_enrolment; 
+"  SELECT teacher_id, name  FROM teacher  UNION  SELECT course_id, name  FROM course  "
+"  SELECT at_neutral_site, overall_record, 27-16 AS ui  FROM table_16201038_4  WHERE overall_record = ui  "
+"  SELECT g__μs_km_, frequency__hz_ FROM table_261642_3 WHERE frequency__hz_ = 10000000000000000000000000000000000000000000000000000000000000000000"
+" 
+
+# +
+# %%time
+
+# Create a database schema
+# -
+
+# %%time
+
+# +
+# %%time
+
+# Create a table
+# -
+
+# %%time
+
+# +
+# %%time
+
+# Create a query
+# -
+
+# %%time
+
+# +
+# %%time
+
+# Create a query
+# -
+
+# %%time
+
+# +
+# %%time
+
+#"
+  SELECT COUNT(*) FROM bullet_tip_color_other_features_case_base; 
+"  SELECT directed_by, us_viewers__millions_ FROM table_24910733_1 WHERE us_viewers__millions_ = 112100000000000000000000000000000000000000000000000000000000000"
+  SELECT COUNT(*) FROM table_28164986_4; 
+"  SELECT ramtha, jeel, hussein, 1-0 AS result FROM table_26173063_2 WHERE ramtha = 'jeel' AND jeel = 1-0 AND hussein = 1-0; "
+"  SELECT  high_points, team, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+  SELECT COUNT(*) FROM products; 
+  SELECT 1 FROM table_25355501_2 WHERE june_10_11 = '1991-01-15' AND january_15_16 = '1991-01-15' 
+  SELECT enlisted FROM table_23508196_5 WHERE enlisted = 'Nam ethe enlisted for troop carrier group' 
+  SELECT team FROM table_18522916_5 WHERE date_of_appointment = '5 september 2008' AND date_of_vacancy = '30 august 2008' 
+"  SELECT gdp__ppp__per_capita___intl_$___2011, country FROM table_26313243_1 WHERE gdp__ppp__per_capita___intl_$___2011 = 'haiti' "
+  SELECT 1  FROM company  WHERE 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND
+"  SELECT room, COUNT(*) AS reservations  FROM reservations  GROUP BY room  HAVING COUNT(*) = reservations  ORDER BY COUNT(*) DESC;"
+  
+"  SELECT  `original_air_date`,  `us_viewers__million_`,  `1.76 million`  FROM  `table_21979779_1`  WHERE  `original_air_date` = '2019-01-01'  ORDER BY  `original_air_date` ASC  LIMIT  1  "
+ 129 is on March 27th to 29th what is June 10th to 11th?
+  SELECT team_s_ FROM table_2387790_2 WHERE avg_finish = 8.3; 
+"  SELECT parliament, general_election_contested, PRIMARY KEY (parliament)  FROM table_1889233_2  WHERE general_election_contested = '1997'  ORDER BY parliament  LIMIT 1  "
+  
+  SELECT artist_name  FROM artist  WHERE country = 'UK'  AND language = 'ENGLISH';  
+"  SELECT mens_doubles, womens_singles, mens_doubles, womens_singles  FROM table_12163387_1  WHERE mens_doubles = 'Alison Humby'  AND womens_singles = 'womens_singles'  ORDER BY mens_doubles ASC  "
+"  SELECT race_name, report  FROM table_1140099_6  WHERE race_name ='mirror trophy'  "
+  SELECT order_id  FROM shipments  WHERE shipment_date > '2000-01-01'  ORDER BY order_id  LIMIT 10;
+  SELECT COUNT(*) FROM table_14688744_2 WHERE station_code = awy; 
+  SELECT category FROM table_27155990_1 WHERE project_name = 'Mighty No. 9' 
+  
+"  SELECT country_id, COUNT(city_id) AS num_cities  FROM locations GROUP BY country_id  ORDER BY num_cities DESC  LIMIT 10;  "
+"  SELECT  attribute_data_type  FROM  attribute_definitions  WHERE  attribute_data_type  IN  ('varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar', 'varchar',"
+" 
+
+
+"
+  SELECT COUNT(*) FROM table_127511_1 WHERE ion_torrent_pgm = 'Sanger 3730xl' AND sanger_3730xl = '2400 usd' 
+"  SELECT 1 AS rating, 1 AS brisbane, 1 AS adelaide  FROM   sqlite_master  WHERE  type = 'table'  AND  name = 'table_24291077_8'  ORDER  BY 1  LIMIT  1;"
+"  SELECT type, COUNT(*) AS artworks  FROM artwork  GROUP BY type  HAVING COUNT(*) > 1  ORDER BY COUNT(*) DESC  "
+" 
+
+# +
+# %%HTML
+
+<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/5000000000000000000000000000000000000000000000000000000000000000"
+"  SELECT income_poverty_f, exports__usd_mn__2011, income_poverty_f, income_poverty_f, income_poverty_f, income_poverty_f, income_poverty_f, income_poverty_f, income_poverty_f, income_poverty_f, income_poverty_f, income_poverty_f"
+  SELECT director  FROM table_25800134_1  WHERE airdate = '1956-12-15'  
+  SELECT COUNT(*) FROM table_1341522_36 WHERE status ='respresented by Alex McMillan'; 
+"  SELECT document_id, budget_type_code  FROM documents_with_expenses  WHERE budget_type_code = 'Government'  "
+"  SELECT party, incumbent, PRIMARY KEY (party)  FROM table_1341865_11  WHERE party = 'Democratic'  UNION ALL  SELECT party, incumbent, PRIMARY KEY (party)  FROM table_1341865_11  WHERE party = 'Republican'  "
+"  SELECT temperature_classification, maximum_ceiling_temperature FROM table_1538516_1 WHERE temperature_classification ='very high' "
+  SELECT COUNT(*) FROM table_26263954_1 WHERE revised_hepburn ='revised_hepburn' AND english = 'english' 
+  SELECT COUNT(*) FROM fai_space_flights WHERE max_mach = 5.65; 
+  
+"  SELECT date_of_vacancy, replaced_by, COUNT(*) AS vacant_days  FROM table_11207040_6  GROUP BY date_of_vacancy, replaced_by  HAVING COUNT(*) = 1  ORDER BY date_of_vacancy  "
+  SELECT award_name FROM table_15584199_2 WHERE award_name = 'team_number'  
+  SELECT COUNT(*) FROM table_16201038_3 WHERE last_5_meetings = 'texas tech' 
+"  SELECT product_id, color_code, characteristic_name, product_id FROM products JOIN ref_colors ON products.color_code = ref_colors.characteristic_id JOIN products ON products.product_id = products.product_id JOIN ref_colors ON products.color_code = ref_colors.characteristic_id JOIN ref_colors ON products.product_id = ref_colors.product_id JOIN ref_colors ON products.product_id = ref"
+"  SELECT 45, 40  FROM   table_16724844_1  WHERE  mens_45 = 'Sunwest Razorbacks def Sydney Mets'  "
+  SELECT author FROM table_1620397_2 WHERE series_sorted = '6y/ae' 
+"  SELECT party, incumbent FROM table_2668264_8 WHERE party = 'Republican' AND incumbent = 'Republican'  "
+  SELECT wiaa_classification  FROM table_1414702_3  WHERE wiaa_classification = 'Oakland Alternative High School' 
+"  SELECT COUNT(*) FROM table_11677100_15  WHERE hometown = 'High Point, NC' "
+  SELECT directed_by  FROM table_25341765_1  WHERE us_viewers__million_ = 5.92  
+  SELECT original_artist FROM table_21501565_1 WHERE theme = 'N/A' 
+  SELECT COUNT(*) FROM candidates WHERE candidates LIKE 'barratt o%hara%'; 
+  SELECT COUNT(*)  FROM table_27547668_4  WHERE original_airdate = 'Allan Hawco' 
+"  SELECT 1  FROM   Schema: create table table_25284864_3 (january_15_16 varchar, november_3 varchar, PRIMARY KEY (january_15_16))  "
+" 
+
+# +
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+"
+  SELECT nupowr_183 FROM table_3002894_4 WHERE nupowr_117 = 0 AND nupowr_183 = 0; 
+"  SELECT pictorials, cover_model, pictorials, cover_model, pictorials, cover_model, pictorials, cover_model, pictorials, cover_model, pictorials, cover_model, pictorials, cover_model, pictorials, cover_model, pictorials, cover_model, pictorials, cover_model, pictorials, cover_model,"
+"  SELECT 1 AS vocal_type, 1 AS bandmate, 1 AS song_id  FROM vocals  WHERE 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1"
+  SELECT branding  FROM krca_tv_1  WHERE callsign = 'krca-tv.' 
+  SELECT fname  FROM student  WHERE stuid NOT IN (SELECT stuid  FROM enrolled_in  GROUP BY stuid  HAVING COUNT(*) > 1); 
+"  SELECT record, team, PRIMARY KEY (record)  FROM table_17325580_10  WHERE team = 'Boston'  ORDER BY record DESC  LIMIT 1;"
+  SELECT 1 AS `1` FROM `table_14015965_1` WHERE `head_coach` = 'Joe Montana' AND `previous_season` = '2014' 
+" 
+
+
+"
+" 
+
+# +
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+"
+  SELECT period FROM table_24565004_17 WHERE name ='michel prost' 
+"  SELECT tv_network_s_ FROM table_29799700_2 WHERE tv_network_s_ = 'ABC' AND series_finale = 'May 7, 2012' "
+  SELECT villains FROM Schema.table_10470082_7 WHERE villains = 'Megan' AND director = 'Lorette LeBlanc' 
+"  SELECT kentucky, indiana, wisconsin, brownsburg, merrill FROM table_18461045_1 WHERE kentucky = 'Brownsburg' AND indiana = 'Merrill' AND wisconsin = 'Brownsburg' AND brownsburg = 'Merrill' "
+"  SELECT gas_storage, alternative_fuel, 1 AS status  FROM table_21690339_1  WHERE alternative_fuel = 'yes'  AND gas_storage = 'yes'  AND status = 1  "
+  SELECT * FROM table_19624708_1 WHERE owner = 'r. a. Scott' 
+"  SELECT major, COUNT(*) AS num_students  FROM student  GROUP BY major  ORDER BY major; "
+"  SELECT location, count(station_id) as count  FROM gas_station  GROUP BY location  ORDER BY count DESC  LIMIT 10;  "
+  SELECT transmission  FROM table_11167610_1  WHERE turbo = 'yes'  
+"  SELECT party, incumbent, PRIMARY KEY (party)  FROM table_1341884_45  WHERE party = 'Ray'  "
+"  SELECT forename, surname  FROM drivers  WHERE nationality = 'German' "
+" 
+
+# +
+# %%time
+
+# 08-09 gp/jgp 2nd
+
+# +
+# %%time
+
+# 08-09 gp/jgp 2nd
+
+# +
+# %%time
+
+# 08-09 gp/jgp 2nd
+
+# +
+# %%time
+
+# 08-09 gp/jg"
+"  SELECT troops_per_one_million_population, troops_per_$1_billion___usd___gdp, troop_count_1000000 FROM table_30108346_1 WHERE troops_per_one_million_population = 2.76; "
+  SELECT publisher FROM table_16907214_1 WHERE isbn = '1-937007-44-8' 
+"  SELECT African Spoonbill, Ostrich, Brown-hooded Kingfisher  FROM Schema.table_20042805_2  WHERE African Spoonbill = 'Brown-hooded Kingfisher' "
+  SELECT race_name  FROM table_1140116_5  WHERE circuit = 'Modena'  
+"  SELECT location, record, PRIMARY KEY (location)  FROM table_18904831_7  WHERE location = 'table_18904831_7'  AND record = 19-6  "
+"  SELECT 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,"
+"  SELECT mens_doubles, mens_singles, mens_singles, mens_doubles, mens_singles, mens_singles, mens_doubles, mens_singles, mens_singles, mens_doubles, mens_singles, mens_singles, mens_doubles, mens_singles, mens_singles, mens_doubles, mens_singles, mens_singles, mens_d"
+"  SELECT final_losses, semi, team, COUNT(*) AS total_losses FROM table_17751942_4 GROUP BY final_losses, semi, team; "
+  SELECT paper_type  FROM table_25468520_1  WHERE date_of_issue = '2020-07-08'  
+"  SELECT air_date, us_viewers__millions_ FROM table_28334498_3 WHERE air_date = '2021-01-01' AND us_viewers__millions_ = 1.01 "
+  
+  SELECT airdate FROM table_25721_3 WHERE airdate = '106000 dave ja vu viewers' 
+  SELECT COUNT(*) FROM table_2175858_1 WHERE driver = 'driver1' AND race_time = 'race_time1' 
+"  SELECT three_darts_challenge, air_date FROM table_26733129_1 WHERE three_darts_challenge = '3 darts challenge' AND air_date = '10 may 2010' "
+"  SELECT school, year_of_last_win, 1 AS year_of_last_win_1  FROM table_14286908_1  WHERE school = 'Boston'  AND year_of_last_win = 2007  AND year_of_last_win_1 = 1  UNION  SELECT school, year_of_last_win, 2 AS year_of_last_win_2"
+  SELECT COUNT(*) FROM table_25016824_2 WHERE vote = 'yes' AND air_date = '15 november 1997'; 
+  
+  SELECT 1 FROM Schema.table_26436_2 WHERE original_broadway_cast = 'Jesse L. Martin' 
+  
+"  SELECT date_of_appointment, replaced_by, 1 AS manager_id  FROM table_27782699_3  WHERE replaced_by = 'Kim Fogh'  ORDER BY date_of_appointment ASC  LIMIT 1  "
+"  SELECT lyricist, film_name, co_singer  FROM table_11827596_4  WHERE co_singer = 'gopal krishna'  AND film_name ='solo'  "
+"  SELECT pole_position, grand_prix  FROM table_1137695_3  WHERE grand_prix ='monaco grand prix'  ORDER BY pole_position DESC  LIMIT 1  "
+"  SELECT brand, COUNT(*) AS wins  FROM table_13512105_3  GROUP BY brand  HAVING COUNT(*) > 1  "
+"  SELECT category, COUNT(*) AS count  FROM music_festival  GROUP BY category  HAVING count > 1  ORDER BY count DESC  LIMIT 10;"
+  SELECT COUNT(*) FROM table_25271777_1 WHERE violent = 'forcible_rape' 
+  SELECT callback_venue FROM table_27455867_1 WHERE episode_air_date = '2011-01-20' 
+"  SELECT 1, 'AutoCAD Architectural Desktop 3'  FROM sqlite_master  WHERE type='table'  AND name='table_19329117_1'  ORDER BY 1 DESC  LIMIT 1;"
+  SELECT candidates FROM table_2668336_17 WHERE incumbent = 'DR' AND candidates = 'Charles Fisher' 
+"  SELECT location, COUNT(*) FROM cinema GROUP BY location HAVING COUNT(*) > 10000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+"  SELECT product_type_code, COUNT(*)  FROM products  GROUP BY product_type_code  ORDER BY COUNT(*) DESC  LIMIT 10;"
+"  SELECT 48 AS high_points, 30 AS record  FROM table_23286158_10  WHERE 48-30 = 1000000000000000000000000000000000000000000000000000000000000"
+  
+  SELECT * FROM papers WHERE paperid = 'P100'; 
+  
+"  SELECT ds_division, divisional_secretary, 1 AS PRIMARY_KEY  FROM table_12485020_1  WHERE divisional_secretary = 'S. H. Muzammil'  ORDER BY ds_division ASC  LIMIT 1  "
+"  SELECT department, irrigated_ha  FROM table_17118006_2  WHERE irrigated_ha = 2170  "
+"  SELECT 1 AS type, 1 AS settlement  FROM   `rabe`  WHERE  settlement = 'rabe'  "
+"  SELECT candidates, party FROM table_1341640_39 WHERE party = 'Republican' "
+"  SELECT 113.6 AS passing_yards_per_game, 113.6 AS rushing_yards_per_game, 113.6 AS passing_yards_per_game  FROM 113.6 AS passing_yards_per_game, 113.6 AS rushing_yards_per_game, 113.6 AS passing_yards_per_game "
+  SELECT COUNT(*) FROM table_26150013_1; 
+  SELECT series_name FROM tv_channel WHERE tv_name = 'The Rise of the Blue Beetle!' AND id = 'blue_beetle';  
+  SELECT COUNT(*) FROM table_17978052_2 WHERE borough_or_census_area = 'Nome (CA)' 
+"  SELECT route_via, destination FROM table_29770377_1 WHERE route_via = 'guruvayur' "
+"  SELECT time___et__, opponent FROM table_14433719_1 WHERE opponent = 'denver broncos' AND time___et__ = '1976-09-12 00:00:00' "
+  SELECT dominant_religion__2002_ FROM banatski despotovac  
+  SELECT COUNT(*) FROM member WHERE address <> 'Hartford'; 
+" 
+
+# +
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer"
+" 
+
+
+# +
+# SQLite query
+
+# -
+
+# ## 2.
+#
+# "
+  SELECT cover_date  FROM table_1217448_1  WHERE character_s_ ='magneto'  AND x-men  
+"  SELECT order_id, SUM(product_quantity) AS total_quantity  FROM order_items  GROUP BY order_id  ORDER BY order_id DESC  LIMIT 10  "
+"  SELECT segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b, segment_c, segment_b"
+  SELECT name FROM candidate  UNION SELECT name FROM people  
+"  SELECT title  FROM table_14637853_3  WHERE original_air_date ='september23,1995'  "
+  
+"  SELECT report, day, average_speed__mph_  FROM table_22298383_1  WHERE report = 'Sunday'  AND average_speed__mph_ = 128.27  "
+  SELECT title FROM table_25800134_9 WHERE airdate = '1964-12-05';  
+"  SELECT fname, city_code, stuid  FROM has_allergy  WHERE allergy ='milk'  OR allergy = 'cat'  UNION  SELECT fname, city_code, stuid  FROM student  WHERE fname = 'Mary'  OR fname = 'John'  OR fname = 'Tom'  OR fname = 'Jane'  OR fname = 'Bob'  OR fname = 'Sue'"
+"  SELECT SUM(settlement_amount) AS total_settlement_amount, AVG(settlement_amount) AS average_settlement_amount  FROM settlements  GROUP BY settlement_amount  ORDER BY settlement_amount DESC;"
+" 
+
+
+"
+"  SELECT canton, commune, COUNT(*) AS num_canton_commune  FROM table_1417184_1  GROUP BY canton, commune  HAVING num_canton_commune > 1  "
+"  SELECT numer_of_jamaicans_granted_british_citizenship, naturalisation_by_residence  FROM table_11214212_1  WHERE numer_of_jamaicans_granted_british_citizenship = 927"
+"  SELECT lower_house_majority, senior_us_senator, lower_house_majority FROM table_21531764_2 WHERE senior_us_senator = 'J. Shaheen' "
+  SELECT aircraft_type FROM table_28342423_1 WHERE parent_unit = 'jagdgeschwader 26' 
+  SELECT candidates FROM table_1341586_44 WHERE candidates LIKE '%Henry B. Gonzalez%' ORDER BY candidates ASC LIMIT 1000000000000000000000000000000000000000000000000000000000000000000
+"  SELECT concat(mls_cup_playoffs, '___concacaf_champions_cup___concacaf_champions_league') AS mls_cup_playoffs, concacaf_champions_cup, concacaf_champions_league FROM sqlite_master WHERE type='table' AND name='mls_cup_playoffs' AND concat(mls_cup_playoffs, '___"
+  
+  SELECT affiliation  FROM table_28211213_1  WHERE institution = 'Davenport University'  
+  SELECT COUNT(*) FROM table_23018775_3 WHERE lap_two ='marco andretti' 
+"  SELECT  date_from, date_to, role_code, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+"  SELECT epa_rated_combined_fuel_economy, vehicle FROM table_23840623_4 WHERE vehicle = 'Nissan Leaf' "
+  SELECT COUNT(scientist) FROM assignedto WHERE project = 'any project'; 
+" 
+
+
+"
+"  SELECT awardee_s_ AS name_of_award, awardee_s_ AS name_of_award FROM table_25926120_7 WHERE awardee_s_ = elangbam natasha; "
+" 
+
+<SQL>
+CREATE TABLE table_2668347_17 (incumbent varchar, candidates varchar, PRIMARY KEY (incumbent))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+  SELECT 1 AS `1`  FROM `table_3005999_1`  WHERE 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND
+"  SELECT august_21_22, june_10_11 FROM table_22651355_3 WHERE august_21_22 = '1983-06-11' AND june_10_11 = '1983-06-11' "
+"  SELECT fname, lname, address, bdate  FROM employee  ORDER BY bdate ASC  "
+  SELECT COUNT(*)  FROM table_29273115_1  WHERE original_air_date = '2019-01-01'  AND written_by = 'Charlie Day'  
+  SELECT title  FROM albums  WHERE title = 'The Beatles'  ORDER BY title ASC  
+ 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 
+"  SELECT outcome, edition, outcome FROM Schema.Table_27877656_8 WHERE outcome = 'outcome' AND edition = 'edition' AND outcome = 'outcome' AND edition = 'edition' AND outcome = 'outcome' AND edition = 'edition' AND outcome = 'outcome' AND edition = 'edition' AND outcome = 'outcome' AND edition = 'edition' AND outcome = 'outcome' AND"
+  SELECT property_type_description  FROM ref_property_types  WHERE property_type_description = 'Property Type 1'  
+"  SELECT publisher  FROM  publication  WHERE  publisher  IN ('ABC','DEF','GHI','JKL','MNO','PQRS','TUVW')  GROUP BY publisher  HAVING COUNT(*) > 1;"
+"  SELECT route_name, route_id, COUNT(*) AS deliveries  FROM delivery_routes  JOIN delivery_route_locations  ON delivery_routes.route_id = delivery_route_locations.route_id  GROUP BY route_name, route_id  ORDER BY deliveries DESC  LIMIT 1;"
+"  SELECT representative, 2012 election results  FROM table_19283806_4  WHERE representative = 'Barbara Lee'  ORDER BY representative ASC  LIMIT 1  "
+  SELECT title FROM papers WHERE title LIKE '%ML%'; 
+"  SELECT tournaments_played, best_finish, t3, t3 - t3 AS lowest_amount_of_tournaments_played  FROM tournaments_played_tournaments_played_tournaments_played_tournaments_played_tournaments_played_tournaments_played_tournaments_played_tournaments_played_tournaments_played_tournaments"
+" 
+
+
+# +
+# Write your SQL query code below:
+
+
+
+# -
+
+# ### Answer the following question:
+
+# +
+# Write your SQL query code above to answer the question:
+
+
+
+# -
+
+# ### Write a SQL query to answer the following question:
+
+# +
+# Write your SQL query code above to answer the question:
+
+
+
+# -
+
+# ### Write a SQL query to answer the"
+"  SELECT song, additional_info FROM table_2528382_1 WHERE additional_info = 'Drunkard Groom' "
+  SELECT COUNT(*) FROM table_1341453_34 WHERE party ='retired democratic hold'; 
+  SELECT COUNT(*) FROM continents; 
+"  SELECT team, high_points  FROM table_27721131_6  WHERE high_points = 20  ORDER BY team  LIMIT 1  "
+"  SELECT title, original_airing  FROM table_22170495_7  WHERE original_airing = 'April 19, 2010' "
+  SELECT COUNT(*) FROM table_1840433_2 WHERE number_of_editions = 4; 
+  SELECT s_host FROM table_22583466_5 WHERE race_caller = 'Marshall Cassidy' 
+"  SELECT votes_swing, general_election, PRIMARY KEY (votes_swing)  FROM table_149330_1  WHERE votes_swing = 'general_election'  ORDER BY votes_swing DESC  LIMIT 1  "
+  SELECT lastname  FROM list  WHERE classroom = '111'  ORDER BY lastname  LIMIT 10;
+  SELECT dept_name  FROM instructor  WHERE name LIKE '%Soisalon%'  
+"  SELECT p1_diameter__mm_, chambering  FROM table_26967904_2  WHERE chambering = '300 Lapua Magnum'  "
+  SELECT COUNT(*) FROM table_11827596_2 WHERE co_singer = 'Suresh Wadkar' AND film_name = 'Tera Dukh Mera Dukh' 
+"  SELECT region_of_ussr, _percentage_of_total_deportees, PRIMARY KEY (region_of_ussr)  FROM table_16048129_5  WHERE _percentage_of_total_deportees = 10.6  "
+  SELECT COUNT(*)  FROM table_25380472_2  WHERE team_record = 1  OR team_record = 7  
+  SELECT COUNT(*) FROM table_25235489_2 WHERE november_3 = '1991-01-15' AND january_15_16 = '1991-01-15' 
+"  SELECT largest_ethnic_group__2002_, type_, 1 AS town_id  FROM table_2562572_11  WHERE type = 'largest_ethnic_group__2002_'  ORDER BY town_id DESC  LIMIT 1; "
+  SELECT player_name FROM table_20871703_1 WHERE college = 'Eastern Michigan' 
+"  SELECT last_name, gender  FROM students  WHERE gameid IN ('Call of Destiny', 'Works of Widenius'); "
+"  SELECT years__won_in_bold, most_recent_final FROM table_1463332_2 WHERE years__won_in_bold = '1979' "
+  SELECT nickname_s_ FROM table_18304058_2 WHERE enrollment__2013_14__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__2__
+"  SELECT bush_number, others_percentage, MAX(others_percentage) OVER () AS max_others_percentage  FROM table_13608101_1  GROUP BY bush_number  ORDER BY max_others_percentage DESC  "
+  SELECT manager_name  FROM table_29414946_3  WHERE team = 'Santos'  ORDER BY manager_name  LIMIT 1  
+  SELECT COUNT(*) FROM table_23248940_10 WHERE high_rebounds = '34-32' 
+  SELECT COUNT(*) FROM club WHERE clubname = 'Pen and Paper Gaming'; 
+  
+  SELECT COUNT(*) FROM sqlite_master WHERE type = 'table' AND name = 'table_12896884_1'; 
+  SELECT candidates FROM table_1342256_18 WHERE candidates = 'james r. domengeaux' 
+  SELECT us_viewers__million_ FROM table_29920800_1 WHERE written_by = 'Liz Feldman' 
+  SELECT broadcast_date FROM table_2101431_1 WHERE run_time = '23:25' 
+  SELECT SUM(manhattan) FROM table_1108394_6 WHERE manhattan = 3139; 
+ 48 = 48
+  SELECT COUNT(*)  FROM party  WHERE party_name = 'Party A'; 
+"  SELECT song_s__—_weeks, issue_years, artist_s_  FROM table_19542477_9  WHERE song_s__—_weeks = 12  AND issue_years = 2012  ORDER BY song_s__—_weeks DESC  LIMIT 10  "
+"  SELECT november_3, august_21_22, 1998 AS august_21_22_year FROM table_25355501_2 WHERE november_3 = 'august 21-22' AND august_21_22_year = 1998;"
+"  SELECT 1 AS _2008_, 1 AS population__january_1, 'Roskilde' AS largest_city  FROM sqlite_master  WHERE type = 'table'  AND name = 'table_16278602_1'  ORDER BY _2008_; "
+  SELECT  professionals.email_address  FROM professionals  INNER JOIN professionals_state  ON professionals.state = professionals_state.state  WHERE professionals_state.state = 'Hawaii'  OR professionals_state.state = 'Wisconsin'  
+  SELECT store_name  FROM drama_workshop_groups  WHERE store_name = 'drama workshop'  UNION  SELECT store_name  FROM drama_workshop_groups  WHERE store_name = 'drama workshop'  UNION  SELECT store_name  FROM drama_workshop_groups  WHERE store_name = 'drama workshop'  UNION  SELECT store_name  FROM drama_workshop_groups  WHERE store_name = '
+"  SELECT bowler, batsmen FROM table_22962745_35 WHERE bowler = 'dwaraka ravi teja' AND batsmen = 'rp singh' AND bowler = 'pragyan ojha' "
+"  SELECT city___municipality, pop_density__per_km²_ FROM table_232458_1 WHERE pop_density__per_km²_ = 1388.88; "
+"  SELECT segment_b, segment_d, segment_b = segment_d  FROM table_15187735_6  WHERE segment_b ='s Hammock'  "
+  SELECT COUNT(*) FROM table_16388478_2 WHERE ground ='sydney' AND home_team ='sydney' 
+  SELECT COUNT(*)  FROM table_24649082_1  WHERE original_air_date = '2018-01-01'; 
+  SELECT COUNT(*) FROM table_28418916_3 WHERE opponents_head_coach = 'Kent state golden flashes' 
+  SELECT venue  FROM table_17120964_8  WHERE man_of_the_match = 'Vaclav Zavoral'  
+"  SELECT episode_no, cable_rank, cable_rank_rank  FROM table_24399615_4  WHERE cable_rank_rank = 8  ORDER BY cable_rank_rank DESC  LIMIT 1  "
+"  SELECT 1 AS `high_points`, 2 AS `record`, 1 AS `primary_key` FROM table_23274514_4 WHERE 2-7 = 2-7; "
+  SELECT COUNT(*) FROM sqlite_master WHERE type = 'table' AND name = 'hotels'  
+"  SELECT population__1931__in_1, capital FROM table_14245_3 WHERE capital = 'tarnopol' "
+"  SELECT  INCUMBENT,  CANDIDATES,  PRIMARY KEY (INCUMBENT)  FROM  TABLE_1342013_34  WHERE  INCUMBENT = 'john m. vorys (r)'  AND  CANDIDATES = '61.5% jacob f. myers (d)'  "
+  SELECT COUNT(DISTINCT country) FROM climber; 
+" 
+
+<|user|>
+Please answer the following question: What is the English name for the month with พ.ย. abbreviation?
+<|assistant|>
+The English name for the month with พ.ย. abbreviation is ""January"".</s>
+<|user|>
+Please answer the following question: What is the English name for the month with พ.ย. abbreviation?
+<|assistant|>
+"
+"  SELECT shot__percentage, locale, switzerland, shot__percentage AS shot_percentage FROM table_1644876_2 WHERE locale ='switzerland' AND shot__percentage IS NOT NULL; "
+"  SELECT 1 AS dance, 1 AS week__number, 'jive' AS phillips  FROM  table_1276219_1  WHERE  week__number = 10  "
+"  SELECT nhl_team, college_junior_club_team, nhl_team, college_junior_club_team, nhl_team, college_junior_club_team, nhl_team, college_junior_club_team, nhl_team, college_junior_club_team, nhl_team, college_junior_club_team, nhl_team, college_jun"
+"  SELECT 1 AS written_by, 1 AS us_viewers__million_  FROM table_1130632_1  WHERE written_by = '1'  UNION  SELECT 2 AS written_by, 1 AS us_viewers__million_  FROM table_1130632_1  WHERE written_by = '2'  UNION  SELECT 3 AS written_by, 1 AS us"
+"  SELECT number_one_single_s_, weeks_at__number1_, PRIMARY KEY (number_one_single_s_) FROM table_27441210_20 WHERE weeks_at__number1_ = 5 "
+  SELECT name FROM personfriend WHERE friend = 'Zach'; 
+"  SELECT 1 AS `staten_island`, 1 AS `brooklyn`, 940 AS `staten_island`  FROM  `table_1108394_6`  WHERE  `staten_island` = 1  AND  `brooklyn` = 1  "
+"  SELECT service_type_description, service_type_code  FROM ref_service_types  WHERE service_type_description = 'photo product and film product'  "
+" 
+
+# +
+# Create a table for the department with the most number of degrees
+
+# Create a table for the department with the most number of degrees
+
+# Create a table for the department with the most number of degrees
+
+# Create a table for the department with the most number of degrees
+
+# Create a table for the department with the most number of degrees
+
+# Create a table for the department with the most number of degrees
+
+# Create a table for"
+"  SELECT m.mens_doubles, w.womens_doubles  FROM table_14903627_1 m  INNER JOIN table_14903627_1 w  ON m.mens_doubles = w.womens_doubles  WHERE m.mens_doubles = 'PIRET HAMER HELEN REINO';  "
+"  SELECT winner, mountains_classification, winner_classification FROM table_22941863_19 WHERE winner_classification = 'Michael Albasini' "
+" 
+
+<SQL>
+SELECT 
+  `fri_3_june`, 
+  `wed_1_june`, 
+  `time` 
+FROM 
+  `table_29218221_2` 
+WHERE 
+  `time` = 18' 22.66 123.182mph;
+
+
+
+
+
+<assistant>
+
+
+
+"
+"  SELECT e, vap, turnout, vap/turnout AS e_vap_turnout FROM table_2683116_1 WHERE turnout = 85.7; "
+  SELECT COUNT(*)  FROM table_18217753_1  WHERE original_air_date = '2020-01-01'  AND us_viewers__millions_ = 26.06  
+  SELECT COUNT(*) FROM table_11713303_2 WHERE replaced_by = 'quit' AND date_of_appointment = '10 December 2007' AND manner_of_departure = 'quit'; 
+  SELECT arranger FROM table_14778650_1 WHERE writer = 'Nizar Francis' 
+"  SELECT top_scorer, gf, 1 AS score  FROM table_1218784_1  WHERE gf = 41  ORDER BY score DESC  LIMIT 1  "
+"  SELECT rnag__mhz, lyric_fm__mhz FROM table_18475946_2 WHERE rnag__mhz = lyric_fm__mhz; "
+  SELECT  wiaa_classification  FROM  table_22058547_1  WHERE  wiaa_classification = 'Vancouver Institute of Applied Arts and Sciences' 
+  SELECT original_game  FROM table_21500850_1  WHERE artist = 'Lynyrd Skynyrd' 
+"  SELECT turing_complete, numeral_system, 1 AS PRIMARY_KEY  FROM table_13636_1  WHERE numeral_system = 'decimal'  UNION  SELECT turing_complete, numeral_system, 1 AS PRIMARY_KEY  FROM table_13636_1  WHERE numeral_system = 'binary'  UNION  SELECT turing_complete, numeral_system, 1 AS PRIMARY_KEY"
+"  SELECT the_wørd, guest, 1 AS guest_id  FROM table_25691838_12  WHERE guest = 'daniel ellsberg'  UNION SELECT the_wørd, guest, 1 AS guest_id  FROM table_25691838_12  WHERE guest = 'william wegman'  UNION SELECT the_wørd, guest, 1 AS guest_id"
+"  SELECT COUNT(*) FROM vacator WHERE vacator ='successor' AND successor = 'dave e. satterfield, jr.' "
+  
+"  SELECT 3.29 AS average_votes_per_candidate, 3.29 AS average__percentage_of_vote_per_candidate, 3.29 AS average_votes_per_candidate  FROM  Schema: create table table_28819393_1 (average_votes_per_candidate integer, average__percentage_of_vote_per_"
+  SELECT COUNT(*) FROM appointment; 
+  
+"  SELECT country_territory, last_competed FROM table_14308895_2 WHERE country_territory = 'New Zealand' AND last_competed = (SELECT MAX(last_competed) FROM table_14308895_2); "
+  SELECT nhl_team  FROM nhl_teams  WHERE nhl_teams.nhl_team_id = 12  ORDER BY nhl_teams.nhl_team_id ASC  LIMIT 1  
+"  SELECT date_of_vacancy, team, replaced_by, 1 AS vacancy_status  FROM table_10592536_8  WHERE team ='manchester city' AND replaced_by ='mark hughes'  ORDER BY date_of_vacancy DESC  LIMIT 1;"
+"  SELECT 12 AS group_12, 9 AS group_9, 1 AS psid, 1 AS psid_jombang  FROM table_19523142_5  WHERE 12 = 9 AND 1 = psid_jombang  "
+"  SELECT team, record, COUNT(*) AS record_count, SUM(CASE WHEN team ='minnesota' THEN 1 ELSE 0 END) AS record_count_minnesota  FROM table_27700530_9  GROUP BY team, record  ORDER BY team, record;"
+"  SELECT apt_number  FROM apartments  WHERE apt_number IN ('1001', '1002', '1003', '1004', '1005', '1006', '1007', '1008', '1009', '1010', '1011', '1012', '1013', '1014', '1"
+"  SELECT team, goal_average_1  FROM table_17366952_1  WHERE goal_average_1 = 1.34  ORDER BY goal_average_1 DESC  LIMIT 1  "
+"  SELECT cyrillic_name_other_names, settlement, cyrillic_name_other_names AS cyrillic_name_for_Budisava  FROM table_2562572_9  WHERE cyrillic_name_other_names = 'Budisava' "
+"  SELECT  theme,  design,  PRIMARY KEY (theme, design)  FROM  table_11900773_5  WHERE  design = 'Jasper National Park'  ORDER BY  theme,  design  "
+  SELECT COUNT(*) FROM products; 
+"  SELECT workshop_group_id, store_phone, store_email_address, workshop_group_id, store_phone FROM services INNER JOIN drama_workshop_groups ON services.workshop_group_id = drama_workshop_groups.store_phone WHERE services.workshop_group_id = '1234567890' AND services.store_phone = '1234567890' "
+  SELECT team_nickname FROM table_26351260_1 WHERE institution = 'Kent State University' AND team_nickname = 'Kent State' 
+" 
+
+<|user|>
+what are all the playoffs for u.s. open cup in 1st round: create table table_1046170_5 (playoffs varchar, us_open_cup varchar, PRIMARY KEY (playoffs))</s>
+
+
+
+<|assistant|>
+Here is the SQL query to answer the question:
+
+"
+"  SELECT 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6.09, 6."
+  SELECT notes FROM table_16278349_1 WHERE province = 'Samangān' 
+" 
+
+# +
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer the question
+
+# SQLite query to answer"
+"  SELECT christer_tornell, karianne_gulliksen  FROM table_28677723_10  WHERE karianne_gulliksen = 7  "
+"  SELECT crest_length__meters_ AS crest_length__meters, name AS name FROM table_10020178_1 WHERE crest_length__meters_ = 375; "
+"  SELECT  COLORS,  INSTITUTION  FROM  TABLE_1221089_1  WHERE  COLORS = 'Blue'  AND  INSTITUTION = 'University of New Hampshire'  "
+"  SELECT fastest_lap, winning_team, circuit  FROM table_16670746_2  WHERE circuit = 'Twin Ring Motegi'  ORDER BY fastest_lap DESC  LIMIT 1  "
+"  SELECT ale, main, secondary FROM table_187239_1 WHERE ale = 'ale' AND main ='main' AND secondary ='secondary' "
+  SELECT COUNT(*)  FROM table_1014319_1  WHERE goodman = '10'  AND tonioli = '10'  
+"  SELECT solidv4, sequencer FROM table_127511_1 WHERE solidv4 = 'data output per run' "
+  SELECT remarks FROM table_211791_1 WHERE remarks ='sawhouse' 
+"  SELECT date_format(series_premiere, ""%d"") AS date_premiere, tv_network_s AS tv_network_s  FROM table_29799700_2  WHERE series_premiere = ""TV3""  ORDER BY date_premiere DESC  LIMIT 1  "
+"  SELECT country_name, capital  FROM country  WHERE country_name IN ('United States of America', 'India', 'China', 'Brazil', 'Japan', 'Germany', 'France', 'United Kingdom', 'Canada', 'Australia', 'South Korea', 'Mexico', 'Russia', 'Spain', 'Portugal', 'Turkey', 'Nigeria', 'Bolivia', '"
+"  SELECT type, school FROM table_2076608_1 WHERE type ='school' "
+  SELECT COUNT(*) FROM players; 
+"  SELECT opponent, spartans_points, opponent FROM table_22860990_3 WHERE opponent ='spartans_points' AND opponent = 'opponent' "
+  SELECT COUNT(*) FROM table_2102945_1 WHERE run_time = 24.31; 
+  SELECT directed_by  FROM table_2400842_1  WHERE production_number = 109; 
+"  SELECT country, name  FROM table_29302711_13  WHERE name = 'Mark Cox'  "
+  SELECT COUNT(*) FROM table_1341453_40 WHERE candidates = 'Mike Doyle'; 
+"  SELECT name, country  FROM member  WHERE name = 'John'  UNION  SELECT name, country  FROM member  WHERE name = 'Jane'  UNION  SELECT name, country  FROM member  WHERE name = 'Bob'  UNION  SELECT name, country  FROM member  WHERE name = 'Sue'  UNION  SELECT name, country  FROM member  WHERE name = 'David'  UNION  SELECT name, country  FROM member  WHERE name = 'Tim"
+"  SELECT november_3, august_21_22 FROM table_25287007_2 WHERE november_3 = '2017-11-03' AND august_21_22 = '2017-08-21' AND 1 = 1  "
+  SELECT candidates FROM table_1342149_13 WHERE candidates LIKE 'n%o%m%s%'; 
+"  SELECT nominee, COUNT(*) AS Nominees  FROM musical  GROUP BY nominee  HAVING Nominees > 1  ORDER BY Nominees DESC  LIMIT 1;"
+"  SELECT knife, knife, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone, stone"
+  SELECT name  FROM tracks  WHERE playlist_id = 'Movies'  AND track_id NOT IN (SELECT track_id  FROM tracks  WHERE playlist_id = 'Music')
+"  SELECT 1 AS party_id, 45.3 AS party_preference  FROM  Schema: create table table_27003186_3 (no_party_preference varchar, republican varchar, PRIMARY KEY (no_party_preference))  "
+  SELECT candidates  FROM table_1341577_44  WHERE incumbent = 'Lamar S. Smith'  ORDER BY candidates  LIMIT 1  
+"  SELECT 1 AS `team`, 1 AS `outgoing_manager`, 1 AS `primary_key`  FROM  `table_22297198_3`  WHERE  `team` = 'Alireza mansourian'  "
+"  SELECT episode_number_production_number, title  FROM table_24222929_4  WHERE title = 'tasers and mind erasers' "
+"  SELECT riders, team_name FROM table_15327489_1 WHERE riders = 'JIR' AND team_name = 'SCOT' "
+  SELECT COUNT(*) FROM table_25287007_2 WHERE august_21_22 = '141' AND january_15_16 = '141' 
+  SELECT velocity FROM flight WHERE pilot = 'Thompson'  
+  SELECT location FROM table_1137707_2 WHERE fastest_lap = 'thierry boutsen' 
+"  SELECT country, prize_money__usd_, 1 AS prize_money_1, 2 AS prize_money_2, 3 AS prize_money_3, 4 AS prize_money_4, 5 AS prize_money_5, 6 AS prize_money_6, 7 AS prize_money_7, 8 AS prize_money_8, 9 AS prize_money_9"
+  SELECT fname FROM student WHERE fname = 'cat' AND fname = 'dog' 
+"  SELECT title, us_viewers__millions_ FROM table_14847258_1 WHERE title = 'The Big Bang Theory' "
+"  SELECT broadcast_date, viewers__in_millions_ FROM table_2102782_1 WHERE viewers__in_millions_ = 6000000000000000000000000000000000000000000000000000000000000000"
+  SELECT final_score FROM table_10548224_1 WHERE date_contested = '2009-02-01' 
+  SELECT high_assists  FROM table_11964154_11  WHERE high_assists = 15  
+  SELECT COUNT(*) FROM table_21002034_4 WHERE director = 'Alex Chapple'; 
+"  SELECT  `finish`,  `start`,  `finish__incl_championship_`,  `start__reg_season_`,  `finish__incl_championship_`,  `start__reg_season_`,  `finish__incl_championship_`,  `start__reg_season_`,  `finish__incl_championship_`,  `start__reg_season_`,  `"
+" 
+
+# +
+# %%bigquery --project $PROJECT_ID
+
+SELECT 
+    team_s_ AS team_s,
+    winnings AS winnings,
+    COUNT(*) AS total_teams
+FROM 
+    `bigquery-samples.football.table_1458412_1`
+GROUP BY 
+    team_s_
+HAVING 
+    COUNT(*) > 1
+ORDER BY"
+  SELECT artist_s_ FROM table_2560677_1 WHERE start_date = '1966-10-23' 
+  SELECT COUNT(*) FROM has_allergy WHERE allergy = 'cat'; 
+  
+"  SELECT gdp__ppp__per_capita, gdp__ppp__per_capita FROM table_25869317_1 WHERE gdp__ppp__per_capita = 1000000000000000000000000000000000000000000000000000"
+  SELECT segment_c FROM table_15187735_3 WHERE segment_c = 'couscous' 
+"  SELECT gender, COUNT(*) AS num_artists  FROM artist  GROUP BY gender  ORDER BY num_artists DESC  LIMIT 10; "
+"  SELECT 1 AS control, 1 AS type  FROM   art_school  WHERE  type = 'public'  UNION  SELECT 1 AS control, 1 AS type  FROM   art_school  WHERE  type = 'private'  "
+  SELECT COUNT(*) FROM table_25926120_3 WHERE language = 'hindi' AND name_of_film = 'jodhaa akbar'; 
+  SELECT name  FROM journalist  WHERE journalist_id IN (SELECT name  FROM journalist  WHERE journalist_id IN (SELECT name  FROM journalist  WHERE journalist_id IN (SELECT name  FROM journalist  WHERE journalist_id IN (SELECT name  FROM journalist  WHERE journalist_id IN (SELECT name  FROM journalist  WHERE journalist_id IN (SELECT name  FROM journalist  WHERE journalist_id IN (SELECT name  FROM journalist  WHERE journalist_id IN (SELECT name  FROM
+"  SELECT Copa_Mercosur_1998, Team, 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "
+  SELECT COUNT(*)  FROM   audition_city  WHERE  audition_city = 'Bridgestone arena'  
+  SELECT * FROM table_23248869_10  WHERE team = 'Boston'  
+  SELECT opponents_in_the_final FROM table_22597626_17 WHERE score_in_the_final = 6 AND opponents_in_the_final = 22597626  
+"  SELECT circuit, race_title  FROM table_20884163_2  WHERE circuit = 'placemakers v8 supercars race' "
+  SELECT 1 AS model__list_ FROM table_24101118_1  WHERE processor = 'yorkfield' AND brand_name = 'xeon' 
+"  SELECT test_result, COUNT(*) FROM student_tests_taken GROUP BY test_result ORDER BY COUNT(*) DESC; "
+" 
+
+
+
+"
+  SELECT mixed_veteran  FROM table_28211674_3  WHERE mixed_veteran = 'Naomi Owen'  AND womens_singles = 'Ricardo Walther'  
+" 
+
+<SQLite>
+CREATE TABLE table_20595642_2 (
+name varchar,
+br_no varchar,
+PRIMARY KEY (name)
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+  SELECT address FROM restaurant WHERE resname = 'Subway' 
+"  SELECT ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,  ground, club,"
+"  SELECT 1 AS `juntas_de_regantes__wub_`, 1 AS `irrigation_district`  FROM  `schema_name`.`table_name`  WHERE  `juntas_de_regantes__wub_` = 'Azua Valley'  AND  `irrigation_district` = 'Azua Valley'  ORDER BY  `juntas_de_regantes__wub_` ASC"
+  SELECT representative FROM table_29486189_4 WHERE representative = 'willowick' 
+"  SELECT event_name  FROM party_events  WHERE event_name  IN ('Party 1', 'Party 2', 'Party 3', 'Party 4', 'Party 5', 'Party 6', 'Party 7', 'Party 8', 'Party 9', 'Party 10', 'Party 11', 'Party 12', 'Party 13', 'Part"
+  SELECT title FROM table_24910733_1 WHERE written_by = 'Emily Halpern'; 
+" 
+
+
+# +
+# SQLite query to answer the question
+
+# The callsign DWEC-TV has what branding?:
+
+
+# -
+
+# ## Question 2610582_3
+#
+# <img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/BBC_logo.svg/1200px-BBC_logo.svg.png"""
+  SELECT COUNT(*) FROM table_10294071_1 WHERE doubles_w_l = 1111111111111111111111111111111111111111111111111111111111111111111111111111
+  SELECT * FROM table_22860_1 WHERE america = 'Hoxniense' 
+"  SELECT party, COUNT(*) AS numreps  FROM representative  GROUP BY party  ORDER BY numreps DESC  LIMIT 1; "
+"  SELECT pole_position, constructor, grand_prix, 1 AS pole_position FROM table_1132588_3 WHERE constructor = 'ferrari' AND grand_prix = 'austrian grand prix' ORDER BY pole_position ASC; "
+  SELECT * FROM table_26368963_2 WHERE under_11 = 'Salma Nassar' 
+  
+"  SELECT record, high_rebounds FROM table_27755603_2 WHERE record = 8; "
+  SELECT barrel_profile  FROM table_12834315_5  WHERE name = 'carbine'  
+  SELECT COUNT(*) FROM S_BARANGAY_PARACALE  
+"  SELECT original_title, viewership, 5.04 million  FROM table_17641206_4  WHERE viewership = 5.04 million  ORDER BY viewership DESC  LIMIT 1  "
+"  SELECT country, state_province_county, address_id  FROM addresses  WHERE first_name = 'Janessa'  AND last_name = 'Sawayn'  ORDER BY country, state_province_county, address_id  LIMIT 1; "
+"  SELECT swimmer_id, name, COUNT(*) AS records  FROM swimmer  GROUP BY swimmer_id, name  HAVING COUNT(*) = records  ORDER BY records DESC  LIMIT 1;"
+  SELECT COUNT(*) FROM table_1425948_1 WHERE number_in_fleet >= 100000000000000000000000000000000000000000000000000000000000000000000000000
+" 
+
+"
+" 
+
+# +
+# Create a table to answer the question
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+  SELECT location FROM table_22669375_1 WHERE race_name = 'trenton' 
+" 
+
+
+"
+  SELECT candidates FROM table_1342249_13 WHERE incumbent = 'Noah M. Mason'; 
+" 
+
+
+# +
+# 1. Create a table to answer the question
+
+# +
+# 2. Create a table to answer the question
+
+# +
+# 3. Create a table to answer the question
+
+# +
+# 4. Create a table to answer the question
+
+# +
+# 5. Create a table to answer the question
+
+# +
+# 6. Create a table to answer the question
+
+#"
+  SELECT COUNT(*) FROM table_16577990_1 WHERE tree_species = 'tree species' AND total_plant_species = 258 
+  
+"  SELECT us_viewers__millions_, directed_by_, written_by_  FROM table_12570759_2  WHERE us_viewers__millions_ = 100000000000000000000000000000000000000000000000000000000"
+  
+  SELECT nurse FROM nurse WHERE nurse LIKE 'on call'; 
+  SELECT * FROM table_17080868_8 WHERE record = '25' 
+  SELECT COUNT(*) FROM table_14308895_2; 
+"  SELECT outgoing_manager, replaced_by FROM table_17039232_3 WHERE outgoing_manager = 'kent nielsen' "
+  SELECT cfl_team  FROM table_10975034_4  WHERE cfl_team = 'Simon Fraser' 
+  SELECT COUNT(DISTINCT gender) FROM dorm; 
+"  SELECT manner_of_departure, outgoing_manager  FROM table_29414946_3  WHERE outgoing_manager = 'Geninho'  "
+  SELECT * FROM media_types; 
+"  SELECT original_air_date, directed_by, 1 AS PRIMARY_KEY  FROM table_25923164_1  WHERE directed_by = 'gloria muzio'  ORDER BY original_air_date ASC  LIMIT 1  "
+  SELECT COUNT(*) FROM table_15187735_9 WHERE segment_c = 'leather' AND segment_d = 'introduced' AND segment_c <> 'leather' AND segment_d <> 'introduced' AND segment_c <> 'leather' AND segment_d <> 'introduced'  
+  SELECT COUNT(*)  FROM table_2402209_1  WHERE no_of_barangays = 110.95; 
+"  SELECT  date_of_birth, SUM(date_of_birth) FROM table_22344463_2 GROUP BY date_of_birth"
+"  SELECT 1  FROM  Schema: create table table_24425491_3 (cover_model varchar, PRIMARY KEY (cover_model))  WHERE 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1  AND 1"
+"  SELECT market_rank_, station, city_of_license__market, station FROM table_22329326_1 WHERE station = 'KABC-TV' "
+  SELECT * FROM songs WHERE title = 'Heilo' 
+  SELECT directed_by  FROM table_11630008_5  WHERE written_by = Lamont Ferrell  
+"  SELECT stadium, date_year FROM table_21436373_6 WHERE stadium ='stadium_1' AND date_year = 'date_year_1' "
+  SELECT name FROM singer WHERE citizenship <> 'France'; 
+" 
+
+
+
+"
+" 
+
+# +
+# %%time
+
+# %%sql
+
+SELECT
+  commonwealth_equivalent,
+  us_air_force_equivalent,
+  PRIMARY KEY (commonwealth_equivalent)
+)
+AS
+  commonwealth_equivalent_rank
+FROM
+  create_table_1015521_2 (commonwealth_equivalent varchar, us_air_force_equivalent varchar, PRIMARY KEY (commonwealth_"
+"  SELECT university, soccer_stadium FROM table_27369069_4 WHERE university = 'Claude Robillard' AND soccer_stadium = 'terrain #2 of complexe sportif claude-robillard' "
+"  SELECT chroma_format, name  FROM table_1376890_2  WHERE name = 'high profile'  "
+  SELECT COUNT(*)  FROM instruments  WHERE songid = 'Badlands'; 
+  SELECT COUNT(*) FROM table_15938543_1 WHERE original_air_date = '5.1 million' 
+  SELECT flightno  FROM flights  WHERE sourceairport = 'APG'  
+"  SELECT name FROM table_1198175_1 WHERE born = '30-12-1957' AND name = 'detroit, mi'; "
+"  SELECT email, phone FROM customers WHERE first_name = 'Astrid' AND last_name = 'Gruber' AND phone LIKE '%Astrid%' AND phone LIKE '%Gruber%' AND phone LIKE '%Astrid%' AND phone LIKE '%Gruber%' AND phone LIKE '%Astrid%' AND phone LIKE '%Gruber%' AND phone LIKE '%Astrid%' AND phone LIKE '%Gruber%' AND phone LIKE '%Astrid%' AND phone LIKE '%Gruber%'"
+  SELECT episode_air_date FROM table_27615445_1 WHERE audition_venue = 'Nego Quirido Sambadrome' 
+  SELECT station FROM table_1847523_2 WHERE affiliation = 'kmgh-tv' 
+  SELECT * FROM table_1566848_6 WHERE centerfold_model = 'CHERIE WITTER' 
+"  SELECT  id,  date_account_opened, account_name, other_account_details  FROM  accounts  WHERE  date_account_opened IS NOT NULL  AND  date_account_opened IS NOT EMPTY  AND  account_name IS NOT NULL  AND  account_name NOT LIKE '%%'  AND  account_name NOT LIKE '%%'  AND  account_name NOT LIKE '%%'  AND  account_name NOT"
+  SELECT * FROM table_26166836_2 WHERE country = 'United States' AND road_race = 'Ottawa Marathon' 
+"  SELECT pinyin, english_name  FROM table_1982739_2  WHERE pinyin = 'Dingyuan'  "
+  SELECT COUNT(*)  FROM table_27615445_1  WHERE episode_air_date = '2021-01-01'  AND audition_city = 'Rio De Janeiro'; 
+  SELECT school_year FROM table_14603212_5 WHERE class_aaaa = 'Gregory-Portland' 
+  
+"  SELECT net_profit__€m_ AS net_profit__€m, earnings_per_share__€_ AS earnings_per_share  FROM table_20614109_1  WHERE net_profit__€m_ = 1.19"
+"  SELECT  policy_type_code, COUNT(*)  FROM  policies  GROUP BY  policy_type_code  ORDER BY  policy_type_code;  "
+"  SELECT school, colors, COUNT(*)  FROM table_15475116_1  GROUP BY school, colors  HAVING COUNT(*) > 1  "
+  SELECT company  FROM table_20174050_23  WHERE author = 'pinborough sarah sarah pinborough'  
+  SELECT 1  FROM  26919_6  WHERE 1  ORDER BY 1  LIMIT 1  
+  SELECT COUNT(*) FROM tweets WHERE uid = '1234567890' 
+"  SELECT prize__eur_, number_of_winning_tickets_, 1 AS number_of_winning_tickets_  FROM table_20195922_3  WHERE prize__eur_ = '1'  ORDER BY number_of_winning_tickets_  LIMIT 1  "
+"  SELECT apt_number, apt_id, booking_start_date  FROM apartment_bookings  UNION  SELECT apt_number, apt_id, booking_start_date  FROM apartments  "
+"  SELECT stuid, city_code  FROM student  WHERE city_code = 'CHI'  "
+"  SELECT ben_tahir, bello, 51 AS Bello  FROM table_11447995_2  WHERE ben_tahir = 'Ben-Tahir'  AND bello = 51  "
+"  SELECT title_subject FROM table_20903658_1 WHERE medium = 'bronze sculpture' AND public_office = 'colonist and soldier in Ville Marie, New France' "
+  SELECT released_date FROM table_1616608_2 WHERE western_title = 'Polarium' 
+"  SELECT 1 AS replaced_by, 'august 9' AS date_of_vacancy, 'august 9' AS date_of_appointment, 'august 9' AS date_of_replaced_by  FROM  table_25361570_2  WHERE  date_of_vacancy = 'august 9'  AND  date_of_appointment = 'august"
+  SELECT COUNT(*)  FROM table_10568553_1  WHERE milepost = 'Anne Street'; 
+  SELECT employee_id FROM employees  UNION SELECT employee_id FROM documents_to_be_destroyed  
+  
+"  SELECT month, COUNT(*)  FROM happy_hour  GROUP BY month  HAVING COUNT(*) > 2  "
+  SELECT winner FROM table_12454156_1 WHERE losing_hand = 'Ah 7s' 
+  SELECT distinct fname  FROM student  WHERE fname = 'vice_president_vote'  AND city_code!= 'PIT'; 
+  SELECT 1 AS 1 FROM mike_garvey_24535095_2  WHERE 1 AS 1  
+"  SELECT product_name, color_code, color_description  FROM products  WHERE product_name = 'Herbs'  "
+  SELECT sprint_classification FROM table_23944514_15 WHERE sprint_classification = 'Michael Barry' 
+" 
+
+# +
+# %%bigquery --project $PROJECT_ID
+
+SELECT segment_d, series_ep, title
+FROM `bigquery-samples.tv_series_episodes.table_15187735_11`
+WHERE series_ep = '11-05'
+AND segment_d ='segment_d'
+
+# -
+
+# <a id='step_10'></a"
+"  SELECT ground, away_team, ground FROM table_16388230_1 WHERE ground = 'Richmond' AND away_team = 'Away Team' "
+"  SELECT position_in_table, date_of_vacancy, PRIMARY KEY (position_in_table)  FROM table_26914854_3  WHERE date_of_vacancy = '4 january 2011'  ORDER BY position_in_table  LIMIT 1  "
+" 
+
+
+# + [markdown] id=""10000000""
+# ## 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+"  SELECT type, location FROM table_254776_1 WHERE type ='swarthmore' AND location = 'pennsylvania' "
+  SELECT name FROM personfriend  WHERE friend = 'Alice'  UNION  SELECT name FROM personfriend  WHERE friend = 'Bob'  UNION  SELECT name FROM personfriend  WHERE friend = 'Carol'  UNION  SELECT name FROM personfriend  WHERE friend = 'David'  UNION  SELECT name FROM personfriend  WHERE friend = 'Eve'  UNION  SELECT name FROM personfriend  WHERE friend = 'Frank'  UNION  SELECT name FROM personfriend 
+  SELECT branding  FROM table_17487395_1  WHERE location = 'Cebu'  ORDER BY branding  LIMIT 1  
+"  SELECT shirt_sponsor, team  FROM table_25527255_2  WHERE team = 'FC Bunyodkor'  ORDER BY team ASC  LIMIT 1  "
+  SELECT COUNT(*) FROM table_20090682_4  
+" 
+
+# +
+# SQLite query to answer the question
+
+# SQLite query to answer the question: What is the capital of the district who's simplified name is  信州区?
+
+# +
+# SQLite query to answer the question
+
+# SQLite query to answer the question: What is the capital of the district who's simplified name is  信州区?
+
+# +
+# SQLite query to answer the question
+
+# SQLite query to answer the"
+"  SELECT purse___us, margin_of_victory, 8, 1000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  SELECT COUNT(*) FROM table_1620397_2 WHERE released = 'April 2010' 
+"  SELECT legs, COUNT(*) AS winning_yacht FROM steinlager 2 GROUP BY legs  "
+"  SELECT 1983 AS construction_year_s, 1 AS capacity_in_persons_hour  FROM table_17814458_1  WHERE 1983 = construction_year_s  AND 1 = capacity_in_persons_hour  "
+"  SELECT winner FROM Schema: create table table_22050544_1 (winner varchar, event__number varchar, PRIMARY KEY (winner))  SELECT winner FROM Schema: create table table_22050544_1 (winner varchar, event__number varchar, PRIMARY KEY (winner))  SELECT winner FROM Schema: create table table_22050544_1 (winner varchar, event"
+  SELECT languages FROM Schema.table_14670060_1 WHERE call_sign = 'XEJAM' 
+"  SELECT language, year_founded FROM table_1930857_1 WHERE language = 'English' AND year_founded = 1874 "
+"  SELECT android_version, code_name, android_version AS code_name  FROM table_  WHERE android_version = 'Lotus'  "
+"  SELECT order_id, shipment_date, id  FROM shipments  WHERE order_id = '123'  ORDER BY shipment_date DESC  LIMIT 1  "
+"  SELECT other, species, PRIMARY KEY (other)  FROM table_1850282_7  WHERE species ='multiventris'  AND other ='septentrionalis' "
+  SELECT COUNT(*) FROM table_17822401_1 WHERE branding = 'power__kw_' AND power__kw_ = 5; 
+"  SELECT test_taker, challenge, PRIMARY KEY (test_taker)  FROM table_10749367_3  WHERE challenge = 'night' "
+  SELECT leader_battle FROM table_25920798_2 WHERE vote = '4-3' 
+  SELECT 1 FROM _user.user_1 WHERE 1;  
+  SELECT employee_id  FROM employees  WHERE employee_id NOT IN (SELECT employee_id  FROM job_history  GROUP BY employee_id  HAVING COUNT(*) = 0); 
+"  SELECT pinyin, simplified, 1 AS pinyin_index  FROM table_2135222_2  WHERE simplified = '虞城县'  ORDER BY simplified ASC  LIMIT 1  "
+"  SELECT name, country, song_name, 1 AS id  FROM singer  WHERE song_name LIKE 'Hey%'  ORDER BY id DESC  LIMIT 1;"
+" 
+
+# +
+# %%time
+
+# Create a new table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+
+# Create a table
+"
+  
+"  SELECT 1 AS category,'single' AS capacity__litres_,'medium' AS capacity__litres_, 'tanker' AS category, '2' AS capacity__litres_  FROM sqlite_master  WHERE type = 'table'  AND name = 'table_2155350_2'  "
+  SELECT year__ceremony_ FROM table_22020724_1 WHERE title_in_the_original_language = 'Tummien Perhosten Koti' AND year__ceremony_ = 2019; 
+"  SELECT  _percentage_funded, closing_date  FROM table_27155990_1  WHERE closing_date = '2012-05-18'  ORDER BY _percentage_funded DESC  LIMIT 1  "
+  SELECT COUNT(*) FROM table_17968274_2 WHERE team = 'Vélez Sársfield'  
+"  SELECT high_points, high_rebounds, high_points, high_rebounds, high_points, high_rebounds, high_points, high_rebounds, high_points, high_rebounds, high_points, high_rebounds, high_points, high_rebounds, high_points, high_rebounds, high_points, high_rebounds, high_points, high_rebounds, high_points, high_rebounds,"
+"  SELECT 1 AS coinage_metal, 1 AS km_number  UNION SELECT 2 AS coinage_metal, 2 AS km_number  UNION SELECT 3 AS coinage_metal, 3 AS km_number  UNION SELECT 4 AS coinage_metal, 4 AS km_number  UNION SELECT 5 AS coinage_metal, 5 AS km_number  UNION SELECT 6 AS coinage_metal,"
+  SELECT COUNT(*) FROM table_25287007_2 WHERE august_21_22 = 'August 21-22' AND june_10_11 = 'June 10-11' 
+"  SELECT product_name  FROM products  WHERE product_name IN ('apple', 'banana', 'cherry')  AND product_name IN ('orange', 'pear', 'kiwi')  AND product_name IN ('mango', 'pineapple', 'grapefruit')  AND product_name IN ('strawberry', 'peach', 'watermelon')  AND product_name IN ('pineapple', 'kiwi','m"
+"  SELECT  high_rebounds,  record  FROM  table_23286112_6  WHERE  record = 14  ORDER BY  high_rebounds DESC  LIMIT  1  "
+"  SELECT si_prefix, chuquet, 1000 AS si_prefix_1000  FROM table_260938_1  WHERE si_prefix = 'thousand'  "
+"  SELECT mens_doubles, mens_singles FROM table_28138035_4 WHERE mens_doubles = 'dimitrij ovtcharov' "
+"  SELECT 1 AS social_democratic, 1 AS socialist, 1 AS socialist_democratic  FROM sqlite_master  WHERE type = 'table' AND name = 'table_1463383_1'  "
+  SELECT COUNT(*) FROM authors; 
+  SELECT lyrics_by  FROM table_191105_2  WHERE subject = 'interjection' 
+  SELECT further_cities FROM table_197286_4 WHERE country = 'Romania' 
+"  SELECT revising_convention_s, denunciations__september_2011_ FROM table_2001348_1 WHERE revising_convention_s ='revising convention' AND denunciations__september_2011_ = 21 "
+"  SELECT premiere_air_dates, format, premiere_air_dates, format, premiere_air_dates, format, premiere_air_dates, premiere_air_dates, premiere_air_dates, premiere_air_dates, premiere_air_dates, premiere_air_dates, premiere_air_dates, premiere_air_dates, premiere_air_dates, premiere_air_dates, premiere"
+"  SELECT bbi, economy, 5.68 AS bbi_5_68  FROM table_28846752_9  WHERE bbi = 'economy'  "
+  SELECT COUNT(*) FROM department WHERE school_code = 'BUS' 
+" 
+
+
+"
+"  SELECT  gtype, COUNT(*) AS num_games  FROM video_games  GROUP BY gtype  ORDER BY num_games DESC  LIMIT 10;  "
+  SELECT COUNT(*) FROM womens_singles  WHERE womens_singles = li xiaodan wen jia;  
+  SELECT directed_by  FROM table_29569969_2  WHERE us_viewers__millions_ = 1.48  
+"  SELECT 1 FROM Schema.create_table_18278508_2(main_contestant varchar, co_contestant__yaar_vs_pyaar_ varchar, PRIMARY KEY (main_contestant))  "
+"  SELECT 1 AS _2011_, 4 AS gdp__nominal___billions_usd_, 4 AS population__millions  FROM  table_2155836_1  WHERE  gdp__nominal___billions_usd_ = 4  "
+  SELECT count(*) FROM hand_148535_2  WHERE hand = 'credit'  
+" 
+
+# +
+# %%HTML
+
+<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/callanetics:10-years-younger-in-10-hours?list=PLZHQ4UzJmYWep-hLuFY2wFs_CKY2Pujc8&feature=youtu.be&v"
+"  SELECT transaction_type, SUM(transaction_amount) FROM financial_transactions GROUP BY transaction_type ORDER BY SUM(transaction_amount) DESC LIMIT 1; "
+  SELECT SUM(power_kw) FROM table_24418525_1 WHERE power_kw >= 10000000000000000000000000000000000000000000000000000000000000000000000000
+  SELECT COUNT(*) FROM table_2248784_3 WHERE country = 'Bhutan' 
+"  SELECT barony, townland, civil_parish, 1 AS barony_id, 1 AS townland_id, 1 AS civil_parish_id  FROM sqlite_master  WHERE type='table'  AND name='table_30120566_1'  ORDER BY barony_id DESC  LIMIT 1  "
+  
+" 
+
+
+"
+  SELECT ss_winning_car FROM table_27965906_2 WHERE circuit = 'road atlanta' AND b_winning_car = '#35 quantum engineering #35 honda crx-si' 
+"  SELECT  participants.participant_id, participants.participant_type_code, participants.participant_details  FROM  participants  "
+"  SELECT centerfold_model, pictorials FROM table_1566852_8 WHERE centerfold_model = 'kimberly bell' AND pictorials = 'bunnies of the new playboy club'  "
+"  SELECT  original_air_date,  written_by  FROM  table_27389024_2  WHERE  original_air_date = '2021-01-01'  AND  written_by = 'Rama Stagner'  "
+"  SELECT  emulated_class,  comparisons,  usb_re_enumeration  FROM  table_1153898_1  WHERE  emulated_class = 'usb re-enumeration'  ORDER BY  comparisons  LIMIT  1000  "
+"  SELECT town, type FROM table_2803662_3 WHERE town = 'Stuttgart' "
+  SELECT population_density__people_per_mi_2__ FROM table_22916979_1 WHERE land_area__mi_2__ = 135.09; 
+"  SELECT winner, big_ten_team, 1 AS id  FROM table_23058971_8  WHERE winner = 'Purdue'  ORDER BY winner DESC  LIMIT 1  "
+  SELECT COUNT(*) FROM paragraphs; 
+"  SELECT id FROM Schema.create_table_advisor(s_id varchar, PRIMARY KEY (s_id));  SELECT id FROM Schema.create_table_student(id varchar, dept_name varchar, PRIMARY KEY (id));  SELECT id FROM Schema.create_table_instructor(id varchar, dept_name varchar, PRIMARY KEY (id));  SELECT id FROM Schema.create_table_advisor(s_id varchar,"
+"  SELECT  maximum_peak_performance___teraflops__, period_of_operation  FROM  table_27765443_2  WHERE  period_of_operation = 'October 2006 - January 2010'  "
+  
+  SELECT 100.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  SELECT COUNT(*) FROM table_23495048_2 WHERE height__mtr_ = '1.85 mtrs' 
+" 
+
+# +
+# Create a table to answer the question
+
+
+
+# +
+# Create a table to answer the question
+
+
+
+# +
+# Create a table to answer the question
+
+
+
+# +
+# Create a table to answer the question
+
+
+
+# +
+# Create a table to answer the question
+
+
+
+# +
+# Create a table to answer the question
+
+
+
+# +
+# Create a table to"
+"  SELECT outcome, score_in_the_final, PRIMARY KEY (outcome)  FROM table_22839669_1  WHERE score_in_the_final = 4  AND score = 6  AND outcome = 2  AND outcome = 3  AND outcome = 4  AND outcome = 5  AND outcome = 6  AND outcome = 7  AND outcome = 8  AND outcome = 9  AND outcome"
+  SELECT MAX(LENGTH_METERS) FROM architect;  
+"  SELECT us_air_date, canadian_viewers__million, 1.452_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MILLION_MI"
+  SELECT song_title FROM table_22457674_1 WHERE artist = 'europe' 
+  SELECT period__h_ FROM table_206217_2 WHERE eccentricity = 0.583085; 
+  SELECT 1 FROM Schema.table_23429629_4 WHERE place_came = 'Erlend Bratland' 
+  SELECT type FROM table_13770460_3 WHERE transfer_fee = '€20m' 
+"  SELECT others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number,"
+"  SELECT  `extortion_theft_3`,  `united_nations_mission`,  `extortion_theft_3`  FROM  `table_15652027_1`  WHERE  `united_nations_mission` = 'UNITED NATIONS OBSERVER MISSION'  AND  `extortion_theft_3` = 'EXTORTION'  AND  `"
+"  SELECT 1 AS written_by, 981 AS us_viewers__in_millions_  FROM table_28688313_1  WHERE written_by = 'written by'  "
+"  SELECT callback_audition_date, episode_air_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_audition_date, callback_"
+  SELECT COUNT(*) FROM ship; 
+"  SELECT reward, eliminated, 1 AS PRIMARY KEY FROM table_24122653_2 WHERE eliminated = 'Peterson' AND reward ='reward' "
+  SELECT COUNT(*) FROM voting_record; 
+" 
+
+# +
+# %%sql
+
+SELECT females___percentage_
+FROM table_14598_9
+WHERE state_ut_code = '4'
+
+
+# -
+
+# ## 14.598_10
+#
+# "
+"  SELECT institution, mens_nickname  FROM table_10577579_3  WHERE mens_nickname = 'blazers'  "
+"  SELECT party, incumbent FROM table_2668329_18 WHERE party = 'hutchins g. burton' "
+"  SELECT team, incoming_manager FROM table_26914759_3 WHERE incoming_manager = 'dave penney' "
+  SELECT opponent FROM table_24561550_1 WHERE opponent = 'opponent' AND record = '4-4 scoring game.' 
+"  SELECT mix_pack, artist_2  FROM table_23649244_2  WHERE artist_2 = 'Eminem'  ORDER BY mix_pack  LIMIT 1  "
+" 
+
+
+# + [markdown] id=""_1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  SELECT COUNT(*) FROM likes WHERE student_id = 'Kyle'; 
+  SELECT  semester_id  FROM  student_enrolment  WHERE  degree_program_id = 'M.A.'  AND  semester_id = 'M.A.1'  AND  degree_program_id = 'B.A.'  AND  semester_id = 'B.A.1'  AND  degree_program_id = 'M.A.2'  AND  semester_id = 'M.A
+  SELECT new_conference  FROM table_14976504_2  WHERE new_conference = 'Western Collegiate Lacrosse team'  
+  SELECT directed_by  FROM table_27927185_1  WHERE viewers__millions_ = 6.37  ORDER BY viewed_millions DESC LIMIT 1; 
+" 
+
+
+
+"
+"  SELECT third_place, winner, 3 AS winner_place  FROM table_25214321_1  WHERE third_place = 'Karina Bacchi'  ORDER BY winner_place DESC  LIMIT 1; "
+  SELECT COUNT(*) FROM table_1216675_1 WHERE pinyin = '釋蟲'; 
+"  SELECT mens_singles, womens_singles, mens_singles, womens_singles  FROM table_28138035_26  WHERE mens_singles = 'lau sui fei'  AND womens_singles = 'lau sui fei'  "
+  SELECT builder FROM table_1748444_1 WHERE date_built = '1910-01-01' 
+"  SELECT name  FROM routes  WHERE alid IN ('Airbus', 'Boeing', 'Embraer', 'Airbus', 'Embraer', 'Airbus', 'Embraer', 'Airbus', 'Embraer', 'Airbus', 'Embraer', 'Airbus', 'Embraer', 'Airbus', 'Embraer', 'Airbus', 'Embraer', 'Airbus',"
+"  SELECT role_description, COUNT(role_description) AS number_of_employees, COUNT(role_description) AS number_of_employees_id FROM roles GROUP BY role_description; "
+" 
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +
+# SQLite query
+
+# +"
+"  SELECT participants_recipients, category, COUNT(*) AS num_films  FROM table_29644931_1  GROUP BY participants_recipients, category  HAVING num_films = 1  ORDER BY num_films DESC  LIMIT 1  "
+"  SELECT counties_carries, MAX(counties_carries) AS highest_counties_carries FROM table_16186152_1 GROUP BY counties_carries; "
+" 
+
+
+# +
+# SQLite query
+
+# -
+
+# ## 2.
+#
+# "
+" 
+
+# +
+# SQLite query to answer the question
+
+SELECT interview_subject, cover_model
+FROM table_1566852_7
+WHERE interview_subject = 'Kara Monaco';
+# -
+
+# ### 2.1.2.3. Question: IN THE ISSUE WITH KARA MONACO ON THE COVER, WHO WAS THE INTERVIEW SUBJECT?
+#
+#"
+"  SELECT 133 AS _percentage, 'The Bronx' AS the_bronx, 1 AS the_bronx_percentage  FROM  table_1108394_47  WHERE  the_bronx = 'The Bronx'  AND  the_bronx_percentage = 133  ORDER BY  the_bronx_percentage DESC  LIMIT  1  "
+"  SELECT rookie, transition, offensive, 
+
+rookie, transition, offensive, 
+ROUND(SUM(CASE WHEN rookie = 'Brodie Merrill' THEN 1 ELSE 0 END), 2) AS rookie, 
+ROUND(SUM(CASE WHEN rookie = 'Pat Maddalena' THEN 1 ELSE 0 END), 2) AS transition, 
+ROUND(SUM("
+"  SELECT 1 AS mountains_classification, 1 AS most_courageous, 1 AS mountains_classification_id  FROM  mountains  WHERE  mountains_classification ='most corageous'  ORDER BY  mountains_classification ASC  LIMIT  1  "
+  SELECT 1 AS `Sky Calcio 5 channels have PPV?` FROM `table_15887683_4` WHERE `ppv` = 'Yes' AND `television_service` = 'Sky Calcio 5'  
+"  SELECT stadium, average_attendance, capacity_percentage, 100 - capacity_percentage AS average_attendance  FROM stadium  WHERE capacity_percentage > 100  ORDER BY average_attendance DESC  LIMIT 10  "
+"  SELECT shop_name, COUNT(*) AS total_devices  FROM stock GROUP BY shop_name  ORDER BY total_devices DESC  LIMIT 1;"
+  SELECT COUNT(*) FROM table_19418696_3 WHERE qb_rating = 1069; 
+"  SELECT country_region, presenters  FROM table_13779832_1  WHERE presenters = heikki paasonen jukka rossi  "
+"  SELECT 2010 AS 2010_population, 31 AS 31_barangays, 1 AS 1_barangays_in_municipality, 1 AS 1_barangays_in_municipality_in_municipality, 1 AS 1_barangays_in_municipality_in_municipality_in_municipality, 1 AS 1_"
+"  SELECT African Spoonbill, Hadeda Ibis, Brown Snake Eagle  FROM Schema.table_20042805_2  "
+  SELECT major FROM student  WHERE COUNT(*) < 3;
+"  SELECT  el,  el,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos,  vos, "
+  SELECT count(*) FROM staff WHERE first_name = 'Ludie' 
+"  SELECT employee_name, role_code  FROM employees  WHERE role_name = 'Editor'; "
+" 
+
+
+# +
+# %%time
+
+# Create a new table with the desired columns
+# and the desired schema
+
+# Create a new table with the desired columns
+# and the desired schema
+
+# Create a new table with the desired columns
+# and the desired schema
+
+# Create a new table with the desired columns
+# and the desired schema
+
+# Create a new table with the desired columns
+# and the desired schema
+
+# Create a new"
+"  SELECT school_year, class_a, class_aaa, cuero  FROM table_14603212_1  WHERE class_a = 'lindsay' AND class_aaa = 'cuero'  ORDER BY school_year; "
+"  SELECT title, us_viewership_millions, PRIMARY KEY (title)  FROM table_24910737_1  WHERE us_viewership_millions = 81600000000000000000000000000000000000000000000000000000000"
+  SELECT 1 AS safe FROM table_12305325_4 WHERE safe ='safe' AND eliminated = 'eliminated' AND safe ='safe' AND eliminated = 'eliminated' AND safe ='safe' AND eliminated = 'eliminated' AND safe ='safe' AND eliminated = 'eliminated' AND safe ='safe' AND eliminated = 'eliminated' AND safe ='safe' AND
+  SELECT 1 FROM Schema.Table_12451376_1 WHERE writer_s_ = 'dean white' 
+  SELECT census_division  FROM table_21284653_1  WHERE name = 'Stratford' 
+"  SELECT  ""quarterfinals"" AS ""quarterfinals"", ""round_of_32"" AS ""round_of_32"", ""US_women_vs_Serbia_women"" AS ""round_of_32_vs_Serbia_women"" FROM ""table_17289604_38"" WHERE ""quarterfinals"" = ""S williams / V williams ( usa ) l"
+"  SELECT geographical_regions FROM table_24192031_2 WHERE contestant = ""laura jiménez ynoa"" AND contestant = ""laura jiménez ynoa"" AND contestant = ""laura jiménez ynoa"" AND contestant = ""laura jiménez ynoa"" AND contestant = ""laura jiménez ynoa"" AND contestant = ""la"
+"  SELECT course_name, COUNT(*) AS enrollment  FROM student_course_enrolment  GROUP BY course_name  ORDER BY enrollment DESC  LIMIT 1;"
+" 
+
+# +
+# %%bigquery --project $PROJECT_ID
+
+SELECT awardee_s_ AS awardee,
+       language AS language
+FROM `bigquery-samples.nlp.table_25926120_7`
+WHERE awardee_s_ ='mateen ahmad'
+
+# -
+
+# <a name=""answers""></a>
+# ## Part 2: Answer the"
+  SELECT COUNT(*) FROM table_26275503_2 WHERE opponent = 'Scottish Claymores' 
+"  SELECT 1 AS max_downstream_throughput___mbit_s__, profile  FROM table_2394927_1  WHERE 1  "
+" 
+
+# +
+# Write your code below and press Shift+Enter to execute
+
+# +
+# Write your code above this line
+
+# +
+# Write your code below this line
+
+# +
+# Write your code above this line
+
+# +
+# Write your code below this line
+
+# +
+# Write your code above this line
+
+# +
+# Write your code below this line
+
+# +
+# Write your code above"
+  
+  SELECT customer_name FROM customers WHERE customer_name = 'John'  UNION  SELECT customer_name FROM customers WHERE customer_name = 'Mary'  UNION  SELECT customer_name FROM customers WHERE customer_name = 'Bob'  UNION  SELECT customer_name FROM customers WHERE customer_name = 'Sue'  UNION  SELECT customer_name FROM customers WHERE customer_name = 'David'  UNION  SELECT customer_name FROM customers WHERE customer_name = 'An
+  SELECT COUNT(*) FROM table_28180840_15 WHERE age_s_ = '29' AND semifinal__week_ = '2021-08-29' 
+"  SELECT 1 AS mens_singles, 2 AS womens_doubles  FROM  wang nan zhang yining  WHERE  mens_singles = 'wang nan zhang yining'  AND  womens_doubles = 'wang nan zhang yining'  "
+"  SELECT title, written_by, directed_by, 1 AS episode_id  FROM table_2468961_3  WHERE written_by = Bob Rosenfarb  AND directed_by = Richard Correll  ORDER BY title  LIMIT 1;"
+"  SELECT others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number, others_percentage, others_number,"
+  
+  SELECT withdrawal_rate__2010_11_ FROM table_21514460_1 WHERE headquarters = 'Truro'; 
+"  SELECT 1 AS spacewalkers, 2007 AS end__utc_  FROM   Schema: create table table_22385461_8 (spacewalkers varchar, end__utc_ varchar, PRIMARY KEY (spacewalkers))  "
+" 
+
+# +
+# Import libraries
+import sqlite3
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Set the database name
+database_name = 'emlc_flash.db'
+
+# Create a connection to the database
+conn = sqlite3.connect(database_name)
+
+# Create a cursor object
+cursor = conn.cursor()
+
+# Create a table"
+"  SELECT 1 AS 1, 2 AS 2, 3 AS 3, 4 AS 4, 5 AS 5, 6 AS 6, 7 AS 7, 8 AS 8, 9 AS 9, 10 AS 10, 11 AS 11, 12 AS 12, 13 AS 13, 14 AS 14, 15 AS "
+"  SELECT publisher, COUNT(*) AS num_books  FROM book_club GROUP BY publisher  ORDER BY num_books DESC  LIMIT 10;"
+  SELECT theme  FROM table_21501518_1  WHERE original_artist = 'Soul Brothers Six' 
+"  SELECT segment_d, segment_b FROM table_15187735_5 WHERE segment_b = 'dining room tables' "
+  SELECT COUNT(*) FROM table_23938357_5 WHERE name ='mao asada' 
+  SELECT COUNT(*) FROM table_18299148_1 WHERE missions LIKE 'president of burundi' AND notability LIKE 'notability'  
+"  SELECT id, name, chip_model_id, chip_model_name, chip_model_description, chip_model_price, chip_model_image, chip_model_url, chip_model_brand, chip_model_category, chip_model_manufacturer, chip_model_model_year, chip_model_model_number, chip_model_model_family, chip_model_model_subfamily, chip_model_model_"
+  
+  SELECT segment_a FROM table_15187735_8 WHERE series_ep = '8-08' 
+"  SELECT emp_fname, emp_lname, emp_dob, emp_age, emp_salary, emp_bonus, emp_hire_date, emp_department, emp_manager_name, emp_manager_department, emp_manager_hire_date, emp_manager_department_name, emp_manager_department_hire_date, emp_manager_department_name, emp_manager_department_hire_date"
+  SELECT COUNT(*) FROM table_1754531_4 WHERE domestic_mail = 'domestic mail' 
+"  SELECT f_bolt, p1_diameter__mm  FROM table_26967904_2  WHERE p1_diameter__mm = 11.35  "
+"  SELECT last_name, COUNT(*) AS songs_produced  FROM songs  GROUP BY last_name  ORDER BY songs_produced DESC  LIMIT 1;"
+  SELECT document_type_code  FROM ref_document_types  WHERE document_type_code IN ('100000000000000000000000000000000000000000000000000000000000000000000000000000
+  SELECT document_type_code  FROM documents  WHERE document_id = 2. 
+"  SELECT 1 AS week__number, original_artist AS artist FROM table_21501565_1 WHERE original_artist = 'Tina Turner' "
+  SELECT first_name  FROM employee  WHERE job_code = 'PROF'  ORDER BY dob;
+"  SELECT name, party FROM representative  WHERE party = 'Republican'  UNION  SELECT name, party FROM representative  WHERE party = 'Democrat'  UNION  SELECT name, party FROM representative  WHERE party = 'Independent'  UNION  SELECT name, party FROM representative  WHERE party = 'Green'  UNION  SELECT name, party FROM representative  WHERE party = 'Libertarian'  UNION  SELECT name, party FROM representative  WHERE party = 'Const"
+"  SELECT finals_apps, COUNT(*) AS finals_apps_count  FROM table_21220720_1  GROUP BY finals_apps  ORDER BY finals_apps_count DESC  LIMIT 1  "
+  SELECT COUNT(*) FROM table_12707313_2 WHERE constr = '1978 brazilian grand prix' 
+  SELECT COUNT(*) FROM table_1182314_5 WHERE percent__2000_ = 3.4% 
+  SELECT archive FROM table_2102898_1 WHERE broadcast_date = '18april1970' 
+  SELECT prod_no FROM table_25046766_3 WHERE episode_no = '3'; 
+  SELECT LAST_NAME  FROM  ORGANIZATION_CONTACT_INDIVIDUALS  WHERE  ORGANIZATION_ID = 'Labour Party'  AND  DATE_CONTACT_TO = '2021-01-01'  
+"  SELECT song, picturization, PRIMARY KEY (song)  FROM table_10848177_1  WHERE picturization = 'only vijay' "
+  
+"  SELECT episode_no, bbc_three_weekly_ranking  FROM table_24399615_3  WHERE episode_no = 5  "
+"  SELECT conference FROM Schema: create table table_21091982_3 (tournament_venue__city_ varchar, conference varchar, PRIMARY KEY (tournament_venue__city_))  "
+  SELECT pennant FROM table_1220125_4 WHERE pennant = '4 may 1943' 
+  SELECT fourth_district FROM table_15442974_1 WHERE first_district = 'Beverly' 
+  
+"  SELECT  dates_active, name  FROM  table_10602294_1  WHERE  name = 'Kamba'  ORDER BY  dates_active DESC  LIMIT  1  "
+"  SELECT original_title, director, year__ceremony, 1989 AS year__ceremony FROM table_15277629_1 WHERE director = 'Bruno Barreto' AND year__ceremony = 1989 "
+"  SELECT coupon_amount, coupon_id  FROM discount_coupons  WHERE good_or_bad_customer = 'good'  UNION  SELECT coupon_amount, coupon_id  FROM discount_coupons  WHERE good_or_bad_customer = 'bad'  "
+"  SELECT title, singer_id  FROM singer  UNION  SELECT title, singer_id  FROM song;"
+" 
+
+<SQL>
+SELECT original_air_date
+FROM table_11404452_1
+WHERE us_viewers__millions_ = 12.81;
+
+
+
+
+
+<|user|>
+Write a SQL query to answer the following question: What is the original air date when there were 12.81 million u.s viewers?
+
+
+
+
+A:
+
+
+B:"
+"  SELECT 1 AS 1, ""Heart"" AS 2, 1 AS 3, 1 AS 4, 1 AS 5, 1 AS 6, 1 AS 7, 1 AS 8, 1 AS 9, 1 AS 10, 1 AS 11, 1 AS 12, 1 AS 13, 1 AS 14, 1 AS 15, "
+"  SELECT uk_co_presenter, co_presenter, comedian  FROM table_14345690_15  WHERE uk_co_presenter = 'Joe Swash'  AND co_presenter = 'Russell Kane'  AND comedian = 'Joe Swash'  "
+"  SELECT station_id, local_authority, MAX(precipitation) FROM weekly_weather GROUP BY station_id, local_authority; "
+"  SELECT network, virtual_channel, 231  FROM table_2857352_3  WHERE virtual_channel = 231  "
+  SELECT COUNT(*) FROM table_27771406_1 WHERE total_dismissals = 1; 
+"  SELECT  scores_by_each_individual_judge, main_contestant, date_performed  FROM table_18278508_6  WHERE date_performed = 'August 13'  ORDER BY scores_by_each_individual_judge; "
+  SELECT COUNT(*) FROM barony WHERE townland = 'kilmore' 
+"  SELECT school, hometown  FROM table_11677100_18  WHERE school = 'Lake Charles, LA'  "
+"  SELECT results, incumbent, PRIMARY KEY (results)  FROM table_1341453_11  WHERE incumbent = 'Peter Deutsch'  ORDER BY results DESC  LIMIT 1  "
+  SELECT COUNT(*) FROM table_16751596_13 WHERE lead_maragin = 'lead_maragin' AND dates_administered = 'dates_administered' AND PRIMARY KEY (lead_maragin) 
+  
+  SELECT COUNT(*) FROM student WHERE sex = 'M' AND allergy = 'Food'; 
+  
+  SELECT COUNT(*) FROM table_12562214_1 WHERE notes = 'date__to_1919'; 
+"  SELECT 1 AS high_assists, 'Indiana' AS team  FROM table_27882867_9  WHERE high_assists = 'high_assists'  "
+"  SELECT scientist, COUNT(*) AS num_projects  FROM assignedto  GROUP BY scientist  HAVING num_projects > 1;"
+  SELECT COUNT(*) FROM table_17978052_2 WHERE borough_or_census_area = 'Valdez-Cordova (CA)' 
+  SELECT name FROM people  UNION SELECT name FROM perpetrator  
+"  SELECT vote_percentage, couple, 100 * COALESCE(vote_percentage, 0) AS vote_percentage  FROM table_26375386_20  WHERE couple = 'gary and maria'  ORDER BY vote_percentage DESC  LIMIT 1  "
+"  SELECT party, incumbent  FROM table_1341577_36  WHERE party = 'Republican'  UNION  SELECT party, incumbent  FROM table_1341577_36  WHERE party = 'Democrat'  "
+ 1. part_1 2. verb_meaning 3. part_2 4. verb_meaning 5. part_3 6. verb_meaning 7. part_4 8. verb_meaning 9. part_5 10. verb_meaning 11. part_6 12. verb_meaning 13. part_7 14. verb_meaning 15. part
+  SELECT COUNT(DISTINCT location) FROM perpetrator; 
+"  SELECT in_county_tuition_per_credit_hour__fall_2009_, college  FROM table_22308881_2  WHERE in_county_tuition_per_credit_hour__fall_2009_ = 100000000000000000000000000000000000"
+"  SELECT name, COUNT(flight_id)  FROM aircraft  GROUP BY name  ORDER BY name;"
+  SELECT * FROM table_12186309_1 WHERE mixed_doubles = 'kim brodersen' 
+  
+  SELECT title FROM table_23399481_4 WHERE written_by = 'Michael Gans & Richard Register' 
+  SELECT title  FROM table_21025437_5  WHERE written_by = 'Keith Temple'  
+"  SELECT time_retired, driver  FROM table_17693171_1  WHERE driver = 'Marco Andretti'  ORDER BY time_retired DESC  LIMIT 1  "
+"  SELECT region_2, dvd_name, season_number, year, month, day, dvd_release_date, dvd_released_at, dvd_released_at_date, dvd_released_at_time, dvd_released_at_time_date, dvd_released_at_time_time, dvd_released_at_time_time_date, dvd_released_at"
+  SELECT DISTINCT product_name FROM product ORDER BY product_name ASC; 
+"  SELECT third_place, COUNT(*) AS third_place_count  FROM table_2146364_2  GROUP BY third_place  ORDER BY third_place_count DESC  LIMIT 1  "
+"  SELECT borough_or_census_area, comment FROM table_17978052_2 WHERE borough_or_census_area = 'Denali' "
+  SELECT order__number FROM table_19508635_1 WHERE theme = '1960s' 
+"  SELECT COUNT(*) FROM table_2160008_4 WHERE reason_for_change = 'name the number of reason for change on may 11, 1939' "
+"  SELECT COUNT(*) FROM Schema: create table table_28365816_2 (conference varchar, regular_season_winner varchar, PRIMARY KEY (conference))  "
+"  SELECT subdivides_in, equivalence_in_varas, PRIMARY KEY (subdivides_in) FROM table_26538461_2 WHERE equivalence_in_varas = 1/5 "
+  
+"  SELECT concert_name, theme, COUNT(*) AS number_of_singers  FROM concert  GROUP BY concert_name, theme  ORDER BY theme, concert_name; "
+"  SELECT income_class__2007_, mayor FROM table_255812_1 WHERE income_class__2007_ = 'elegance' AND mayor ='ma. Ester a. Hamor' "
+  SELECT title FROM table_28760804_1 WHERE directed_by = 'Alex Reid' 
+  SELECT COUNT(*) FROM teachers WHERE classroom = 'MADLOCK RAY'; 
+  SELECT team_1 FROM table_19294812_2 WHERE team_2 = 'koper' 
+"  SELECT owner_id, first_name, last_name, COUNT(*) AS dogs_owned  FROM owners  GROUP BY owner_id, first_name, last_name  HAVING COUNT(*) > 100  ORDER BY COUNT(*) DESC  LIMIT 1;"
+  SELECT 1 AS `1`  FROM   `table_23918997_1`  WHERE  `written_by` = 'written by <NAME>'  AND  `us_viewers__million_` = 0.97  
+  SELECT COUNT(*)  FROM na_350_  WHERE title = 'bokumo sekai wo sukuitai: battle tournament'  AND source = 'bokumo sekai wo sukuitai: battle tournament'  
+"  SELECT others_number, MAX(others_number) AS highest_vote  FROM table_1756284_1  GROUP BY others_number  ORDER BY highest_vote DESC  LIMIT 1; "
+"  SELECT 1 AS vacancy_date, 2 AS vacancy_date_of_vacancy, 3 AS vacancy_date_of_vacancy_date, 4 AS vacancy_date_of_vacancy_date_of_vacancy, 5 AS vacancy_date_of_vacancy_date_of_vacancy_date, 6 AS vacancy_date_of_vacancy_date"
+"  SELECT reason_for_change, successor, PRIMARY KEY (reason_for_change)  FROM table_2417345_4  WHERE successor = William Milnes, Jr. (C)  "
+  SELECT name FROM buildings WHERE company_office IS NULL; 
+"  SELECT document_type_code, document_type_name, document_type_description  FROM ref_document_types  WHERE document_type_code IN ('100000000000000000000000000000000000000000000000000000000000000000"
+"  SELECT  official_itv_rating__millions_, total_itv_viewers__millions_  FROM table_27319183_7  WHERE official_itv_rating__millions_ = 8.53  AND total_itv_viewers__millions_ = 8.53  "
+"  SELECT member_name, COUNT(*) AS greatest_number_of_events  FROM party_events  GROUP BY member_name  ORDER BY greatest_number_of_events DESC  LIMIT 1; "
+  SELECT COUNT(*) FROM table_19487922_2 WHERE country = 'India' 
+  SELECT COUNT(*) FROM table_256286_39 WHERE passed = '52.11%' 
+"  SELECT municipality, COUNT(*) AS votes  FROM table_24115349_6  GROUP BY municipality  HAVING votes = 754  "
+"  SELECT characteristic_name, characteristic_data_type, characteristic_id  FROM characteristics  WHERE characteristic_name = 'cumin'; "
+" 
+
+
+"
+"  SELECT date_of_vacancy, team, 1 AS vacancy_status  FROM table_19359427_6  WHERE date_of_vacancy = '2020-01-01'  ORDER BY date_of_vacancy ASC  "
+"  SELECT team, chassis_engine FROM table_23391714_1 WHERE team = 'buick' AND chassis_engine = 'lola t92/00/ buick' "
+"  SELECT songid, COUNT(*) AS shared_vocal  FROM vocals  GROUP BY songid  HAVING shared_vocal = 1; "
+" 
+
+SELECT 
+    stroke__mm_ AS stroke__mm_, 
+    vehicle_code AS vehicle_code_, 
+    PRIMARY KEY (stroke__mm_)
+FROM 
+    table_23722304_2 
+WHERE 
+    stroke__mm_ = t211_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+  SELECT COUNT(*) FROM classroom  WHERE building = 'Lamberton'  
+"  SELECT class_aaa, school_year FROM table_14603212_5 WHERE class_aaa IN ('AAA1', 'AAA2', 'AAA3', 'AAA4', 'AAA5', 'AAA6', 'AAA7', 'AAA8', 'AAA9', 'AAA10', 'AAA11', 'AAA12', 'AAA13', 'AAA"
+"  SELECT 1 AS `package_option`, 1 AS `series_name`, 1 AS `hight_definition_tv`  FROM tv_channel  WHERE 1  "
+"  SELECT 1 AS 1, 1 AS 2, 1 AS 3, 1 AS 4, 1 AS 5, 1 AS 6, 1 AS 7, 1 AS 8, 1 AS 9, 1 AS 10, 1 AS 11, 1 AS 12, 1 AS 13, 1 AS 14, 1 AS 15, 1 AS"
+  SELECT COUNT(*) FROM student WHERE advisor = 'John Smith' 
+  
+  SELECT COUNT(*)  FROM table_11695215_1  WHERE written_by = 'David Jackson'  AND directed_by = 'David Jackson'  
+  SELECT condition_parameter FROM table_15314901_1 WHERE velocity_angle_η_in_i_radians = ln[(1 + √5)/2] ≅ 0.481
+"  SELECT 1 AS high_points, 1 AS team  FROM la salle  UNION SELECT 2 AS high_points, 1 AS team  FROM la salle  UNION SELECT 3 AS high_points, 1 AS team  FROM la salle  UNION SELECT 4 AS high_points, 1 AS team  FROM la salle  UNION SELECT 5 AS high_points, 1 AS team  FROM la salle  UNION SELECT 6 AS high"
+"  SELECT order_id, order_details  FROM orders  WHERE order_id > 2  ORDER BY order_id  LIMIT 1  "
+  SELECT 1  FROM  table_2857352_3  WHERE 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 
+  SELECT COUNT(*) FROM table_21132404_1; 
+"  SELECT s_color_commentator, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame_hosts, pregame"
+"  SELECT customer_status_code, COUNT(*)  FROM customers  GROUP BY customer_status_code;"
+  SELECT product_category_description  FROM ref_product_categories  WHERE product_category_description = 'Spices'  
+  SELECT bus_width___bit__ FROM table_19161046_1 WHERE core___mhz__ = 650; 
+"  SELECT school_club_team_country, years_for_rockets  FROM table_11734041_3  WHERE years_for_rockets = '2000-01'  "
+"  SELECT tv_season, viewers__in_millions_ FROM table_27553627_2 WHERE viewers__in_millions_ = 145400000000000000000000000000000000000000000000000000000000000"
+"  SELECT fielding_team, wicket, COUNT(*) AS wickets FROM table_1670921_1 GROUP BY fielding_team, wicket ORDER BY COUNT(*) DESC LIMIT 1; "
+"  SELECT team, high_rebounds, 1 AS team_id, 1 AS team_rank  FROM table_23248940_8  WHERE high_rebounds = 'team'  ORDER BY high_rebounds DESC  LIMIT 1; "
+"  SELECT pole_position, supporting, USAC National Midget Series  FROM table_25459168_2  WHERE supporting = 'USAC National Midget Series'  ORDER BY pole_position DESC  LIMIT 1  "
+  SELECT broadcast_network FROM table_21076286_2 WHERE broadcast_scope = 'chiba prefecture' 
+  
+  SELECT COUNT(*) FROM table_28138035_6 WHERE mens_singles = 'womens_doubles' 
+  SELECT hometown FROM table_28180840_15 WHERE name_name_of_act = 'zhou jinsong' 
+"  SELECT  team,  high_points,  ROW_NUMBER() OVER (PARTITION BY team ORDER BY high_points DESC) AS rn  FROM  table_23249053_11  ORDER BY  high_points DESC  "
+  SELECT distance__m_ FROM table_1751142_2 WHERE shuttle_time__seconds_ = 6.86; 
+" 
+
+
+# + [markdown] id=""_111111111111""
+# ## 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+"  SELECT theme, original_artist FROM table_27614707_1 WHERE theme = 'Top 12 Men' "
+"  SELECT OWNER, OWNER_S__2009__ FROM table_23958917_1 WHERE OWNER_S__2009__ ='south side indianapolis' "
+"  SELECT title, directed_by, written_by, episode  FROM table_23958944_5  WHERE directed_by = 'Bryan Spicer'  AND written_by = 'Terence Paul Winter'  ORDER BY episode  LIMIT 1;"
+  SELECT stadium  FROM stadium_table  WHERE stadium = 'Stadion Zlatica'  
+"  SELECT 25' 01.89 90.438mph AS Sat_29_aug, 25' 01.89 90.438mph AS fri_28_aug  FROM  table_23465864_4  WHERE  sat_29_aug = '25'  AND  fri_28_aug = '25'  "
+  SELECT characteristic_name FROM characteristics  WHERE characteristic_name = 'warm'; 
+"  SELECT 2006 AS pop_2006, major_town AS major_town, 1 AS major_town_id  FROM table_23685890_2  WHERE major_town = 'Coober Pedy'  "
+  SELECT zodiac_sign  FROM table_20354_5  WHERE thai_name = 'มกราคม' 
+  SELECT director  FROM table_24910733_1  WHERE writter = 'Andrea Newman'  ORDER BY writter  LIMIT 1  
+  SELECT gp FROM table_26176081_29 WHERE gp = 1 
+  SELECT 1  FROM student  WHERE 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  = 1  AND 1  =
+"  SELECT 1 AS length_of_stay_permitted, ""Jersey"" AS countries_and_territories, 1 AS length_of_stay_permitted  FROM  ""Jersey""  WHERE  ""length_of_stay_permitted"" = 1  "
+  SELECT COUNT(*)  FROM MaebashiIkuei  WHERE year_of_previous_participation = '1'  AND total_number_of_participation = 1  
+"  SELECT country, COUNT(*) FROM stadium GROUP BY country HAVING COUNT(*) = 1000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+"  SELECT record_company, COUNT(*) AS num_orchestras  FROM orchestra  GROUP BY record_company  HAVING COUNT(*) >= 3  ORDER BY num_orchestras DESC  LIMIT 10;"
+  SELECT entrant FROM table_28578594_1 WHERE entrant = 'bruno sterzi' 
+  SELECT 1  FROM   Schema.table_1998037_9  WHERE  spokesperson = 'Kateryna Osadcha'  
+  SELECT COUNT(*)  FROM sprints_classification  WHERE winner = 'Joaquin Rodriguez'  
+  SELECT * FROM table_1182314_5 WHERE state = 'Mississippi' 
+"  SELECT second, national_trophy_rookie FROM table_25563779_4 WHERE national_trophy_rookie = 'Gerrard Barrabeig' "
+"  SELECT nhl_team, college_junior_club_team  FROM table_1013129_11  WHERE nhl_team = 'TPS'  AND college_junior_club_team = 'TPS'  ORDER BY nhl_team ASC  LIMIT 0, 10  "
+  SELECT hometown FROM table_11677691_10 WHERE school = 'Muscle Shoals High School' 
+"  SELECT title, publication_date  FROM book  WHERE title = 'The Catcher in the Rye';  "
+"  SELECT 1 AS 1, lubang AS 2, 1 AS 3, lubang AS 4, lubang AS 5, lubang AS 6, lubang AS 7, lubang AS 8, lubang AS 9, lubang AS 10, lubang AS 11, lubang AS 12, lubang AS 13, lubang AS 14, lubang AS 15, lubang AS"
+"  SELECT bayonet_lug, barrel_profile, name, status FROM table_12834315_5 WHERE bayonet_lug ='m4' AND barrel_profile ='m4le' AND name ='m4le carbine equipped' "
+"  SELECT drafted, pro_team, COUNT(*) AS drafted_count  FROM drafted_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_team_pro_"
+"  SELECT 1 AS `dates_of_australian_involvement`, 1 AS `number_of_australians_involved`, 1 AS `primary_key_`  FROM  `table_10121127_1`  WHERE  `dates_of_australian_involvement` = '1999-01-01'  AND  `number_of_australians_"
+  SELECT seans_team FROM table_23292220_7 WHERE seans_team = '13 november 2008' 
+"  SELECT deaths, number_of_hurricanes, COUNT(*) AS deaths_number  FROM table_2930244_4  GROUP BY deaths, number_of_hurricanes  HAVING COUNT(*) = 6  "
+  SELECT document_id  FROM paragraphs  WHERE paragraphs.paragraph_id IN (SELECT paragraph_id  FROM paragraphs  GROUP BY paragraph_id  HAVING COUNT(*) >= 2)  
+  SELECT 1 AS `winning_driver`  FROM Carlin Motorsport  WHERE 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 1  AND 1 = 
+"  SELECT film_festival, category, 1 AS category_id, 1 AS category_rank  FROM table_26282750_1  WHERE category = 'Best Male Actor'  ORDER BY category_rank ASC  LIMIT 1  "
+"  SELECT 1 AS country, 1 AS network_station  FROM sqlite_master  WHERE type = 'table' AND name = 'table_2879165_1'  ORDER BY 1  LIMIT 1;"
+  SELECT COUNT(*) FROM candidates WHERE candidates LIKE 'Mac Sweeney'; 
+"  SELECT light_vehicle, location, toll, 1 as toll_type, 1 as toll_scheme, 1 as toll_scheme_type, 1 as toll_type_id, 1 as toll_type_id_1, 1 as toll_type_id_2, 1 as toll_type_id_3, 1 as toll_type_id_4, 1"
+  SELECT COUNT(*) FROM county_public_safety  
+  SELECT hometown FROM table_23476629_2 WHERE province = 'Huesca' 
+  SELECT COUNT(*) FROM table_22648285_1 WHERE race_time = '1979-06-25' AND driver = 'Cale Yarborough' AND average_speed__mph = 88.924; 
+"  SELECT status, location FROM table_142159_1 WHERE status = 'Museum' "
+"  SELECT 1 AS homeland_security_distinguished_service_medal, 1 AS medal_of_honor, 1 AS medal_of_honor_medal, 1 AS medal_of_honor_distinguished_service_medal  FROM sqlite_master WHERE type = 'table' AND name = 'table_2104176_1'  "
+"  SELECT 15 AS `high_rebounds`, 15 AS `high_points`, 1 AS `high_rebounds_points` FROM `table_27700375_8` WHERE `high_rebounds` = 15 AND `high_points` = 15; "
+  SELECT COUNT(*) FROM table_1952065_4 WHERE afc_titles = 2 AND super_bowl_wins = 'YES'; 
+"  SELECT 1 AS `1`, 2 AS `2`, 3 AS `3`, 4 AS `4`, 5 AS `5`, 6 AS `6`, 7 AS `7`, 8 AS `8`, 9 AS `9`, 10 AS `10`, 11 AS `11`, 12 AS `12`, 13 AS `13`, 14 AS `14`, 15 AS `"
+  SELECT *  FROM student  WHERE city_code = '12345'  
+  SELECT chairman  FROM table_27374004_2  WHERE current_manager = 'bob peeters'  
+"  SELECT document_id, COUNT(*) AS num_paragraphs FROM paragraphs GROUP BY document_id ORDER BY num_paragraphs DESC LIMIT 1; "
+"  SELECT 11 AS high_rebounds, 13 AS record  FROM table_17104539_10  WHERE 11-13 = 11-13;"
+  
+"  SELECT COUNT(*) FROM department WHERE department_id IN ('Head of Department', 'Deputy Head of Department', 'Deputy Head of Department', 'Deputy Head of Department', 'Deputy Head of Department', 'Deputy Head of Department', 'Deputy Head of Department', 'Deputy Head of Department', 'Deputy Head of Department', 'Deputy Head of Department', 'Deputy Head of Department', 'Deputy Head"
+  SELECT barrel_length FROM table_12834315_5 WHERE colt_model_no = 'LE6921SP'  
+  SELECT COUNT(*) FROM table_18536769_1  WHERE call_sign = 'Vista' 
+  SELECT COUNT(*) FROM table_15887683_3; 
+"  SELECT donor_payment, country  FROM table_16175217_1  WHERE country = 'Belgium'  "
+  SELECT COUNT(*) FROM list WHERE classroom = 'classroom1'  
+  SELECT 1 AS `1`  FROM   `table_21312845_1`  WHERE  `written_by` = 'David Straiton'  
+" 
+
+<SQLite query: SELECT director, us_viewers__millions_ FROM table_11404452_1 WHERE us_viewers__millions_ = 13.66"
+  SELECT COUNT(*)  FROM table_11934032_1  WHERE location = 'c03'  
+"  SELECT candidates, incumbent  FROM table_2668374_10  WHERE candidates LIKE '%Riker%'; "
+  SELECT 1 AS `winning_driver`  FROM `table_1137696_3`  WHERE `winning_driver` = 'European Grand Prix' 
+  SELECT title FROM table_2866514_1 WHERE us_viewers__million__varchar = '5.66 million' 
+"  SELECT location_name, location_code, COUNT(*) AS documents  FROM document_locations  GROUP BY location_name, location_code  HAVING COUNT(*) < 3  ORDER BY documents DESC;"
+  SELECT orchestra  FROM orchestra  WHERE orchestra_id = 'performance'; 
+  SELECT COUNT(*) FROM student  WHERE clubid = 'Tennis Club'  
+  SELECT gender FROM table_28523_2 WHERE school = 'cunningham hill infant school'; 
+"  SELECT high_school FROM table_20785990_2 WHERE home_town = 'Blue Island, Il' "
+"  SELECT other_abbreviation, brightest_star FROM table_287159_1 WHERE brightest_star = 'β trianguli' "
+"  SELECT 1 AS reference, 1 AS type_and_usage, 1 AS reference_id  FROM table_30011_2  WHERE 1 = 1  "
+"  SELECT composer, conductor  FROM table_24521345_1  WHERE composer = jaroslav Vogel  "
+  SELECT * FROM table_25008327_8 WHERE slovak = 'пес' AND ukrainian = 'собака' 
+"  SELECT name  FROM broadcast  WHERE time_of_day ='morning'  AND program_id IN ('morning', 'afternoon', 'evening')  UNION  SELECT name  FROM broadcast  WHERE time_of_day ='morning'  AND program_id IN ('afternoon', 'evening')  UNION  SELECT name  FROM broadcast  WHERE time_of_day ='morning'  AND program_id IN ('evening') "
+"  SELECT  length_weight_of_missile,  diameter_of_torsion_spring,  length,  weight  FROM  table_21012786_2  WHERE  diameter_of_torsion_spring = 38.4  "
+"  SELECT name, dept_name, tot_cred, 1 AS tot_cred_id  FROM student  WHERE dept_name = 'History'  ORDER BY tot_cred DESC  LIMIT 1;"
+"  SELECT fname, lname, major, student_id  FROM student  WHERE major = 'Major 1'  AND major!= 'Major 2'  AND major!= 'Major 3'  AND major!= 'Major 4'  AND major!= 'Major 5'  AND major!= 'Major 6'  AND major!= 'Major 7'  AND major!= 'Major"
+"  SELECT country, _percentage_change, _percentage_change_abs, country FROM table_29789_3 WHERE _percentage_change > 5.7 AND country = 'United Kingdom' "
+"  SELECT ioc_code, country  FROM table_2879165_1  WHERE country = 'Singapore'  "
+  SELECT * FROM table_28884858_2 WHERE capacity_percentage = 102.3; 
+  
+  SELECT COUNT(*) FROM table_2592308_1 WHERE denominations__gold_weight_ = 'Austria' 
+"  SELECT missouri_vs, at_opponents_venue, ui, 4-1 FROM table_16201038_4 WHERE missouri_vs = ui AND at_opponents_venue = ui AND ui = 4-1 "
+  SELECT title FROM table_10749143_2 WHERE us_viewers__millions_ = 10.34;  
+  SELECT 100 * (SELECT COUNT(*) FROM table_1463383_1 WHERE left_bloc = 'Left Bloc' AND social_democratic = 'Social Democratic') / 100 FROM table_1463383_1; 
+"  SELECT 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, 1.64m, "
+  
+"  SELECT tourist_attraction_id, tourist_id, tourist_details  FROM visits  WHERE tourist_details = 'Vincent'  ORDER BY tourist_attraction_id ASC  LIMIT 1  "
+"  SELECT  Pilot, COUNT(*) AS TotalPilots  FROM  flight  GROUP BY Pilot  HAVING COUNT(*) > 1  "
+"  SELECT shop_name, carrier  FROM stock  WHERE device_id = '1234567890'  ORDER BY shop_name;"
+  SELECT COUNT(*)  FROM   team_s_avg_start_129  WHERE  team_s_ = '129'  
+  SELECT COUNT(*) FROM sqlite_master WHERE type = 'table' AND name = 'other_available_features'; 
+  SELECT COUNT(*) FROM ref_calendar; 
+"  SELECT 1 AS rushing_yards_per_game, 25 AS sacks, 1 AS PRIMARY_KEY  FROM sqlite_master  WHERE type = 'table'  AND name = 'table_27487336_1'  ORDER BY 1  "
+"  SELECT 1 AS fare_1, 1 AS fare_2, 1 AS fare_3, 1 AS fare_4, 1 AS fare_5, 1 AS fare_6, 1 AS fare_7, 1 AS fare_8, 1 AS fare_9, 1 AS fare_10, 1 AS fare_11, 1 AS fare_12, 1 AS fare_13, 1 AS fare"
+  SELECT COUNT(*) FROM (SELECT zip_code_prefix_es_ FROM table_14253123_1 WHERE _percentage_of_boundary_by_water = 63% AND PRIMARY KEY (zip_code_prefix_es_)) 
+"  SELECT 1 FROM Schema.create_table_1921_1(conflict varchar, location varchar, PRIMARY KEY (conflict)) WHERE 1 = 1; "
+  
+  SELECT song_name  FROM song  WHERE language = 'en'  
+  SELECT first_broadcast FROM table_23292220_3 WHERE seans_team = 'Sean' AND first_broadcast = '2021-01-01' 
+  SELECT title FROM table_24910742_1 WHERE us_viewers__millions_ = 96400000000000000000000000000000000000000000000000000000000000000000000000
+"  SELECT  townland, poor_law_union  FROM  table_30121075_1  WHERE  townland = 'Boonagh'  "
+  SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT 1 AS total  FROM  (SELECT
+"  SELECT broadcast_date, bbc_one_total_viewing, SUM(total_viewing) AS total_viewing FROM table_103084_4 GROUP BY broadcast_date ORDER BY broadcast_date DESC LIMIT 1; "

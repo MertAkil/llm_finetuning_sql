@@ -1,0 +1,1155 @@
+Results
+  SELECT dvd_name FROM table_1067134_1 WHERE region_2 = '2' AND YEAR(release_date) = 2010 AND MONTH(release_date) = 8 AND DAY(release_date) = 22; 
+  SELECT category FROM categories WHERE institution = 'Calvin College' 
+  select lec_sport from table_1974545_2 where lec_sport = 'Soccer'; 
+ 1. CMD.EXE /C echo 2. CMD.EXE /C echo /N 3. CMD.EXE /C echo /N /P 4. CMD.EXE /C echo /N /P /V 5. CMD.EXE /C echo /N /P /V /T 6. CMD.EXE /C echo /N /P /V /T /S 7. CMD
+  SELECT DISTINCT accounting_closure_date FROM table_143352_1 WHERE agr_power_station = 'Hunterston B' ORDER BY accounting_closure_date ASC 
+  SELECT * FROM table_1160660_1 WHERE official_registration_notes LIKE 'usek.edu.lb' 
+  select holborn_division from table_16677738_1 where tower_division = 272966 order by holborn_division desc limit 1 
+  select count(*) from table_18183850_12 where outcome = 'Aleksandra Wozniak' 
+  SELECT state__class_ FROM table_2417308_3 WHERE successor = 'William Bigler (D)' 
+  SELECT current_status FROM table_1353096_2 WHERE current_status = 'done' ORDER BY current_status ASC 
+"  select count(*) from documents where document_status_code = ""done"" and document_type_code = ""paper"" "
+  select writer_s_ from table_25800134_17 where airdate = '1972-09-11'; 
+  select t_c__°c_ from table_2282444_1 where h_ci__ka_m_ = 720 
+"  SELECT notes FROM table_20174050_7 WHERE title = 'Paradox Lost' AND reader = 'Briggs, Nicholas Nicholas Briggs' "
+  SELECT count(*) FROM table_25983027_1 WHERE rainfall_by_depth__mm_year = '9.3' 
+  SELECT * FROM ref_transaction_types ORDER BY transaction_type_code DESC; 
+  select manner_of_departure from table_27374004_3 where manner_of_departure = 'plane' order by manner_of_departure limit 1 
+  SELECT tour FROM table_14496232_2 WHERE mens_singles = 'chen jin' AND womens_doubles = 'zhang yawen zhao tingting' 
+  SELECT segment_a FROM table_15187735_15 WHERE segment_c = 'Sushi (part 1)' 
+  select * from problem_log where problem_log_id = '10' order by log_entry_date desc 
+  select name from member where name not in (select name from member_attendance); 
+  SELECT COUNT(*) FROM road_record WHERE road_record = 'ole miss'; 
+  SELECT COUNT(*) FROM (SELECT DISTINCT friday FROM table_18173916_6) AS a WHERE 190 IN (SELECT episode_id FROM table_18173916_6 WHERE episode_id IN (SELECT episode_id FROM table_18173916_6 WHERE episode_id = 190)) 
+  SELECT technician_id FROM repair_assignment WHERE machine_id IN (SELECT DISTINCT machine_id FROM repair_assignment WHERE value_points > 70) ORDER BY technician_id 
+  SELECT record FROM table_15780718_8 WHERE team = 'Boston'; 
+  SELECT * FROM table_21501511_1 WHERE song_choice = 'Whataya Want From Me'; 
+"  select name from orchestra, conductor where orchestra.conductor_id = conductor.conductor_id order by name "
+  SELECT COUNT(barony) FROM table_30120556_1 WHERE townland = 'Ballyvadona' 
+  select custody_level_s_ from table_25346763_1 where location = 'Shelton'; 
+  SELECT original_air_date FROM table_24648983_1 WHERE original_air_date = '4' 
+  select distinct hometown from people where hometown not in (select distinct gymnast_id from gymnast) 
+"  SELECT COUNT(DISTINCT date_of_polls) AS count_of_dates_of_polls FROM table_15329030_1 WHERE state = ""Madhya Pradesh""; "
+  SELECT college_junior_club_team FROM table_1473672_9 WHERE nhl_team = 'california golden seals' 
+  SELECT COUNT(*) FROM table_2076490_1 WHERE enrollment__2005_ = 'New Hampshire Institute of Art'; 
+  SELECT home__2nd_leg_ FROM table_14219514_1 WHERE home__1st_leg_ = 'Talleres'; 
+  SELECT region_1 FROM table_171320_3 WHERE ep__number = 13 
+  SELECT  sum(cumulative__$_millions_) FROM  table_19766_1 WHERE  cumulative__$_millions_ > 376000000000000000000000000000000000000000000000000000000000000000
+  select employee_name from employees where role_code = 'HR' 
+  select province from table_1717824_1 where south_asians_2001 = 210295  
+"  select pluperfect from table_27298240_26 where perfect = ""bio/la; bio/la si"" "
+  SELECT capital FROM table_1404456_1 WHERE population_census_2009 = 284657 
+"  SELECT first_broadcast FROM table_23292220_5 WHERE first_broadcast = ""Trisha Goddard"" OR first_broadcast = ""Glenn Wool"" "
+"  select drivetrain from table_21530474_1 where drivetrain = ""2ur-fse"" "
+  select * from table_2500440_1 where change___percentage_ = -19.3 
+ 1. select percent_cut from table_21690339_1 where alternative_fuel = 'fuel oil'; 2. select percent_cut from table_21690339_1 where alternative_fuel = 'coal'; 3. select percent_cut from table_21690339_1 where alternative_fuel = 'natural gas'; 4. select percent_cut from table_
+  SELECT DISTINCT producer FROM table_18943444_1 WHERE producer = '金必氏牌嬰幼兒配方乳粉' 
+  SELECT callsign FROM table_17487395_1 WHERE branding ='mom's radio 101.5 tacloban' 
+  SELECT station_name FROM station WHERE station_id IN ( SELECT station_id FROM train_station WHERE train_id IN ( SELECT train_id FROM train WHERE train_id IN ( SELECT train_id FROM train_station WHERE station_id IN ( SELECT station_id FROM station WHERE station_name IN ( SELECT station_name FROM station WHERE station_id IN ( SELECT station_id FROM train_station WHERE train_id IN ( SELECT train_id FROM train WHERE train_id
+"  SELECT COUNT(*) FROM companies WHERE industry IN ('Banking', 'Conglomerate'); "
+  SELECT address FROM member WHERE NOT EXISTS (SELECT * FROM member WHERE address = address AND membership_card = 'black') 
+"  select distinct tv from table_23718905_6 where matchup_results = 'Iowa State 14, Minnesota 13' "
+"  select results from table_1341453_20 where incumbent = ""Jim McCrery"" "
+  SELECT school FROM table_24935743_2 WHERE nickname = 'panthers' 
+  SELECT * FROM table_19897294_8 WHERE family_families = 'uk31' 
+ 1. select year(date(est)) from table_23685890_2 where land_area__km²_ = 4563; 2. select year(date(est)) from table_23685890_2 where land_area__km²_ is null; 3. select year(date(est)) from table_23685890_2 where land_area__km
+"  SELECT * FROM table_24384861_1 WHERE dual_voltage = ""Yes"" "
+  SELECT COUNT(*) FROM ( SELECT us_viewers__million_ FROM ( SELECT COUNT(*) AS us_viewers__million_ FROM table_27116696_1 WHERE directed_by = 'Allison Liddi-Brown') AS a) AS b; 
+  select naturalisation_by_marriage from table_11214212_1 where registration_of_a_minor_child = 114 
+  SELECT wsop_cashes FROM table_23696862_6 WHERE wsop_earnings = 0 
+  SELECT exportable FROM table_14160327_4 WHERE decade = '1980' 
+"  select document_status_description from ref_document_status where document_status_code = ""working"" "
+  SELECT date_of_polls FROM table_15329030_1 WHERE state = 'Mizoram'; 
+  select distinct school from table_21995420_6 where stunts = 48 
+  SELECT visitor FROM table_11964047_7 WHERE leading_scorer = 'roy' ORDER BY visitor; 
+  SELECT  valid_votes  FROM  table_27274222_2  WHERE  province = 'Denizli' 
+  SELECT team FROM table_22297140_3 WHERE replaced_by = 'Faraz Kamalvand' 
+  SELECT * FROM table_24887326_8 WHERE away_team = 'coventry city'  
+  SELECT ab_ripper_x FROM table_27512025_1 WHERE exercise = 'x stretch' 
+"  select count(*) from trans_1 where trans_1.athlete = ""Hawaii"" and trans_1.time <= 0:26 "
+ 1) select product_id from products where count(*) = (select max(problems_id) from problems); 2) select product_name from products where product_id = (select product_id from (select product_id from products where count(*) = (select max(problems_id) from problems)) order by product_id desc limit 1); 
+  SELECT cfl_team FROM table_16575609_1 WHERE cfl_team = 'Weber State' 
+  SELECT name FROM table_189598_7 WHERE land_area__km²_ = 14.85 
+  select settlement from table_2562572_37 where settlement = 'александрово' 
+"  SELECT region_1 FROM table_171320_3 WHERE region_4 = 'april 2, 2009' "
+"  SELECT document_id, document_name, document_description FROM documents "
+  SELECT * FROM table_10335_1 WHERE occupied_territory = 'Germany' AND operational = '1940-05-01' AND operational = '1945-01-01' 
+  SELECT species FROM table_26615633_1 WHERE jewel = 'coal' 
+  select count(regular_judge) from table_1597866_3 where host = 'bernie chan' 
+  SELECT planets.planet FROM planets INNER JOIN transcriptions ON planets.planet = transcriptions.planet WHERE transcriptions.transcription = 'wan suk' 
+  select * from table_13642023_2 where gtu_winning_team = 'Steve Ross'  
+  SELECT t_c__k_ FROM table_101336_1 WHERE t_c__k_ = 'tl-2212' 
+  SELECT * FROM assessment_notes ORDER BY date_of_notes ASC 
+  SELECT COUNT(*) FROM table_19189856_1 WHERE performer = 'wilfred engelman' AND category = 'articles with hcards' 
+  SELECT high_rebounds FROM table_27700375_11 WHERE team = 'charlotte'; 
+  SELECT last_meeting FROM table_2846320_4 WHERE last_meeting = '1969' 
+  SELECT * FROM routes WHERE dst_apid IN ('US') AND src_apid IN ('US'); 
+"  SELECT * FROM table_24565004_19 WHERE period = ""uruguay"" "
+  SELECT group_11 FROM table_19523142_5 WHERE NOT EXISTS (SELECT group_11 FROM table_19523142_5 WHERE group_12 = 'Persipal Palu') 
+  select count(*) from table_1825751_14 where pageant ='san fernando'; 
+"  select * from table_23840623_4 where dirty_electric_grid_rocky_mountains__denver_ = ""160 g/mi (99 g/km)"" order by clean_electric_grid_california__san_francisco_ "
+  SELECT * FROM table_171236_1 WHERE census_ranking = 'Quispamsis' 
+  SELECT air_date FROM table_25816476_2 WHERE team_guest_captain = 'john bishop'; 
+  SELECT callsign FROM table_2638104_1 WHERE channel = 6 
+"  select year__ceremony_ from table_17350255_1 where year__ceremony_ = ""1978-01-01"" "
+  select * from table_26173058_2 where x = 1 and y = 1 
+  SELECT home_team FROM table_14312471_7 WHERE home_team = 'Richmond'; 
+  SELECT  aggressive_rider  FROM  table_25580292_13  WHERE  winner = 'luis león sánchez' 
+  SELECT document_id FROM paragraphs WHERE paragraph_text = 'Brazil' AND paragraph_text = 'Ireland'; 
+"  select * from table_24915874_1 where horse = ""Well's Peter"" "
+"  SELECT nationality, COUNT(*) AS n FROM journalist GROUP BY nationality "
+  select nat from table_19018191_5 where total_apps = 27 
+  SELECT COUNT(1) FROM table_167354_2 WHERE pubs_2011 = 'Chennai' 
+" 19 seats were won, what was the minimum number of forfeited seats? 19 seats were won, what was the minimum number of forfeited seats? 19 seats were won, what was the minimum number of forfeited seats? 19 seats were won, what was the minimum number of forfeited seats? 19 seats were won, what was the minimum number of forfeited seats? 19 seats were won, what was the minimum"
+" 1. Create a table with the schema: create table table_17311759_4 (high_assists varchar, high_rebounds varchar, PRIMARY KEY (high_assists)) 2. Write the following SQLite query: "
+  select original_artist from table_15796072_1 where week__number = 'Top 16 (8 women)' 
+"  select surface from table_29127804_3 where location = ""dehradun, uttarakhand, india"" "
+  select * from table_15277629_1 where original_title = 'Suzana Amaral' 
+  SELECT count(*) FROM table_25216791_3 WHERE august_21_22 = 155 AND january_15_16 < 155; 
+  SELECT year_of_construction FROM table_10020178_1 WHERE name ='spitallamm' 
+  select count(*) from viewers where us_viewers__millions_ = '1000000' and written_by = 'Jack Sanderson' 
+  select count(*) from table_22171978_1 where athletic_nickname = 'blue crusaders' 
+"  SELECT candidates FROM table_1342451_38 WHERE incumbent = ""samuel j. nicholls""; "
+"  select attribute_data_type from attribute_definitions where attribute_name = ""Green"" "
+  SELECT assets__billion_$_ FROM table_1682026_3 WHERE headquarters = 'China' AND profits__billion_$_ = 21.2 
+  SELECT copper_age FROM table_23537091_1 WHERE ubaid_period_in_mesopotamia ='minoan eruption' AND copper_age = 'hittite old kingdom' 
+  select high_rebounds from table_27734769_9 where team = 'Minnesota'; 
+  SELECT hdtv FROM table_15887683_6 WHERE hdtv ='sky primafila 17' 
+  SELECT title FROM table_29102100_1 WHERE directed_by = 'Rich Correll' AND written_by = 'Dennis Rinsler' 
+  SELECT date_of_birth FROM customers WHERE customer_status_code = 'Good Customer' 
+"  SELECT year__ceremony FROM table_22102732_1 WHERE english_title = ""time out"" ORDER BY year__ceremony "
+"  select count(*) from (select rank_2012, april_2013_cum_rank from table_24307126_3 group by rank_2012) as t1 where april_2013_cum_rank = '225' "
+"  SELECT notes FROM table_1000181_1 WHERE current_slogan = ""SA"" "
+  select team from table_27902171_8 where record = '36-29' 
+  SELECT November_3 FROM table_25284864_3 WHERE January_15_16 = 141 
+  SELECT advisor FROM student WHERE stuid = 1004 
+  SELECT song_name FROM song ORDER BY releasedate DESC LIMIT 1 
+  SELECT english_title FROM table_24856090_1 WHERE hk_viewers = 192000000 ORDER BY english_title LIMIT 1 
+  SELECT game_cost FROM table_243664_1 WHERE game_cost = 'Chicago and North Western' 
+ 1 select province from table_275023_1 where formed_from = 'New Munster'; 
+  SELECT location FROM table_18752986_1 WHERE nickname = 'the bears'; 
+  select party from table_1342379_10 where party = 'charles h. brand'; 
+  select name from swimmer where swimmer_id is null 
+  SELECT Italian FROM table_25401_15 WHERE English = 'English' 
+"  select count(*) from episodes where directed_by = ""Cliff Bole"" and season_number = 3 "
+  SELECT COUNT(*) FROM ( SELECT * FROM race WHERE race_time = '1:05:33' ) AS t1 WHERE EXISTS ( SELECT * FROM race WHERE race_time = '1:05:33' AND race_time > t1.race_time ) 
+  select max(t20_matches) from table_1176371_1 where name_of_ground = 'green lane' 
+  select team__number2 from table_19130829_4 where team__number1 = 'Iraklis' order by team__number2 
+"  select party from table_22753245_1 where constituency = ""1. Chennai North"" "
+" 1) create table table_20007413_6 (compression_ratio varchar, rpo varchar, applications varchar, PRIMARY KEY (compression_ratio)) 2) select compression_ratio from table_20007413_6 where rpo = ""L35"" and applications = ""5"" "
+"  select title from episodes where original_air_date = ""1997-02-06""; "
+  select class_a from table_14603057_2 where school_year = '2006-07' order by class_a limit 1 
+  SELECT try_bonus FROM table_13399573_3 WHERE tries_for = 'tries for' 
+"  SELECT count(*) FROM table_19810459_1 WHERE background = ""Internet Dreamer""; "
+"  SELECT COUNT(*) FROM table_2696531_2 WHERE location = 'homestead, florida' "
+  SELECT state_and_district_of_columbia FROM table_18958648_1 WHERE overweight__incl_obese__adults = '65.4%' 
+  SELECT location FROM table_262476_1 WHERE location = 'golden tornadoes' 
+  SELECT record FROM table_23346983_1 WHERE opponent = 'Army'; 
+  SELECT COUNT(losingteam) FROM table_11236195_5 WHERE location ='sydney (11)' 
+  SELECT dept_address FROM department WHERE dept_name = 'history' 
+  SELECT original_title FROM table_13834298_1 WHERE film_title_used_in_nomination = 'lion's den' 
+  select date_of_appointment from table_27091128_2 where replaced_by = 'Ergün Penbe' 
+  select final_place from table_23819979_3 where last_match = '2009-07-25' order by final_place limit 1 
+  select wii_points from table_13663434_1 where title_and_source = 'tsūshin taikyoku: igo dōjō 2700-mon' 
+  select party from table_1341598_11 where incumbent = 'Wyche Fowler' 
+  SELECT DISTINCT candidates FROM table_1346137_4 WHERE incumbent = 'david e. finley' 
+  SELECT language FROM table_2509112_3 WHERE villa_rivero_municipality = 7 
+ 1. select japanese_title from table_2144389_9 where japanese_translation = '七色アーチ' 2. select japanese_translation from table_2144389_9 where japanese_title = '七色アーチ' 3. select * from table_2144389_9 where japanese_translation = '七色ア
+  SELECT transit_connections FROM table_22771048_2 WHERE station = 'Pioneer Square U' 
+  SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT year_to_april FROM ( SELECT
+"  SELECT rank_timeslot_, airdate, COUNT(*) AS rank FROM table_27987623_4 GROUP BY rank_timeslot_, airdate HAVING COUNT(*) > 0 ORDER BY rank_timeslot_, airdate "
+  SELECT year__ceremony_ FROM table_22034853_1 WHERE original_title = 'Vitus' 
+  select * from table_30133_1 where current_account_balance__percent_of_gdp_ = '4.6' 
+  SELECT COUNT(*) FROM device 
+  SELECT product_id FROM invoices GROUP BY product_id ORDER BY COUNT(*) DESC LIMIT 1 
+  select series_ep from table_15187735_12 where segment_b = 'popcorn' 
+  select * from table_29141354_2 where andrew_and_georgies_guest = 'Jamie and Johns guest was Jessica Ennis'; 
+  select distinct status_of_thing_code from timed_status_of_things 
+  SELECT directed_by FROM table_22181917_2 WHERE us_viewers__millions_ = 6.62 ORDER BY directed_by 
+" 1. create table table_16423070_4 (volleyball varchar, school_year varchar, basketball varchar, swimming varchar, PRIMARY KEY (volleyball)) 2. select volleyball from table_16423070_4 where school_year = '2011-12' and basketball = 'won' and swimming = 'won' "
+"  SELECT high_assists FROM table_17322817_6 WHERE high_assists IN ('brook lopez (7)', 'yi jianlian'); "
+  SELECT type FROM table_2562572_50 GROUP BY type 
+  select * from table_184803_4 where voting_order = '9' 
+  SELECT dadar_xi_‘b’ FROM table_28759261_5 WHERE good_shepherd ='sea liner fc'; 
+  select count(*) from table_22050544_3 
+"  SELECT count(*) FROM ( SELECT top_10s, scoring_rank FROM table_18198579_6 GROUP BY top_10s, scoring_rank ORDER BY scoring_rank DESC LIMIT 10 ) as t1 ORDER BY t1.scoring_rank ASC; "
+  SELECT title FROM table_13336122_7 WHERE directed_by = 'David Duchovny' 
+  SELECT MIN(rockhampton) FROM table_12570207_1 
+  select * from table_29217650_1 where december_27 = 'ang tanging ina mo (last na ''to!'''); 
+ 1. select distinct(metrical_equivalence) from table_26538461_2 where metrical_equivalence = 'linha'; 
+  select film_name from table_11827596_2 where co_singer = 'vinod rathod' 
+  select distinct(headquarter) from manufacturers 
+  SELECT COUNT(*) FROM flights 
+  SELECT * FROM table_22654073_6 WHERE record = '3-2' 
+" 1) SELECT fastest_lap FROM table_25322130_3 WHERE winning_team = ""piquet sports"" AND circuit = ""silverstone"" 2) SELECT fastest_lap FROM table_25322130_3 WHERE winning_team = ""piquet sports"" AND circuit = ""silverstone"" 3) SELECT fastest_lap FROM table_25322130_3 WHERE winning"
+  SELECT * FROM table_19398910_4 WHERE bout_1 = 'andreev ( rus ) w 5-2' 
+  select sex from student where fname = 'Linda' and lname = 'Smith'
+"  SELECT former_school FROM table_25177625_1 WHERE former_school LIKE ""East Brunswick, NJ""; "
+  select count(*) from table_13619135_7 where high_assists ='minnesota' 
+  SELECT COUNT(*) FROM table_29970488_2 WHERE previous_school = 'Charis Prep' 
+  select count(*) from film 
+  SELECT citrate FROM table_16083989_1 WHERE species = 'Salmonella spp.'; 
+  SELECT party FROM table_1341395_44 WHERE party = 'Kevin Brady'; 
+  SELECT * FROM table_26136228_3 WHERE us_viewers__millions_ = 10500000000000000000000000000000000000000000000000000000000000000000000000
+  SELECT nickname FROM table_11658094_3 WHERE nickname = 'Newberry College' 
+"  SELECT original_airdate FROM table_29039942_1 WHERE writer = ""daisuke habara"" AND director = ""akimitsu sasaki"" "
+  select byu_uu_score from table_13665809_2 where uu_usu_score = 44 and uu_usu_score = 16 
+"  SELECT ""composition"" FROM ""table_11464746_1"" WHERE ""composition"" = 'green house'; "
+  select count(*) from table_18333678_2 where arrival = '09.06' 
+  select for___percentage_ from table_20683381_3 where total_poll___percentage_ = 60254; 
+"  SELECT LEFT(year(election_date), 4) AS year, MONTH(election_date) AS month, DAY(election_date) AS day, LEFT(year(election_date), 4) + '-' + MONTH(election_date) + '-' + DAY(election_date) AS date FROM table_26362472_1 WHERE left_office = '184"
+  select max(fab___nm__) from table_26860595_2 
+  SELECT COUNT(*) FROM player WHERE economy LIKE '2/19' 
+  select chinese_title from table_11926114_1 where chinese_title = '刑事灵感人' 
+  SELECT COUNT(*) FROM ( SELECT legs_won FROM table_20948329_1 WHERE legs_won = '180') AS A; 
+  select order__number from table_15796100_1 where theme = 'Mariah Carey' 
+  SELECT sesamin FROM table_1831262_2 WHERE sesamin ='sesame seed' 
+"  SELECT * FROM ship WHERE nationality IN ('USA','UK','CAN','GER','FR','CH','NOR','SWE','AUS','JPN','POL','ESP','BRA','SIN','ITA','IND','ARG','NLD','AUS','NZL','FIN','PHI','NOR','BEL','TUR','NLD','NZL','NZL','FIN','PHI','NOR','B"
+  select description from aircraft 
+  select count(*) from table_20823568_2 where second_place_s_ like'snooker'; 
+  SELECT MIN(internal_transfers) FROM table_17650725_1 
+  SELECT DISTINCT tourist_attraction_id FROM visits GROUP BY tourist_attraction_id HAVING COUNT(*) = 1 
+"  SELECT roleplay FROM table_17827271_1 WHERE actor_in_original_production = ""Alison Pargeter"" "
+  SELECT * FROM table_21378339_5 WHERE televote_points = 7; 
+  SELECT probable_future FROM table_16337329_5 WHERE probable_future ='may you do' 
+  SELECT tonnes FROM table_18047346_5 WHERE airport_name = 'Louisville International Airport' 
+  SELECT sponsor FROM sponsors WHERE sponsor_id = (SELECT sponsor_id FROM team WHERE team_id = (SELECT team_id FROM team_sponsors WHERE team_id = (SELECT team_id FROM team WHERE team_id = (SELECT team_id FROM team WHERE team_id = (SELECT team_id FROM team WHERE team_id = (SELECT team_id FROM team WHERE team_id = (SELECT team_id FROM team WHERE team_id
+  SELECT DISTINCT town_city FROM addresses 
+"  SELECT payment_method_code, COUNT(*) as order_count FROM invoices GROUP BY payment_method_code "
+  SELECT count(*) FROM table_26263954_1 WHERE kunrei_shiki = 'oty'; 
+  SELECT  dominant_religion__2002_  FROM  table_2562572_37  ORDER BY  dominant_religion__2002_  
+  SELECT COUNT(DISTINCT language_id) FROM film 
+  SELECT DISTINCT country FROM perpetrator GROUP BY country 
+"  SELECT product_name, SUM(product_quantity) AS total_quantity FROM order_items GROUP BY product_name "
+  SELECT COUNT(DISTINCT hdtv) FROM table_15887683_16 WHERE television_service = 'elite shopping tv' 
+  SELECT party FROM table_1342149_43 WHERE incumbent = 'Wright Patman'; 
+  select champion from table_2331549_1 where third_place ='michigan technological university' 
+  select pacbio from table_127511_1 where pacbio between 100 and 500 
+  SELECT  f.february_2010  FROM  table_25256368_1 f  WHERE  f.january_2010  =  '6.2%' 
+  SELECT  COUNT(DISTINCT slovak) AS slovak FROM table_26757_4 WHERE belarusian = 'вуха' 
+  select count(*) from pets 
+  select count(*) from aircraft 
+"  SELECT main_artillery FROM table_23614702_1 WHERE warship = ""Blanco Encalada""; "
+"  SELECT focal_plane_in_ft__m_, tower_height_in_ft__m_ FROM table_25597136_1 WHERE focal_plane_in_ft__m_ = '46ft (14.0m)' AND tower_height_in_ft__m_ = '46ft (14.0m)' "
+  select airport from table_17419587_1 where iata = 'MEL' 
+  select * from table_27133147_3 where position_in_table = 10 and manner_of_departure ='resigned' order by date_of_vacancy desc limit 1 
+  SELECT * FROM table_25547943_1 WHERE directed_by = 'Bill Lawrence' 
+"  SELECT location, representative_name FROM gas_station gs JOIN station_company sc ON gs.station_id = sc.station_id JOIN company c ON sc.company_id = c.company_id WHERE c.assets_billion IN (SELECT assets_billion FROM company WHERE assets_billion > (SELECT MAX(assets_billion) FROM company)) ORDER BY c.assets_billion DESC "
+  SELECT COUNT(DISTINCT conference) FROM tournament_winners WHERE tournament_winners.conference = 'western michigan' 
+"  SELECT DISTINCT detention_type_code, detention_type_description FROM ref_detention_type ORDER BY COUNT(*) DESC LIMIT 1 "
+  SELECT * FROM table_21501518_1 WHERE song_choice = 'name' AND original_artist = 'Garth Brooks' 
+  SELECT COUNT(*) FROM table_19897294_9 WHERE family_families = 'ryder' AND family_families ='schwartz' 
+  SELECT real_life_eventual_outcome FROM table_243664_1 WHERE real_life_eventual_outcome = 'amtrak' 
+"  SELECT singer_part_number FROM table_28652521_1 WHERE storage_case = ""green plastic box""; "
+  SELECT COUNT(*) FROM table_29747178_2 WHERE us_viewers__million_ = '123456789' AND directed_by = 'andy wolk'
+"  SELECT count(*) FROM table_25235489_2 WHERE june_10_11 = ""November 3, 1975""; "
+  SELECT * FROM table_15778392_1 WHERE week__number = 10 AND song_choice = 'You Are My Sunshine' 
+  select count(*) from table_18662026_10 where parallel_bars = 14.025 
+  select distinct conductor_id from orchestra order by count(*) desc 
+  select * from table_21313327_1 where us_viewers__millions_ = 3.3 
+  SELECT pakistanis_admitted FROM table_1717824_3 WHERE nepalis_admitted = 627  ORDER BY pakistanis_admitted DESC LIMIT 1 
+"  SELECT name, dept_name FROM student ORDER BY tot_cred ASC "
+  SELECT DISTINCT party FROM representative 
+  select winning_driver from table_1140116_5 where winning_driver is not null and circuit = 'Modena' 
+  SELECT * FROM table_28802165_1 WHERE poor_law_union = 'Marshalstown'; 
+  SELECT supporting FROM table_28490105_1 WHERE gt_winning_car = 'dino crescentini' 
+  SELECT dept_store_chain_id FROM department_stores ORDER BY COUNT(*) DESC LIMIT 2 
+  select distinct sec_wins from table_22993636_2 where overall_record = '30-4' 
+"  SELECT japanese_translation FROM table_2144389_9 WHERE vocalist = ""momoiro clover z"" "
+  select count(distinct race_3_winner) from table_22905641_2 where race_2_winner = 'Mitch Evans' 
+"  SELECT focal_plane_in_ft__m_ FROM table_25597136_1 WHERE location = 'naidi hills, basco.'; "
+  select distinct max_page_size from product where product.max_page_size like '%%' and product.max_page_size like '%%' and product.max_page_size like '%%' 
+  SELECT pole_position FROM table_1140076_2 WHERE fastest_lap = '1987' AND constructor = 'Ferrari' 
+  SELECT arabic_capital_name FROM table_15694696_1 WHERE english_capital_name ='manama'; 
+  SELECT DISTINCT conflict FROM table_1921_1 ORDER BY conflict 
+  SELECT votes_given FROM table_1855841_1 WHERE votes_given = 'Michael Russo' OR votes_given = 'Genevy Dimitrion' OR votes_given = 'Manny Ortega' 
+"  select count(*) from table_28138035_33 where mens_doubles = ""Sun Jin"" "
+  SELECT COUNT(*) FROM table_14603057_2 WHERE class_a = 'A' AND class_aaaa = 'Gregory-Portland' 
+"  SELECT team FROM table_20016339_1 WHERE motorcycle = ""Honda"" "
+  SELECT store_id FROM inventory ORDER BY count(*) DESC LIMIT 1 
+  SELECT vocal_percussionist FROM table_28715942_6 WHERE original_artist = 'The Coral' 
+  SELECT COUNT(*) FROM table_11464746_1 WHERE colours = 'green' 
+  SELECT DISTINCT location FROM cinema 
+  select * from table_14752049_2 where change__2010_to_2011_ = '1.7 million' 
+  SELECT race_caller FROM table_22514845_5 WHERE race_caller = 'Jim McKay'  
+"  select title from table_21994729_3 where title like ""%reginald hudlin%"" "
+"  select name from documents where document_status_code = ""done"" and document_type_code = ""paper"" "
+ 1. Create a table called table_29619494_2. 2. Create a table called documents. 3. Create a table called characteristics. 4. Create a table called products. 5. Create a table called product_characteristics. 6. Create a table called pilot. 7. Write the following SQLite query: 
+  select distinct name from nurse order by name 
+  SELECT destination FROM table_1569516_1 WHERE service_pattern ='sydenham then fast to norwood junction'; 
+  select speaker from table_23512864_4 where chief_minister = 'M.G. Ramachandran' 
+  select p from table_17634290_7 where type = 'free agent 1' 
+  select country from stadium where country in (select country from stadium where country in (select country from stadium where country in (select country from stadium where country in (select country from stadium where country in (select country from stadium where country in (select country from stadium where country in (select country from stadium where country in (select country from stadium where country in (select country from stadium where country in (select country from stadium where country in (select
+  SELECT name FROM dorm_amenity WHERE dormid = '00000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  SELECT population__2000_census__ FROM table_2588674_1 WHERE area_km² = 2.33 
+  SELECT  passed FROM table_256286_19  WHERE  no_votes = 61307 
+  SELECT propulsion FROM table_28132970_5 WHERE vessel ='marianarray' 
+  SELECT COUNT(*) FROM table_1979203_1 WHERE branding = 'telemundo 47' 
+  SELECT original_airdate FROM table_19517621_4 WHERE written_by = 'Michelle Offen' 
+  SELECT director FROM table_2345558_1 WHERE writer_s_ = 'Jason Yoshimura'; 
+  SELECT successor FROM table_2147588_3 WHERE vacator = 'Matthew' ORDER BY successor ASC 
+"  select sum(prize_money) from tournaments where state_name = ""Virginia""; "
+  select count(*) from sportsinfo 
+  SELECT class_aa FROM table_14601528_2 WHERE bridgeport = 'Bridgeport' AND school_year = '1999-2000' 
+  SELECT brakes FROM table_250230_2 WHERE gearbox = '4-speed automatic' 
+  SELECT DISTINCT(rank_in_english) FROM table_1015521_2 WHERE commonwealth_equivalent = 'group captain' ORDER BY rank_in_english 
+  select count(*) from party where party = 'william b. cravens' 
+  select urban_settlement from table_2562572_7 where city___municipality = 'kovin'; 
+  SELECT department FROM table_17118006_2 WHERE local_investment__us$_ = '626798'; 
+  select sum(entries) from table_2534387_11 where entries = 1132 
+"  SELECT document_type_code, COUNT(*) AS number_of_documents FROM documents GROUP BY document_type_code "
+  SELECT date_of_creation FROM table_261222_1 WHERE date_of_creation = 'kibawe'; 
+  SELECT media_type FROM table_23829490_1 WHERE genre = 'Psychedelic Trance' 
+  select count(*) from contestants where country_territory = 'Uruguay' and position = 3 
+  select claim_stage_id from claims_processing where count(*) = (select count(*) from claims_processing_stages where claim_stage_id = claim_stage_id) order by claim_stage_id limit 1 
+  SELECT rev FROM table_1310499_1 WHERE application = 'Mustang Cobra' 
+  SELECT world_record FROM table_24011830_2 WHERE world_record = '26 august 2005 asian record' 
+  SELECT DISTINCT run_time FROM table_1429629_1 WHERE viewers__in_millions_ = 82000000; 
+  select count(*) from table_17186229_4 where record = '9-2' 
+  SELECT count(*) FROM table_17327458_1 WHERE manner_of_departure = 'Vacancy' AND date_of_vacancy = '25 May' 
+  SELECT parishes FROM table_221375_1 WHERE province_of_1936 = 'beira baixa' 
+  SELECT team_record FROM table_24989925_2 WHERE game_site = 'Rheinenergiestadion'; 
+  SELECT COUNT(*) FROM games WHERE team = 'Heat' GROUP BY high_points 
+  SELECT COUNT(*) FROM table_22815265_1 WHERE opponent = 'Utah' 
+  select lunar_landing_site from table_1558077_8 where lunar_landing_date = '19/11/1969' 
+"  SELECT DISTINCT * FROM table_16751596_2 WHERE (republican ='steve sauerberg' AND dates_administered ='september 15-september 18, 2008') "
+  select count(team_europe) from table_19072602_3 where team_europe = 'Chris Barnes' 
+  SELECT * FROM table_2190919_1 WHERE avg_finish = 23.3 
+"  SELECT DISTINCT station_name FROM station, train_station WHERE station.station_id = train_station.station_id AND train_station.train_id IN ('Ananthapuri Express', 'Guruvayur Express') "
+"  SELECT semifinal_matches FROM table_2413292_1 WHERE semifinal_matches IN ('A-S','B-A','A-B','B-S'); "
+  select race_number from table_20854943_2 where sail_number = 'AUS 98888' 
+  SELECT DISTINCT state FROM table_22916979_1 WHERE population_density__people_per_mi_2__ = 10188.8; 
+  SELECT colors FROM table_261927_1 WHERE nickname = 'engineers'; 
+  SELECT pop_density_people_km_2 FROM table_1606824_1 WHERE population__percentage_of_eu = 1.7 
+  SELECT date_of_return FROM table_19114172_11 WHERE new_channel_s = 'bbc two' ORDER BY date_of_return ASC 
+  SELECT original_air_date FROM table_13336122_3 WHERE directed_by = 'David Duchovny' 
+  SELECT * FROM table_20871703_1 WHERE player_name = 'Jonathan Walton'; 
+  SELECT * FROM table_28005100_1 WHERE arrangement = 'bets3ab 3alia nafsy' 
+  SELECT cust_name FROM customer WHERE loan.amount > 3000 
+  SELECT last_performance FROM table_19189856_1 WHERE performer = 'leon varkas' AND performer = 'articles with hcards' 
+  SELECT MIN(subscribers__2005___thousands_) FROM table_29395291_2 WHERE provider = 'Vodafone' 
+  SELECT ds_division FROM table_12485020_1 WHERE main_town = 'Kaluvanchikudy'; 
+  SELECT * FROM congress WHERE congress = 'Richard P. Giles' 
+  select count(*) from documents where document_status_code = 'done' and document_type_code = 'paper' 
+  SELECT country FROM table_184803_4 WHERE commentator = 'gordana bonetti' 
+  select location from table_16734640_1 where location = 'chattahoochee technical college' 
+  select governor from party order by count(*) desc limit 1 
+ 1. SELECT * FROM `table_1315616_1` WHERE `kōhaku__number` = '1315616' 2. SELECT * FROM `table_1315616_1` WHERE `kōhaku__number` = '1315616' ORDER BY `kōhaku__number` DESC LIMIT 1 3. SELECT * FROM `table_13
+"  select count(*) from teams where city = ""Philadelphia"" and league_name = ""NHL"" "
+  SELECT email FROM user_profiles WHERE name = 'Mary' 
+  select womens_doubles from table_12027364_1 where womens_singles = 'wu jianqui' 
+  select no_of_s_barangay from table_269888_1 where pop_density__per_km²_ = '205.4' 
+"  SELECT professional_id, cell_number FROM professionals WHERE treatments.professional_id = professionals.professional_id AND treatments.professional_id IS NOT NULL AND treatments.cell_number IS NOT NULL "
+  select dates from table_15315276_1 where champion = 'Jenny Gleason' order by dates limit 1 
+  select for___percentage_ from table_20683381_3 where ±_yes_side_2008___percentage_ = '± yes side 2008 (%)'; 
+  SELECT title FROM table_25604014_8 WHERE written_by = 'William M. Finkelstein' 
+"  SELECT name, COUNT(*) AS friends FROM highschooler GROUP BY name "
+  SELECT country_region FROM table_20780285_1 WHERE title = 'Marele Câștigător The Big Winner' 
+  select id from table_19255192_2 where total_vehicles <= 4 
+  SELECT name FROM tracks ORDER BY name 
+  SELECT race_name FROM table_2454550_1 WHERE fastest_lap = '1' ORDER BY race_name LIMIT 1 
+  select candidates from table_1341718_14 where incumbent = 'ed derwinski'; 
+"  SELECT title, us_viewers__millions_ FROM table_13301516_1 WHERE us_viewers__millions_ = 11.75 ORDER BY title "
+  SELECT years_for_rockets FROM table_11734041_3 WHERE years_for_rockets = '13'; 
+  SELECT name FROM pilot WHERE original_air_date = '1992-01-19'; 
+  SELECT round_of_32 FROM table_10722506_6 WHERE conference = 'conference usa' 
+"  select builder from table_1157867_2 where wheel_arrangement = ""2-4-2 T"" "
+"  SELECT dept_name, dept_address, COUNT(*) FROM department WHERE COUNT(*) IN (SELECT COUNT(*) FROM department GROUP BY dept_name ORDER BY COUNT(*) DESC LIMIT 3) GROUP BY dept_name, dept_address "
+  select distinct (children_together) from table_24143253_1 where length_of_marriage = 9 
+"  SELECT rural FROM table_16645_1 WHERE year__january_ = ""1979"" AND __percentage = ""rural"" "
+  SELECT mens_doubles FROM table_28211988_1 WHERE mens_singles = 'Ma Wenge' 
+"  SELECT branding FROM table_27588823_2 WHERE location = ""san jose del monte"" "
+  SELECT rate_change___percentage_ FROM table_25316812_1 WHERE rate_limit__p_ = 82.86; 
+  select * from table_26808178_3 where original_air_date = '1985-06-26' and us_viewers__millions_ = '0.871' 
+  SELECT air_dates FROM table_27487310_5  WHERE air_dates LIKE '%ABS-CBN%' ORDER BY air_dates; 
+  SELECT COUNT(DISTINCT name) FROM projects 
+  select distinct(student_id) from student_course_enrolment 
+"  select name, course_id from teacher join course_arrange on teacher.teacher_id = course_arrange.teacher_id "
+  SELECT * FROM table_16201038_4 WHERE overall_record = 'ui' AND at_neutral_site = '27-16' 
+  SELECT  g__μs_km_ FROM  table_261642_3 WHERE  frequency__hz_ = '100k' 
+  SELECT pct_route_available FROM table_2279413_1 WHERE country = 'Tangier' 
+  SELECT count(*) FROM table_1036189_1 WHERE bullet_tip_color = 'blue' AND other_features = 'band' 
+  SELECT directed_by FROM table_24910733_1 WHERE us_viewers__millions_ = 11.21; 
+  SELECT COUNT(*) FROM table_28164986_4 WHERE incoming_manager!='manager' AND incoming_manager!='managers'; 
+  SELECT ramtha FROM table_26173063_2 WHERE jeel = 1 AND hussein = 1 
+"  SELECT high_points FROM table_22879323_6 WHERE team = ""HOUSTON"" "
+  select count(*) from products 
+  SELECT june_10_11 FROM table_25355501_2 WHERE january_15_16 = '15-16' AND january_15_16 = '15-16' ORDER BY june_10_11 ASC 
+"  select enlisted from table_23508196_5 where enlisted like ""Nam%""; "
+  SELECT * FROM table_18522916_5 WHERE (date_of_vacancy = '2008-09-05' AND date_of_appointment = '2008-08-30'); 
+" 1. SELECT gdp__ppp__per_capita___intl_$___2011 FROM table_26313243_1 WHERE country = ""Haiti""; "
+  SELECT * FROM company WHERE headquarter IN (SELECT headquarter FROM company WHERE industry IN (SELECT industry FROM company WHERE industry = 'Banking')) AND headquarter IN (SELECT headquarter FROM company WHERE industry IN (SELECT industry FROM company WHERE industry = 'Oil and gas')) 
+  select room from reservations group by room order by count(*) desc limit 1 
+  select power_provided from table_174151_5 where transfer_speed__mb_s_ = 1250 
+  select original_air_date from table_21979779_1 where us_viewers__million_ = 1.7600000000000002 
+  select 129 from table_25286976_2 where june_10_11 between '27-Mar-2019' and '29-Mar-2019' 
+  select team_s_ from table_2387790_2 where avg_finish = 8.3 
+  select distinct(parliament) from table_1889233_2 where general_election_contested = 'yes' order by parliament limit 1 
+  SELECT dar FROM table_15887683_8 WHERE dar = 'cinese'; 
+  SELECT artist_name FROM artist WHERE country = 'UK' AND languages = 'English'; 
+  select mens_doubles from table_12163387_1 where womens_singles = 'Alison Humby' 
+  SELECT report FROM table_1140099_6 WHERE race_name = 'i sunday mirror trophy'; 
+  SELECT order_id FROM shipments WHERE shipment_date >= '2000-01-01' 
+  SELECT count(*) FROM station WHERE station_code = 'awy'; 
+  SELECT category FROM table_27155990_1 WHERE project_name = 'Mighty No. 9' 
+"  select ht from table_13869651_3 where model_number = ""Athlon x2 5200b""; "
+"  SELECT location_id, COUNT(*) AS number_of_cities FROM locations GROUP BY location_id "
+  SELECT attribute_data_type FROM attribute_definitions WHERE count(*) > 3 
+  SELECT COUNT(*) FROM documents WHERE document_status_code = 'done' AND document_type_code = 'paper' AND document_status_code = 'done' AND document_type_code = 'paper' 
+"  select count(*) from documents where document_status_code = ""done"" and document_type_code = ""paper"" "
+  SELECT rating FROM ratings WHERE week = '94000' 
+"  select type, count(*) as count from artwork group by type "
+  SELECT united_fc FROM table_28759261_5 WHERE pifa_colaba_fc_u_17 ='sporting options' 
+  select income_poverty_f from table_13618358_1 where exports__usd_mn__2011 = '2470' 
+  SELECT director FROM table_25800134_1 WHERE airdate = '1956-12-15' 
+  SELECT COUNT(*) FROM districts WHERE district_representative = 'Alex McMillan'; 
+"  SELECT document_id FROM documents WHERE document_status_code = ""done"" AND document_type_code = ""paper"" AND budget_type_description = ""Government"" "
+  select party from table_1341865_11 where party = 'Democratic Party'; 
+  SELECT MAX(temperature) FROM table_1538516_1 WHERE temperature_classification ='very extra high' 
+  SELECT COUNT(*) FROM table_26263954_1 WHERE english = 'roman characters' 
+  SELECT MAX(fai_space_flights) FROM table_221315_3 WHERE max_mach = 5.65 
+  SELECT party FROM table_27050336_7 WHERE delegate = 'gaines' AND delegate = 'tawanna p. tawanna gaines'; 
+  select date_of_vacancy from table_11207040_6 where replaced_by = 'john brown' 
+  SELECT * FROM table_15584199_2 WHERE team_number = '679' 
+  SELECT count(*) FROM table_16201038_3 WHERE last_5_meetings = 'texas tech' 
+"  select * from products p join ref_colors rc on p.color_code = rc.color_code join product_characteristics pc on p.product_id = pc.product_id where rc.color_description = ""red"" and pc.characteristic_name = ""fast""; "
+"  select distinct(mens_45) from table_16724844_1 where mens_40 = ""Sunwest Razorbacks def Sydney Mets"" "
+"  select author from table_1620397_2 where series_sorted = ""6y/ae"" "
+  select party from table_2668264_8 where incumbent = 'Robert P. Letcher' 
+  SELECT wiaa_classification FROM table_1414702_3 WHERE wiaa_classification = '4A' 
+"  SELECT COUNT(*) FROM table_11677100_15 WHERE hometown = ""High Point, NC""; "
+  SELECT directed_by FROM table_25341765_1 WHERE us_viewers__million_ = '5.92' 
+  SELECT * FROM table_21501565_1 WHERE original_artist = 'N/A' 
+  select count(*) from candidates; 
+"  select count(*) from table_27547668_4 where original_airdate = ""2017-07-01"" and written_by = ""Allan Hawco"" "
+"  SELECT  year(january_15_16) - year(november_3) AS ""Years"" FROM table_25284864_3 WHERE 1 = 1 "
+ 1 SELECT (100.00 - (SELECT SUM(gross_sales)/(SELECT SUM(gross_sales) FROM table_16331025_2 WHERE sellout___percentage_ = '100.00')) FROM table_16331025_2 WHERE sellout___percentage_ = '100.00' LIMIT 1 ) 
+  SELECT nupowr_183 FROM table_3002894_4 WHERE nupowr_117 = 0 OR nupowr_117 = 4 OR nupowr_117 = 8 
+  SELECT pictorials FROM table_1566852_8 WHERE cover_model = 'lindsey roeper'; 
+"  SELECT DISTINCT b.firstname FROM band b INNER JOIN vocals v ON v.bandmate = b.firstname WHERE b.firstname = ""Solveig"" AND v.songid = ""A Bar in Amsterdam"" "
+  SELECT branding FROM table_2523809_1 WHERE branding = 'krca-tv'; 
+  select fname from student where not exists (select 1 from enrolled_in where enrolled_in.fname = student.fname) 
+  SELECT * FROM table_17325580_10 WHERE record = '23' 
+"  select head_coach from table_14015965_1 where previous_season = ""2"" "
+  select songid from vocals where songid in (select songid from songs where songid = 'Badlands') 
+  SELECT launch_site FROM table_11869952_3 WHERE mission = 'Test Mission: War Heads and Missile Payload' AND results = 'Failed' AND launch_site!= 'SLC-37B' 
+"  SELECT  period FROM  table_24565004_17 WHERE  name = ""michel prost"" "
+  SELECT tv_network_s_ FROM table_29799700_2 WHERE tv_network_s_ = 'NBC' 
+"  SELECT villains, storyteller, director FROM table_10470082_7 WHERE villains = ""Megan"" AND storyteller = ""Lorette LeBlanc"" "
+  SELECT kentucky FROM table_18461045_1 WHERE indiana = 'Brownsburg LL Brownsburg' AND wisconsin = 'Merrill LL Merrill'; 
+"  select * from table_21690339_1 where gas_storage = ""yes"" and alternative_fuel = ""yes""; "
+"  SELECT * FROM table_19624708_1 WHERE owner = ""r. a. Scott""; "
+"  select major, count(*) from student group by major "
+"  SELECT location, COUNT(*) AS cnt FROM gas_station GROUP BY location ORDER BY cnt "
+  select transmission from table_11167610_1 where turbo = 'yes' 
+  SELECT party FROM table_1341884_45 WHERE incumbent = 'Ray Roberts' 
+"  SELECT forename, surname FROM drivers WHERE nationality = 'German' "
+  select ws_points from table_24990183_7 where ws_points = 947 order by ws_points limit 1 
+  select (troops_per_one_million_population + troops_per_one_billion_usd_gdp) as total_troops_per_one_million_population from table_30108346_1 where troops_per_one_million_population = 2.76 
+  SELECT publisher FROM table_16907214_1 WHERE publisher = '1-937007-44-8' 
+"  select african_spoonbill from table_20042805_2 where ostrich = ""Brown-hooded Kingfisher""; "
+"  select race_name from table_1140116_5 where circuit = ""Modena"" "
+  select location from table_18904831_7 where record = '19-6' 
+"  SELECT * FROM research_staff  WHERE organisation_id = ( SELECT MAX(organisation_id) FROM research_staff ) ORDER BY organisation_id, organisation_type; "
+  SELECT  m.mens_doubles  FROM  table_12275654_1  AS  m  WHERE  m.mens_doubles = 'Chou Tien-Chen' AND  m.mens_singles = 'Chou Tien-Chen'  
+  SELECT count(*) FROM table_17751942_4; 
+  select paper_type from table_25468520_1 where date_of_issue = 'July 8'; 
+  SELECT original_air_date FROM table_28334498_3 WHERE us_viewers__millions_ = 1010000000000000000000000000000000000000000000000000000000000000000000
+  SELECT ru FROM table_10818465_1 ORDER BY ru ASC LIMIT 1 
+  SELECT airdate FROM table_25721_3 WHERE dave_ja_vu_viewers = 106000 ORDER BY airdate ASC 
+  select count(*) from table_2175858_1 where race_time = '3:09:45' 
+  SELECT 3_darts_challenge FROM table_26733129_1 WHERE air_date = '10-05-2010' 
+  SELECT name FROM school WHERE year_of_last_win = 2007-08 
+  select count(*) from table_25016824_2 where air_date = '1997-11-15' 
+  select * from table_15261_1 where (voltage_range__v_ = '3x' or voltage_range__v_ = '2x') and (part_number = 'a80486dx4wb-100') 
+  SELECT * FROM table_26436_2 WHERE original_broadway_cast = 'jesse l. martin' 
+  SELECT COUNT(*) FROM table_10408617_5 WHERE bts_retail_price__regulated_ = '2.553p/min'; 
+  SELECT date_of_appointment FROM table_27782699_3 WHERE replaced_by = 'Kim Fogh' 
+  SELECT lyricist FROM table_11827596_4 WHERE film_name = 'gopal krishna' AND co_singer ='solo' 
+  select pole_position from table_1137695_3 where grand_prix ='monaco' order by pole_position 
+ 1. select * from table_13512105_3 where winning_team = 'Ferrari' and winning_driver = 'Sebastian Vettel' and fastest_lap = 'Yes' 2. select * from table_13512105_3 where winning_team = 'Red Bull' and winning_driver = 'Sebastian Vettel' and fastest_lap = 'Yes'
+" 1. SELECT category, COUNT(*) FROM music_festival GROUP BY category "
+  SELECT COUNT(*) FROM table_25271777_1 WHERE violent = 1156 
+  SELECT callback_venue FROM table_27455867_1 WHERE episode_air_date = '2011-01-20' 
+"  SELECT version FROM table_19329117_1 WHERE official_name = ""AutoCAD Architectural Desktop 3"" "
+"  SELECT incumbent FROM table_2668336_17 WHERE incumbent IN ( 'Charles Fisher (DR) 65.1%', 'W. Jones (F) 34.9%' ); "
+  SELECT location FROM cinema WHERE (openning_year >= 2010 OR openning_year IS NULL) GROUP BY location ORDER BY COUNT(*) DESC LIMIT 1 
+"  SELECT product_type_code, COUNT(product_type_code) AS product_type_code_count FROM products GROUP BY product_type_code "
+  select * from table_23286158_10 order by points desc limit 1 
+  SELECT COUNT(*) FROM TABLE_16383772_1; 
+  select * from papers where authid = 'Aaron Turon' 
+  SELECT provider FROM table_14465871_2 WHERE version = '2008'; 
+  select division from table_12485020_1 where divisional_secretary = 'S. H. Muzammil'; 
+  SELECT department FROM table_17118006_2 WHERE irrigated_ha = 2170  
+  SELECT type FROM table_2562572_30 WHERE settlement = 'rabe'; 
+  SELECT candidates FROM table_1341640_39 WHERE party = 'Republican' 
+  select passing_yards_per_game from table_27487336_1 where rushing_yards_per_game = 113.6 
+"  SELECT title FROM table_26150013_1 WHERE original_air_date = 'April 3, 2012' "
+  SELECT series_name FROM tv_channel WHERE channel = 'CW' 
+  SELECT COUNT(*) FROM table_17978052_2 WHERE borough_or_census_area = 'Nome (CA)' 
+"  select * from table_29770377_1 where route_via = ""guruvayur"" "
+  SELECT time___et__ FROM table_14433719_1 WHERE time___et__ = '2015-01-03 03:00:00' 
+"  select distinct dominant_religion__2002_ from table_2562572_35 where dominant_religion__2002_ not like ""other"" order by dominant_religion__2002_ "
+  select count(*) from member where address not like 'Hartford%'; 
+"  select * from table_17964087_2 where foreign_nationality = 'cheung, raymond man-to'  "
+  select candidate from table_25818630_2 where result____percentage = '0.4' 
+  SELECT  *  FROM  table_1217448_1  WHERE  (  character_s_  =  'x-men ; magneto'  )  ORDER  BY  cover_date  ASC  
+"  SELECT order_id, sum(product_quantity) as total_quantity FROM order_items GROUP BY order_id "
+  select * from table_15187735_21 where segment_c = 'artificial flowers' order by segment_b 
+  select name from people where people_id is null 
+"  SELECT title FROM table_14637853_3 WHERE original_air_date ='september23,1995'; "
+  SELECT party FROM table_1341395_36 WHERE incumbent = 'Deborah Pryce' 
+  select * from table_22298383_1 where report = 'Sunday race' and average_speed__mph_ = 128.27 
+  SELECT * FROM table_25800134_9 WHERE airdate = '1964-12-05' 
+"  SELECT stuid, city_code FROM student WHERE allergy ='milk' OR allergy = 'cat'; "
+"  SELECT SUM(settlement_amount) AS total, AVG(settlement_amount) AS average FROM settlements "
+  SELECT branding FROM table_2610582_2 WHERE power_kw__erp_ = '1kW (29.94kW ERP)' 
+  SELECT COUNT(*) FROM table_1417184_1 WHERE commune = 'waldbillig'; 
+"  SELECT count(*) FROM ( SELECT numer_of_jamaicans_granted_british_citizenship, naturalisation_by_residence FROM table_11214212_1 GROUP BY naturalisation_by_residence ) AS T1 GROUP BY naturalisation_by_residence ORDER BY naturalisation_by_residence DESC "
+  SELECT lower_house_majority FROM table_21531764_2 WHERE senior_us_senator = 'J. Shaheen'; 
+  SELECT DISTINCT aircraft_type FROM table_28342423_1 WHERE parent_unit = 'jagdgeschwader 26'; 
+  select candidates from table_1341586_44 where incumbent = 'Henry B. Gonzalez'  
+"  select mls_cup_playoffs from table_245695_2 where concacaf_champions_cup___concacaf_champions_league = ""quarter-finals"" "
+  SELECT written_by FROM table_25640730_7 WHERE uk_air_date = '2013-02-18' 
+  select affiliation from table_28211213_1 where affiliation = 'Davenport University'; 
+  SELECT COUNT(*) FROM table_23018775_3 WHERE lap_two ='marco andretti' 
+"  SELECT start_date_from, end_date_to FROM project_staff WHERE role_code ='researcher' AND start_date_from IS NOT NULL AND end_date_to IS NOT NULL ORDER BY start_date_from ASC "
+  SELECT epa_rated_combined_fuel_economy FROM table_23840623_4 WHERE epa_rated_combined_fuel_economy = 'Nissan Leaf' 
+  select distinct(scientist) from assignedto 
+  SELECT COUNT(*) FROM table_29788320_2 WHERE number_of_editions = '10'; 
+  SELECT name_of_award FROM table_25926120_7 WHERE awardee_s = 'elangbam natasha'; 
+  select incumbent from table_2668347_17 where incumbent = 'jacob spangler (dr) 67.1%' order by incumbent 
+"  SELECT provider FROM table_3005999_1 WHERE destination = ""Liverpool""; "
+"  select august_21_22 from table_22651355_3 where august_21_22 = 'June 11, 1983' "
+"  SELECT fname, lname, address FROM employee ORDER BY bdate ASC "
+  select distinct original_air_date from episodes where written_by = 'Charlie Day' 
+  SELECT title FROM albums ORDER BY title ASC 
+" 1. Create table if not exists articles (id integer primary key, title varchar(255), category varchar(255), year__ceremony_ varchar, director varchar, PRIMARY KEY (id)) 2. Create table if not exists ceremonies (id integer primary key, year__ceremony_ varchar, director varchar, PRIMARY KEY (id)) 3. Create table if not exists hcards (id integer primary key, url varchar, category varchar, PRIMARY"
+  SELECT * FROM table_27877656_8 WHERE outcome = '2010 Europe/Africa Group IIB edition' 
+  SELECT * FROM ref_property_types WHERE property_type_code = 'CODE' 
+  SELECT publisher FROM publication GROUP BY publisher HAVING COUNT(*) > 1 
+  select route_name from delivery_routes where route_id = (select max(route_id) from delivery_routes group by route_name); 
+  SELECT DISTINCT(representative) FROM table_19283806_4 WHERE representative = 'Barbara Lee' 
+  SELECT * FROM papers WHERE title LIKE '%ML%'; 
+"  SELECT t2.tournaments_played, t2.best_finish FROM tournaments t1 INNER JOIN tournament_players t2 ON t1.id = t2.tournament_id WHERE t2.best_finish = 't3' AND t2.tournaments_played = (SELECT MIN(t3.tournaments_played) FROM tournaments t3 WHERE t3.best_finish = 't"
+  select number_of_troops from table_30108346_1 where troops_per_$1_billion___usd___gdp = 2.45 
+  SELECT song FROM table_2528382_1 WHERE additional_info = 'Drunkard Groom'; 
+  SELECT COUNT(DISTINCT party) FROM table_1341453_34; 
+  select count(*) from continents 
+  SELECT team FROM table_27721131_6 WHERE high_points = '20' ORDER BY team ASC 
+  SELECT title FROM table_22170495_7 WHERE original_airing = '100419' 
+  SELECT COUNT(*) FROM table_1840433_2 WHERE number_of_editions = '4' AND most_wins_by = 'Franco Marvulli' 
+  SELECT host FROM race_caller WHERE race_caller LIKE 'Marshall Cassidy'; 
+  SELECT votes_swing FROM table_149330_1 WHERE votes_swing!= '' ORDER BY votes_swing ASC 
+  SELECT lastname FROM list WHERE classroom = '111' 
+"  SELECT dept_name FROM instructor WHERE name LIKE ""%Soisalon%""; "
+  select p1_diameter__mm_ from table_26967904_2 where chambering = '300 lapua magnum' 
+  select count(*) from table_11827596_2 where lyricist ='suresh wadkar' and film_name = 'tera dukh mera dukh' 
+  SELECT region_of_ussr FROM table_16048129_5 WHERE _percentage_of_total_deportees = '10.6' 
+  SELECT game_site FROM table_25380472_2 WHERE team_record = '1-7' 
+" 1. Create a table to store the date: CREATE TABLE `table_25235489_2` (
+[INST] Write SQLite query to answer the following question given the database schema. Please wrap your code answer using "
+  SELECT * FROM table_2562572_11 WHERE largest_ethnic_group__2002_ = 'Arab' ORDER BY largest_ethnic_group__2002_ 
+  select player_name from table_20871703_1 where college = 'eastern michigan' 
+"  SELECT stuid FROM plays_games WHERE gameid = ""Call of Destiny"" AND gameid = ""Works of Widenius""; "
+  select * from table_1463332_2 where most_recent_final in (select most_recent_final from table_1463332_2 where years__won_in_bold = '1979' order by most_recent_final desc limit 1) 
+  select nickname_s_ from table_18304058_2 where enrollment__2013_14 = '436' 
+  select max(bush_number) from table_13608101_1 where others_percentage = 1.57 
+  SELECT replaced_by FROM table_29414946_3 WHERE team = 'Santos' AND replaced_by <> 'Rodolfo' 
+  SELECT count(*) FROM table_23248940_10 WHERE high_rebounds = '34-32' 
+"  SELECT clubid FROM club WHERE clubname = ""Pen and Paper Gaming""; "
+  select succeeded_by from table_1601027_2 where earpads = 'foam' 
+"  select count(*) from table_12896884_1 where endowment = ""Mosaic Stadium"" "
+  select candidates from table_1342256_18 where candidates = 'James R. Domengeaux' 
+"  select us_viewers__million_ from table_29920800_1 where written_by = ""Liz Feldman"" "
+  select broadcast_date from table_2101431_1 where run_time = '23:25' 
+  select sum(brooklyn) from table_1108394_6 where manhattan = 3139; 
+  SELECT stavanger FROM table_19439864_2 WHERE oslo = '48' 
+  select count(*) from party 
+"  SELECT title, weeks FROM songs WHERE artist_s = ""Rihanna"" AND year = 2012 ORDER BY title "
+"  select november_3 from table_25355501_2 where august_21_22 = 'august 22, 1998' "
+  SELECT population__january_1 FROM table_16278602_1 WHERE _2008_ = 'Denmark' AND largest_city = 'Roskilde' 
+  select email_address from professionals where state = 'WI' or state = 'HI' 
+  SELECT DISTINCT Store_Name FROM Drama_Workshop_Groups 
+  SELECT * FROM table_22962745_35 WHERE bowler = 'dwaraka ravi teja rp singh pragyan ojha' 
+  SELECT city___municipality FROM table_232458_1 WHERE pop_density__per_km²_ = 1388.88 
+  SELECT segment_b FROM table_15187735_6 WHERE segment_d ='s Hammock' 
+  SELECT count(*) FROM table_16388478_2 WHERE home_team ='sydney'; 
+  SELECT original_air_date FROM table_24649082_1 WHERE written_by = 'David H. Goodman & Andrew Kreisberg'; 
+  SELECT COUNT(*) FROM table_28418916_3 WHERE opponents_head_coach = 'Kent State Golden Flashes'; 
+"  select venue from table_17120964_8 where man_of_the_match = ""Vaclav Zavoral"" "
+  SELECT episode_no FROM table_24399615_4 WHERE cable_rank = '8' 
+  SELECT  *  FROM  table_23274514_4  WHERE  high_points = ( SELECT  MAX(high_points)  FROM  table_23274514_4 )  AND  record = '2-7' 
+  select count(*) from hotels 
+  select population__1931__in_1 from table_14245_3 where capital = 'tarnopol' 
+"  select incumbent, candidates from table_1342013_34 where incumbent = 'john m. vorys (r) 61.5%' and candidates = 'jacob f. myers (d) 38.5%' "
+  SELECT DISTINCT country FROM climber 
+  SELECT english_name FROM table_180802_2 WHERE abbr = 'พ.ย.' 
+  SELECT shot__percentage FROM table_1644876_2 WHERE locale ='switzerland'; 
+  SELECT * FROM table_1276219_1 WHERE phillips = 'How was times was the dance the jive and the week # was 10?' AND week__number = 10 
+"  select nhl_team from table_2850912_10 where college_junior_club_team = ""HC Slavia Praha (Czechoslovakia)"" "
+  SELECT written_by FROM table_1130632_1 WHERE us_viewers__million_ = '18.73' 
+  SELECT number_one_single_s_ FROM table_27441210_20 WHERE weeks_at__number1 = 1 ORDER BY number_one_single_s_ ASC 
+  select name from person where name in (select friend from personfriend where friend like 'Zach%') 
+  SELECT Staten_Island FROM table_1108394_6 WHERE Staten_Island = 'Brooklyn' 
+  SELECT service_type_description FROM ref_service_types WHERE service_type_code = 'photo film'; 
+  SELECT department_id FROM degree_programs ORDER BY COUNT(*) DESC LIMIT 1 
+" 1 SELECT name FROM pilot WHERE name IN ('PIRET HAMER', 'HELEN REINO') "
+"  SELECT name FROM table_22941863_19 WHERE winner = ""Michael Albasini"" "
+"  SELECT * FROM table_29218221_2 WHERE fri_3_june = '18' 22.66' AND wed_1_june = '123.182mph' ORDER BY wed_1_june, fri_3_june "
+"  SELECT e, vap, turnout FROM table_2683116_1 WHERE turnout = 85.7  "
+  SELECT COUNT(*) FROM tv_episodes WHERE original_air_date = '26.06.2015' GROUP BY original_air_date 
+  SELECT COUNT(*) FROM table_11713303_2 WHERE appointment_date = '10 December 2007' AND manner_of_departure = 'quit'; 
+  SELECT arranger FROM table_14778650_1 WHERE writer = 'Nizar Francis' 
+  select top_scorer from table_1218784_1 where gf = '41' 
+  SELECT rnag__mhz_ FROM table_18475946_2 WHERE lyric_fm__mhz_ = '98.7' 
+  SELECT wiaa_classification FROM table_22058547_1 WHERE wiaa_classification = 'Vancouver Itech Prepratory'; 
+"  select distinct original_game from table_21500850_1 where artist = ""Lynyrd Skynyrd"" "
+"  SELECT turing_complete, numeral_system FROM table_13636_1 WHERE turing_complete = ""Turing-complete"" AND numeral_system = ""decimal""; "
+  select distinct the_wørd from table_25691838_12 where guest = 'daniel ellsberg' and guest = 'william wegman' and guest = 'julie taymor' 
+"  select count(*) from vacator where vacator = ""dave"" and successor = ""dave"" "
+  SELECT DISTINCT(location) FROM table_262476_1 WHERE document_status_code = 'done' AND document_type_code = 'paper' 
+  SELECT AVG(votes_per_candidate) FROM table_28819393_1 WHERE votes_per_candidate > 3.29; 
+  SELECT COUNT(*) FROM appointments 
+  SELECT network_protocols FROM table_1300080_1 WHERE network_protocols = 'WLAN' 
+  SELECT last_competed FROM table_14308895_2 WHERE country_territory = 'New Zealand' 
+"  SELECT  ""college_junior_club_team"" FROM ""table_2850912_12"" WHERE ""college_junior_club_team"" IN ('winnipeg jets'); "
+  SELECT * FROM table_10592536_8 WHERE date_of_vacancy = 'Manchester City' AND replaced_by = 'Mark Hughes' 
+  SELECT group_12 FROM group_12_psid_jombang WHERE group_9 = 'psid jombang'; 
+"  SELECT record, team FROM table_27700530_9 WHERE team = ""Minnesota"" ORDER BY record; "
+  SELECT a.apt_number FROM apartments AS a LEFT JOIN view_unit_status AS b ON b.apt_id = a.apt_id WHERE b.available_yn = '0' AND b.available_yn = '1' 
+  SELECT team FROM table_17366952_1 WHERE goal_average_1 = '1.34' 
+  select cyrillic_name_other_names from table_2562572_9 where settlement = 'Budisava' 
+  SELECT name FROM pilot WHERE name = 'Jasper National Park' 
+  select count(*) from ref_colors where not exists ( select 1 from products where products.color_code = ref_colors.color_code ); 
+  SELECT workshop_group_id FROM services WHERE workshop_group_id IN ( SELECT workshop_group_id FROM drama_workshop_groups WHERE store_phone IN ( SELECT store_phone FROM drama_workshop_groups WHERE workshop_group_id IN ( SELECT workshop_group_id FROM drama_workshop_groups WHERE workshop_group_id IN ( SELECT workshop_group_id FROM drama_workshop_groups WHERE workshop_group
+  SELECT team_nickname FROM table_26351260_1 WHERE institution = 'Kent State University' 
+ 1. SELECT playoffs FROM table_1046170_5 WHERE playoffs = '1st Round' 2. SELECT playoffs FROM table_1046170_5 WHERE playoffs = '2nd Round' 3. SELECT playoffs FROM table_1046170_5 WHERE playoffs = '3rd Round' 4. SELECT playoffs FROM table_1046170_5 WHERE play
+" 1. SELECT COUNT(*) FROM (SELECT DISTINCT(original_air_date) FROM table_23242933_2) AS t1 WHERE original_air_date LIKE ""%1995-09-27%"" AND original_air_date LIKE ""%2000-09-27%"" AND original_air_date LIKE ""%2001-09-27%"" AND original_air_date LIKE ""%"
+  SELECT name FROM notes WHERE province ='samangan' 
+  SELECT * FROM table_18498743_1 WHERE mañana_es_para_siempre = 'love never dies' AND mexico ='mexico'; 
+  SELECT christer_tornell FROM table_28677723_10 WHERE karianne_gulliksen = 7 
+  SELECT name FROM table_10020178_1 WHERE crest_length__meters_ = 375 
+"  SELECT COLOR FROM TABLE_1221089_1 WHERE INSTITUTION = ""UNH""; "
+  SELECT * FROM table_16670746_2 WHERE fastest_lap = 'fastest lap' AND winning_team = 'Team Impul' AND circuit = 'Twin Ring Motegi' 
+"  select 1 as ""secondary_sponsor"", 2 as ""main_sponsor"" from table_187239_1 where secondary_sponsor = 1 and main_sponsor = 2 "
+  SELECT COUNT(*) FROM songs WHERE songs.goodman_rating = 10 AND songs.tonioli_rating = 10; 
+  select solidv4 from table_127511_1 where sequencer = 'data output per run' 
+  select remarks from table_211791_1 where remarks ='sawhouse' 
+  SELECT series_premiere FROM table_29799700_2 WHERE tv_network_s = 'TV3'; 
+"  SELECT country_name, capital FROM country ORDER BY country_name "
+  SELECT type FROM table_2076608_1 WHERE type = 'Stratford University' 
+  SELECT MIN(players) AS smallest_number_of_players FROM table_10682862_68 
+  SELECT opponent FROM table_22860990_3 WHERE spartans_points = '73' 
+  SELECT count(*) from (select viewers__in_millions_ from table_2102945_1 where run_time = 24:31) as t1 
+  SELECT * FROM table_2400842_1 WHERE directed_by = 'John'  
+  SELECT country FROM table_29302711_13 WHERE name = 'Mark Cox' 
+  SELECT COUNT(*) FROM candidates WHERE incumbent = 'Mike Doyle'; 
+  SELECT name FROM member ORDER BY name 
+"  select november_3 from table_25287007_2 where august_21_22 = 'august 21, 2017' "
+"  select candidates from table_1342149_13 where incumbent = ""noah m. mason""; "
+  SELECT nominee FROM musical WHERE nominee IN ( SELECT nominee FROM musical GROUP BY nominee HAVING COUNT(*) > 1 ); 
+"  SELECT * FROM table_27704991_1 WHERE long_ranged_weapons = 'knife (stone), knife (iron)' ORDER BY long_ranged_weapons ASC; "
+  SELECT name FROM tracks WHERE id NOT IN (SELECT id FROM playlist_tracks WHERE playlist_id = 'Movies') 
+  select no_party_preference from table_27003186_3 where republican = 0.453 
+  SELECT candidates FROM table_1341577_44 WHERE incumbent = 'Lamar S. Smith'; 
+  select team from table_22297198_3 where outgoing_manager = 'Alireza mansourian' 
+  select episode_number_production_number from table_24222929_4 where title = 'Tasers and Mind Erasers' 
+"  select riders from table_15327489_1 where team_name = ""Scot Motogp"" "
+"  SELECT COUNT(*) FROM documents WHERE document_status_code = ""done"" AND document_type_code = ""paper"" "
+  select velocity from flight where pilot = 'Thompson' 
+  SELECT location FROM table_1137707_2 WHERE fastest_lap = 'Thierry Boutsen' 
+  SELECT * FROM table_29302711_13 WHERE country = 'Austria'; 
+  SELECT DISTINCT fname FROM student WHERE EXISTS (SELECT 1 FROM has_pet WHERE stuid = student.stuid AND petid = 'cat' AND EXISTS (SELECT 1 FROM has_pet WHERE stuid = student.stuid AND petid = 'dog')) 
+  SELECT title FROM table_14847258_1 WHERE us_viewers__millions_ = '15.03' 
+  SELECT broadcast_date FROM table_2102782_1 WHERE viewers__in_millions_ = 6000000000000000000000000000000000000000000000000000000000000000000000000
+  select final_score from table_10548224_1 where date_contested = '2009-02-01' 
+  select * from table_11964154_11 where high_assists = 'Nick Collison (15)' 
+"  select count(*) from documents where document_status_code = ""done"" and document_type_code = ""paper"" "
+  SELECT DISTINCT  start__reg_season_ FROM table_22383603_1 WHERE finish__incl_championship_ = '2020' ORDER BY start__reg_season_ ASC 
+  SELECT winnings FROM team_1458412_1 WHERE winnings = '1752299' 
+  SELECT artist_s_ FROM table_2560677_1 WHERE start_date = '1966-10-23' 
+  select count(*) from has_allergy where allergy = 'cat' 
+  SELECT property FROM table_186468_1 WHERE q_band = 8.3  
+  select min(gdp__ppp__per_capita) from table_25869317_1 
+  select segment_c from table_15187735_3 where segment_b = 'couscous' 
+  select distinct gender from artist 
+ 1> select * from table_2076595_1 where type = 'public'; 
+"  select count(*) from table_25926120_3 where language = ""hindi"" and name_of_film = ""jodhaa akbar"" "
+  SELECT DISTINCT(journalist_id) FROM news_report JOIN journalist ON news_report.journalist_id = journalist.journalist_id WHERE news_report.journalist_id NOT IN (SELECT DISTINCT(journalist_id) FROM news_report WHERE news_report.journalist_id = journalist.journalist_id) GROUP BY news_report.journalist_id 
+  select copa_mercosur_1998 from table_14962316_9 where copa_mercosur_1998 = 'CRUZEIRO' 
+  select count(*) from audition_cities where audition_city not in (select audition_city from audition_cities group by audition_city having count(*) > 1) 
+"  SELECT record FROM table_23248869_10 WHERE team = ""Boston"" "
+"  SELECT opponents_in_the_final FROM table_22597626_17 WHERE score_in_the_final = '6-4, 7-6 2' "
+  SELECT circuit FROM table_20884163_2 WHERE race_title = 'Placemakers V8 Supercars' 
+  SELECT model__list_ FROM table_24101118_1 WHERE processor = 'yorkfield' AND brand_name = 'xeon' 
+"  select test_result, count(*) from student_tests_taken group by test_result order by count(*) desc "
+  SELECT template_type_description FROM ref_template_types WHERE template_type_code = 'AD' 
+"  SELECT mixed_veteran FROM table_28211674_3 WHERE mixed_veteran IN ('Naomi Owen','Ricardo Walther'); "
+  SELECT name FROM table_20595642_2 WHERE br_no = 60501 
+  select address from restaurant where resname = 'Subway'; 
+  SELECT ground FROM table_27409644_1 WHERE club = 'flora tallinn'; 
+  SELECT wub_name FROM table_20018310_1 WHERE wub_name IN (SELECT wub_name FROM table_20018310_1 WHERE irrigation_district = 'Azua Valley'); 
+  select * from table_29486189_4 where representative = 'willowick' 
+  SELECT DISTINCT event_name FROM party_events WHERE event_name IN (SELECT DISTINCT event_name FROM party_events GROUP BY event_name HAVING COUNT(*) > 2) 
+  SELECT title FROM table_24910733_1 WHERE written_by = 'Emily Halpern'; 
+  SELECT DISTINCT branding FROM table_2610582_2 WHERE callsign = 'DWEC-TV' 
+"  SELECT  total_w_l, count(*)  FROM  table_10294071_1  GROUP  BY  total_w_l  HAVING  count(*)  =  ( SELECT  count(*)  FROM  table_10294071_1  WHERE  doubles_w_l  =  '11-11' ) "
+  select distinct america from table_22860_1 where atlantic_europe = 'Hoxniense' 
+  SELECT party FROM representative ORDER BY COUNT(*) DESC LIMIT 1 
+"  select pole_position from table_1132588_3 where constructor = ""ferrari"" and grand_prix = ""austrian grand prix"" "
+  select distinct under_11 from table_26368963_2 where under_17 = 'Salma Nassar' 
+  SELECT name FROM aircraft WHERE flno = '99'; 
+  SELECT * FROM table_27755603_2 WHERE record = '2018-01-28' AND high_rebounds = '8' 
+  SELECT * FROM table_12834315_5 WHERE barrel_profile = 'gas piston carbine' 
+  select count(*) from table_255885_1 where no_of_s_barangay = 'Paracale' 
+  select original_title from table_17641206_4 where viewership = '5.04 million' 
+"  SELECT country, state_province_county FROM staff WHERE first_name = 'Janessa' AND last_name = 'Sawayn' "
+  SELECT swimmer_id FROM record ORDER BY count(*) DESC LIMIT 1 
+"  select number_in_fleet from table_1425948_1 where chassis_model = ""Scania K360ua""; "
+  select citizenship from singer group by citizenship order by count(*) desc limit 1 
+  select framed_size from table_15070195_1 where date_completed = '02/91' 
+"  select location from table_22669375_1 where location = ""trenton 300"" "
+  select * from table_29857115_4 where singer = 'gabriella ferrone' 
+  SELECT candidates FROM table_1342249_13 WHERE incumbent = 'Noah M. Mason'; 
+  select reason_for_change from table_228439_4 where successor = 'Richard K. Meade ( d )' 
+  SELECT count(DISTINCT tree_species) FROM table_16577990_1  WHERE total_plant_species = 258 
+  SELECT COUNT(*) FROM program; 
+" 1. create table table_12570759_2 (us_viewers__millions_ varchar, directed_by varchar, written_by varchar, PRIMARY KEY (us_viewers__millions_)); 2. select us_viewers__millions_ from table_12570759_2 where directed_by = 'Rob Bailey' and written_by = 'Pam Veasey'; "
+  SELECT * FROM table_16441561_5 WHERE cfl_team = 'BC'; 
+  select nurse from on_call where nurse is not null 
+  SELECT record FROM table_17080868_8 WHERE record = '25' 
+  SELECT COUNT(*) FROM table_14308895_2 WHERE new_pageant IS NOT NULL 
+ 1. Select the replaced by when outgoing manager is kent nielsen. 
+  select cfl_team from table_10975034_4 where college = 'Simon Fraser' 
+  select count(*) from dorm group by gender 
+"  select * from table_29414946_3 where outgoing_manager = ""Geninho"" "
+  SELECT name FROM media_types ORDER BY name 
+  select original_air_date from table_25923164_1 where directed_by = 'gloria muzio' 
+  select count(*) from table_15187735_9 where segment_c = 'leather' and segment_d not like 'pedal%'; 
+  select count(distinct no_of_barangays) from table_2402209_1 where area_coordinator = '110.95' 
+  SELECT sum(date_of_birth) FROM table_22344463_2 WHERE name = 'Timo Higgins'
+  select cover_model from table_24425491_3 where cover_model = '20 questions' 
+"  select market_rank_, city from table_22329326_1 where station = 'KABC-TV' order by market_rank_ "
+"  SELECT title FROM songs WHERE songid IN (SELECT songid FROM performance WHERE bandmate = ""Heilo"") "
+  SELECT name FROM pilot WHERE name LIKE 'Lamont Ferrell%' 
+"  SELECT * FROM table_21436373_6 WHERE stadium = ""Fri 06/25/82""; "
+  select name from singer where citizenship!= 'France' 
+  SELECT model_type FROM table_20866024_2 WHERE model_designation = '97100' 
+  SELECT DISTINCT `commonwealth_equivalent` FROM `table_1015521_2` WHERE `commonwealth_equivalent` ='major_general' ORDER BY `commonwealth_equivalent` ASC 
+"  SELECT university FROM table_27369069_4 WHERE soccer_stadium = ""terrain #2 of complexe sportif claude-robillard"" "
+  select * from table_1376890_2 where chroma_format = 'high profile' 
+  SELECT COUNT(*) FROM instruments WHERE songid = 'Badlands'; 
+  SELECT COUNT(*) FROM episodes WHERE original_air_date LIKE '%5.1%' 
+  select flightno from flights where sourceairport = 'APG' 
+"  SELECT name FROM table_1198175_1 WHERE born = 'december 30, 1957 detroit, mi' "
+"  SELECT email, phone FROM customers WHERE email = 'astridgruber@gmail.com' "
+  SELECT * FROM table_27615445_1 WHERE audition_venue = 'Nego Quirido Sambadrome' ORDER BY episode_air_date 
+  select station from table_1847523_2 where affiliation = 'kmgh-tv' 
+ 1. What is the name of the centerfold model? 2. What is the centerfold model's birthday? 3. What is the centerfold model's eye color? 4. What is the centerfold model's hair color? 5. What is the centerfold model's height? 6. What is the centerfold model's weight? 7. What is the centerfold model's bra size? 8. What is the
+"  SELECT account_id, date_account_opened, account_name, other_account_details FROM accounts ORDER BY account_id "
+ 1) SELECT DISTINCT country FROM table_26166836_2 WHERE road_race = 'ottawa marathon'; 
+  select pinyin from table_1982739_2 where pinyin = 'Dingyuan County' 
+  select count(*) from table_27615445_1 where audition_city = 'Rio De Janeiro' 
+  SELECT school_year FROM table_14603212_5 WHERE class_aaaa = 'Gregory' AND portland = 'Portland'; 
+"  SELECT product_id, COUNT(*) AS count_problems FROM problems GROUP BY product_id ORDER BY count_problems DESC LIMIT 3 "
+  select net_profit__€m_ from table_20614109_1 where earnings_per_share__€_ = 1.19 
+"  SELECT policy_type_code, COUNT(*) AS count FROM policies GROUP BY policy_type_code "
+"  select distinct school from table_15475116_1 where colors = ""maroon and white"" "
+"  select company from table_20174050_23 where author = ""pinborough, sarah sarah pinborough"" "
+  select arabic from table_26919_6 where arabic = 'ħamuʃte' 
+  SELECT COUNT(*) FROM tweets WHERE EXISTS (SELECT * FROM tweets WHERE tweets.uid = tweets2.uid); 
+  select prize__eur_ from table_20195922_3 where number_of_winning_tickets = 1 
+"  SELECT DISTINCT a.apt_number, a.booking_start_date, a.booking_end_date FROM apartment_bookings a INNER JOIN apartments a ON a.apt_id = a.apt_id  "
+"  select stuid from student where city_code = ""CHI"" "
+  select ben_tahir from table_11447995_2 where bello = '51' 
+"  SELECT title_subject FROM table_20903658_1 WHERE title_subject = ""Who was the subject of the bronze sculpture who was a colonist and soldier in Ville Marie, New France?"" "
+  SELECT * FROM table_1616608_2 WHERE released_date = '2009-05-06'; 
+"  SELECT replaced_by FROM table_25361570_2 WHERE date_of_vacancy = ""August 9"" ORDER BY replaced_by "
+  SELECT COUNT(*) FROM table_10568553_1 WHERE street_names = 'Anne Street'; 
+  SELECT employee_id FROM employees WHERE destroyed_by_employee_id IS NULL 
+"  SELECT location FROM table_11365528_2 WHERE website = ""http://www.mudgeerabasoccer.com/"" "
+  SELECT DISTINCT month FROM happy_hour WHERE happy_hour.month >= 2 
+  SELECT winner FROM table_12454156_1 WHERE losing_hand = 'Ah 7s'; 
+"  SELECT DISTINCT fname FROM student WHERE stuid IN (SELECT DISTINCT stuid FROM voting_record WHERE vice_president_vote IN ('Y','N') AND city_code <> 'PIT') "
+  SELECT listed_owner_s_ FROM table_24535095_2 WHERE listed_owner_s_ ='mike garvey' 
+"  SELECT color_description, product_description FROM products WHERE product_category = ""Herbs"" "
+  SELECT sprint_classification FROM table_23944514_15 WHERE sprint_classification = 'Michael Barry' 
+  SELECT segment_d FROM table_15187735_11 WHERE series_ep = '11-05'; 
+  SELECT ground FROM table_16388230_1 WHERE away_team = 'Richmond' 
+  select position_in_table from table_26914854_3 where date_of_vacancy = '2011-01-04' 
+  SELECT name FROM teacher WHERE hometown!= 'Little Lever Urban District' 
+"  SELECT type FROM table_254776_1 WHERE location ='swarthmore, pennsylvania' "
+  select name from personfriend where friend in (select name from personfriend where name = 'Alice'); 
+  SELECT branding FROM table_17487395_1 WHERE location = 'Cebu'; 
+  SELECT shirt_sponsor FROM table_25527255_2 WHERE shirt_sponsor = 'Bunyodkor'; 
+  select count(*) from table_20090682_4 where driver = 'toyota corolla' 
+  SELECT pinyin FROM table_1300525_1 WHERE simplified = '信州区' 
+  SELECT (purse___us * (margin_of_victory - 8)) AS purse_dollars FROM table_1529260_2 
+  SELECT series_sorted FROM table_1620397_2 WHERE released = 'april 2010' 
+  select count(*) from table_256862_1 where winning_yacht = '1' 
+  select * from table_17814458_1 where capacity_in_persons_hour = (select min(capacity_in_persons_hour) from table_17814458_1 where construction_year_s = 1983) 
+  SELECT winner FROM table_22050544_1 WHERE event__number = 15; 
+  SELECT languages FROM table_14670060_1 WHERE call_sign = 'XEJAM'; 
+  SELECT language FROM table_1930857_1 WHERE year_founded = '1874' 
+"  SELECT android_version FROM table_ WHERE code_name = ""Lotus""; "
+  SELECT order_id FROM shipments ORDER BY shipment_date DESC LIMIT 1; 
+  SELECT other FROM table_1850282_7 WHERE other = 'chironius multiventris septentrionalis'; 
+  SELECT COUNT(*) FROM table_17822401_1 WHERE power__kw_ = 5; 
+  SELECT * FROM table_10749367_3 WHERE test_taker = 'Joe' AND challenge = 'night driving' 
+  SELECT battle_id FROM `leader_battles` WHERE vote = 4 AND `leader_battles`.leader_id = '1'; 
+"  SELECT region___nuts_2006_, ppp__million_€_ FROM table_2293510_1 WHERE ppp__million_€_ = '23164' "
+ 1. select employee_id from employees where employee_id not in (select employee_id from job_history) 2. select employee_id from employees where employee_id is null 3. select employee_id from employees where employee_id is not null 
+  SELECT pinyin FROM table_2135222_2 WHERE simplified = '虞城县' 
+"  SELECT name, country FROM singer WHERE song_name LIKE 'Hey%' "
+  SELECT democratic_coalition FROM table_2651755_1 WHERE democratic_coalition ='sergio castro ( pc )' 
+  SELECT theme FROM table_15778392_1 WHERE week__number = '1' 
+  SELECT * FROM table_2155350_2 WHERE cab_size = '2' AND category ='medium' AND capacity__litres_ ='single' 
+"  SELECT year__ceremony_ FROM table_22020724_1 WHERE year__ceremony_ = ""1989"" "
+  SELECT MIN(percentage_funded) FROM table_27155990_1 WHERE closing_date = '2012-05-18'; 
+  SELECT COUNT(*) FROM team 
+  SELECT DISTINCT(high_points) FROM table_18904831_6 WHERE high_rebounds = '8' ORDER BY high_points DESC LIMIT 1 
+  SELECT * FROM table_26336060_19 WHERE km_number = 'S45' 
+ 1. select count(e1.date) from eclipse e1 where e1.date between '2020-08-21' and '2020-08-22' and e1.date between '1980-06-10' and '1983-06-11' 2. select * from eclipse e1 where e1.date between '2020-08-
+  SELECT DISTINCT product_name FROM products JOIN products_in_events ON products.product_id = products_in_events.product_id ORDER BY product_name 
+  select record from table_23286112_6 where high_rebounds = (select max(high_rebounds) from table_23286112_6) order by record limit 1 
+  SELECT si_prefix FROM table_260938_1 WHERE si_prefix = 'k' 
+"  select name from documents where document_status_code = ""done"" and document_type_code = ""paper"" "
+  select social_democratic from table_1463383_1 where socialist = '46.1' 
+  SELECT COUNT(*) FROM authors; 
+  select lyrics_by from table_191105_2 where subject = 'interjection' 
+  SELECT further_cities FROM table_197286_4 WHERE direction = 'east' ORDER BY further_cities ASC 
+  SELECT  * FROM  table_2001348_1 WHERE  (revising_convention_s_ = '21')  
+  select premiere_air_dates from table_1949994_7 where premiere_air_dates = '2006-09-24'  
+  select bbi from table_28846752_9 where economy = '5.68' 
+  SELECT COUNT(*) FROM department WHERE school_code = 'BUS' 
+  select sum(other) from table_11381701_3 where symbian___series_40 = 0.40
+"  select gtype, count(*) from video_games group by gtype "
+  SELECT COUNT(*) FROM table_28138035_27 WHERE womens_doubles = 'li xiaodan wen jia'; 
+  SELECT directed_by FROM table_29569969_2 WHERE us_viewers__millions_ = 1.48e+06; 
+"  SELECT * FROM table_18278508_2 WHERE co_contestant__yaar_vs_pyaar_ = ""Tina Parekh"" "
+  select population__millions from table_2155836_1 where gdp__nominal___billions_usd = 4 order by population__millions 
+  select distinct(id) from table_148535_2 order by id limit 3 
+  select * from documents where document_status_code = 'done' and document_type_code = 'paper' 
+  SELECT transaction_type FROM financial_transactions ORDER BY SUM(transaction_amount) DESC LIMIT 1 
+" 1. select 2. power_kw, coverage from table_24418525_1 3. group by power_kw, coverage 4. order by power_kw, coverage "
+  select rank_world from table_2248784_3 order by rank_world limit 1 
+"  SELECT barony FROM table_30120566_1 WHERE townland = ""Dawstown"" AND civil_parish = ""Matehy""; "
+"  SELECT (SELECT MIN(n) FROM table_15887683_10 WHERE n < (SELECT MIN(n) FROM table_15887683_10)) AS ""Least number for mydeejay"" "
+  SELECT nationality FROM table_16494599_1 WHERE school_club_team = 'South Florida'; 
+  select ss_winning_car from table_27965906_2 where circuit = 'road atlanta' and b_winning_car = '35' order by ss_winning_car asc 
+"  SELECT participant_id, participant_type_code, participant_details FROM participants ORDER BY participant_id "
+"  SELECT centerfold_model FROM table_1566852_8 WHERE pictorials = 'kimberly bell, bunnies of the new playboy club' "
+  select original_air_date from table_27389024_2 where written_by = 'Rama Stagner' 
+  select emulated_class from table_1153898_1 where comparisons = 'yes' 
+"  select type from table_2803662_3 where town = ""stuttgart""; "
+  SELECT population_density__people_per_mi_2__ FROM table_22916979_1 WHERE land_area__mi_2__ = '135.09'; 
+  SELECT winner FROM table_23058971_8 WHERE winner = 'Purdue' 
+  SELECT COUNT(*) FROM paragraphs 
+  select s_id from advisor where s_id in (select id from student where dept_name = 'History'); 
+  SELECT MAX(value) AS most_peak_performance FROM table_27765443_2 WHERE (period_of_operation = 'october 2006 - january 2010'); 
+"  select perfect_stem from table_12784134_24 where short_stem = ""jo"" "
+  select salary_range from table_27257896_2 where working_force_of_hk = 10.4 
+  select height__mtr_ from table_23495048_2 where contestant = 'Ulrike Wolful'; 
+  select tdp from table_16729930_18 where release_price___usd__ = '72' 
+"  select * from table_22839669_1 where score_in_the_final = ""6"" order by outcome "
+"  SELECT DISTINCT architect_id, MAX(length_meters) AS max_length FROM bridge GROUP BY architect_id "
+  SELECT us_air_date FROM table_18424435_4 WHERE canadian_viewers__million_ = 145200000000000000000000000000000000000000000000000000000000000000000
+  SELECT song_title FROM table_22457674_1 WHERE song_title LIKE 'europe%' ORDER BY song_title ASC 
+  select period__h from table_206217_2 where eccentricity = '0.583085' 
+  SELECT place_came FROM table_23429629_4 WHERE place_came = 'Bergen' 
+  SELECT type FROM table_13770460_3 WHERE transfer_fee = '20m'; 
+  select count(*) from table_2401326_1 where others_percentage = '462' 
+"  select 1 as extortion_theft_3, 'Rwanda' as united_nations_mission, count(*) as extortion_theft_rate, count(*) as theft_rate from documents where document_status_code = 'done' and document_type_code = 'paper' and united_nations_mission = 'Rwanda' group by 1, 2; "
+  SELECT written_by FROM table_28688313_1 WHERE us_viewers__in_millions_ = 9810000000000000000000000000000000000000000000000000000000000000000000
+  SELECT callback_audition_date FROM table_27455867_1 WHERE episode_air_date = '2011-02-02' ORDER BY callback_audition_date ASC 
+  SELECT COUNT(*) FROM ship 
+  SELECT reward FROM table_24122653_2 WHERE eliminated = 'Peterson'; 
+  SELECT COUNT(*) FROM voting_record 
+"  SELECT f.females___percentage_, p.state_ut_code FROM table_14598_9 f, table_14598_9 p WHERE f.females___percentage_ = p.females___percentage_ AND p.state_ut_code = '4' ORDER BY f.females___percentage_ DESC "
+  SELECT institution FROM table_10577579_3 WHERE institution LIKE 'Blazer%' ORDER BY institution; 
+"  select party from table_2668329_18 where party = ""hutchins g. burton"" "
+  SELECT team FROM table_26914759_3 WHERE incoming_manager = 'dave penney' 
+"  select opponent from table_24561550_1 where record = ""4-4""; "
+  SELECT mix_pack FROM table_23649244_2 WHERE artist_2 = 'Eminem' 
+  select affiliation from table_19210115_1 where affiliation = 'Explorers' 
+"  SELECT COUNT(*) FROM likes WHERE student_id = ""Kyle""; "
+  select max(semester_id) from student_enrolment where degree_program_id in (select degree_program_id from degree_programs where degree_program_id = 'Master') and degree_program_id in (select degree_program_id from degree_programs where degree_program_id = 'Bachelor') 
+  SELECT * FROM table_14976504_2 WHERE new_conference = 'Western Collegiate Lacrosse' 
+  SELECT directed_by FROM table_27927185_1 WHERE viewers__millions_ = 6.37 
+  SELECT role_description FROM roles WHERE role_name = 'Proof Reader' 
+  select third_place from table_25214321_1 where winner = 'Karina Bacchi' 
+"  select count(*) from table_1216675_1 where pinyin like ""%釋%""; "
+"  select 1 as men_singles, 1 as womens_singles from table_28138035_26 where 1 = (select 1 from table_28138035_26 where mens_singles = 'lau sui fei' and womens_singles = 'lau sui fei')  "
+  SELECT builder FROM table_1748444_1 WHERE date_built = 'january 1910' 
+  SELECT name FROM airlines ORDER BY count(*) DESC LIMIT 1; 
+"  SELECT role_description, role_code, COUNT(*) AS number_of_employees FROM roles GROUP BY role_description, role_code ORDER BY role_description, role_code "
+  select * from table_21021796_1 where stroke = '99 e-class' or stroke = '00 c-class' 
+  select participants_recipients from table_29644931_1 where category = 'Best Newcomer' 
+  SELECT COUNT(*) AS total FROM table_16186152_1; 
+  select location from table_14884844_2 where record = '1:37.071s'; 
+  SELECT interview_subject FROM table_1566852_7 WHERE interview_subject!= '' ORDER BY interview_subject ASC 
+  SELECT (CAST((SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT (SELECT
+  select * from table_14132239_3 where rookie = 'Brodie Merrill' and transition = 'Pat Maddalena' 
+"  select most_courageous from table_25055040_22 where mountains_classification = ""Maarten Tjallingii"" "
+  SELECT DISTINCT ppv FROM table_15887683_4 WHERE ppv IS NOT NULL; 
+  SELECT AVG(capacity_percentage) AS average_attendance FROM stadium WHERE capacity_percentage > 100; 
+  select shop_name from shop where shop_id = (select max(shop_id) from stock);
+  SELECT COUNT(*) FROM qb_ratings WHERE qb_rating = '1069' 
+  SELECT DISTINCT(country_region) FROM table_13779832_1 WHERE presenters = 'heikki paasonen jukka rossi (xtra factor)'; 
+  SELECT population__2010_ FROM table_255829_1 WHERE population__2010_ = '31'; 
+  SELECT african_spoonbill FROM table_20042805_2 WHERE hadeda_ibis = 'Brown Snake Eagle' 
+  SELECT major FROM student WHERE student.major IN (SELECT major FROM student WHERE student.major IN (SELECT major FROM student WHERE student.major IN (SELECT major FROM student WHERE student.major IN (SELECT major FROM student WHERE student.major IN (SELECT major FROM student WHERE student.major IN (SELECT major FROM student WHERE student.major IN (SELECT major FROM student WHERE student.major IN (SELECT major FROM student WHERE student.major IN (SELECT major FROM student WHERE student.major IN (
+  SELECT  el___ella___usted  FROM  table_1977630_2  WHERE  vos__ ='muelas'  
+  SELECT COUNT(*) FROM staff WHERE first_name = 'Ludie'
+  SELECT name FROM employee WHERE role_code = 'Editor' 
+"  SELECT title, COUNT(*) AS total_viewers__in_millions_ FROM table_23793770_2 GROUP BY title HAVING total_viewers__in_millions_ > 12.46 ORDER BY total_viewers__in_millions_ DESC "
+  SELECT school_year FROM table_14603212_1 WHERE class_a = 'lindsay' AND class_aaa = 'cuero'; 
+  SELECT title FROM table_24910737_1 WHERE us_viewers__millions_ = 8.16 
+"  SELECT DISTINCT safe FROM table_12305325_4 WHERE safe NOT IN ('John','Nicole'); "
+"  SELECT writer_s_ FROM table_12451376_1 WHERE writer_s_ = ""dean white"" "
+  select census_division from table_21284653_1 where name = 'Stratford' 
+"  select quarterfinals from table_17289604_38 where round_of_32 = ""S Williams / V Williams (USA) l 6-4, 5-7, 1-6"" "
+  select geographical_regions from table_24192031_2 where contestant = 'laura jiménez ynoa'; 
+  SELECT course_name FROM courses WHERE course_id IN (SELECT course_id FROM student_course_enrolment GROUP BY course_id HAVING COUNT(*) = (SELECT COUNT(*) FROM student_course_enrolment)); 
+  select language from table_25926120_7 where awardee_s ='mateen ahmad' 
+  SELECT count(*) FROM table_26275503_2 WHERE opponent = 'Scottish Claymores' 
+  SELECT max_downstream_throughput___mbit_s__ FROM table_2394927_1 WHERE profile = '8b' 
+"  SELECT * FROM table_2192067_4 WHERE date_successor_seated = ""July 28, 1876""; "
+  SELECT * FROM table_134729_3 WHERE format = 'K213cl' 
+  SELECT customer_name FROM customers ORDER BY customer_name LIMIT 5 
+ 1. SELECT COUNT(*) FROM performers WHERE age_s_ = '29'; 
+  SELECT DISTINCT m.mens_singles FROM table_28138035_27 m JOIN table_28138035_27 w ON m.mens_singles = w.womens_doubles WHERE w.womens_doubles = 'wang nan zhang yining' 
+"  select title from table_2468961_3 where written_by = ""Bob Rosenfarb"" and directed_by = ""Richard Correll"" "
+  SELECT (others_number - 2286) / (others_number + 2286) * 100 AS others_percentage  FROM table_1733513_1  
+  select type from table_262495_1 where nickname = 'pointers'; 
+  SELECT withdrawal_rate__2010_11_ FROM table_21514460_1 WHERE withdrawal_rate__2010_11_ = 'Truro'; 
+"  select spacewalkers from documents where document_status_code = ""done"" and document_type_code = ""paper"" order by spacewalkers "
+"  SELECT (storage_medium, speed___iops__) FROM table_27615520_1 ORDER BY speed___iops__ ASC "
+  select host_s_ from table_27487310_5 where air_dates = '18 January 2012' 
+"  SELECT publisher, COUNT(*) AS total_books FROM book_club GROUP BY publisher "
+  SELECT * FROM table_21501518_1 WHERE theme = 'Soul Brothers Six'; 
+  SELECT segment_d FROM table_15187735_5 WHERE segment_b = 'dining room tables'; 
+  select count(*) from documents where document_status_code = 'done' and document_type_code = 'paper' and document_id in (select name from documents where document_status_code = 'done' and document_type_code = 'paper') 
+  select count(*) from table_18299148_1 where notability = 'yes' and missions = 'president of burundi' 
+  SELECT * FROM chip_model; 
+  SELECT COUNT(*) FROM table_1507852_1 WHERE attribute = 'ondragstart' 
+  SELECT segment_a FROM table_15187735_8 WHERE segment_a LIKE '8-08' 
+"  SELECT MIN(emp_fname) AS first_name, MAX(emp_lname) AS last_name FROM employee; "
+"  select sum(domestic_mail) from table_1754531_4 where domestic_mail like ""7853"" and total_frieght_and_mail like ""total frieght and mail""; "
+  select f_bolt from table_26967904_2 where p1_diameter__mm_ = '11.35'  
+  SELECT lastname FROM band WHERE songs.songid = performance.songid AND performance.bandmate = lastname ORDER BY lastname; 
+  SELECT document_type_code FROM ref_document_types 
+  select document_type_code from documents where document_id = '2' 
+"  SELECT week__number FROM table_21501565_1 WHERE original_artist = ""Tina Turner"" "
+"  SELECT * FROM employee WHERE emp_jobcode = ""PROF"" AND emp_fname!= '' ORDER BY emp_dob; "
+  SELECT name FROM representative WHERE party = 'D' ORDER BY name 
+  SELECT DISTINCT finals_apps FROM table_21220720_1 
+  SELECT constr FROM table_12707313_2 WHERE first_win = '1978 Brazilian Grand Prix'; 
+  select sum(percent__2000_) as total_percent_2000_ from table_1182314_5 where percent__1980_ = 3.4 
+  SELECT archive FROM table_2102898_1 WHERE broadcast_date = '18april1970' 
+  SELECT prod_no FROM table_25046766_3 WHERE episode_no = '3-04' 
+  SELECT last_name FROM organization_contact_individuals WHERE organization_id = 'Labour Party'; 
+  select * from table_10848177_1 where song = 'Baahubali' and picturization = 'Vijay' 
+  SELECT english FROM table_26263954_1 WHERE revised_hepburn = 'chiji'  
+  SELECT bbc_three_weekly_ranking FROM table_24399615_3 WHERE episode_no = 5 
+  select * from table_21091982_3 where conference = 'Ivy League' 
+  SELECT pennant FROM table_1220125_4 WHERE laid_down = '4 may 1943' 
+  SELECT district FROM table_15442974_1 WHERE district = 'bodem' 
+"  SELECT country_or_region FROM table_24285393_1 WHERE highest_point = ""mont sokbaro""; "
+  SELECT dates_active FROM table_10602294_1 WHERE dates_active = '2006-01-01' 
+"  select original_title from table_15277629_1 where director = ""Bruno Barreto"" "
+  SELECT coupon_amount FROM discount_coupons WHERE coupon_id IN (SELECT coupon_id FROM customers WHERE good_or_bad_customer = 'good')  UNION ALL SELECT coupon_amount FROM discount_coupons WHERE coupon_id IN (SELECT coupon_id FROM customers WHERE good_or_bad_customer = 'bad') 
+"  SELECT title, singer_id FROM song ORDER BY title, singer_id "
+  SELECT original_air_date FROM table_11404452_1 WHERE us_viewers__millions_ = 128100000; 
+  SELECT hebrew FROM table_26919_7 WHERE english = 'heart' 
+"  SELECT DISTINCT uk_co_presenter FROM table_14345690_15 WHERE uk_co_presenter IN ( SELECT co_presenter FROM table_14345690_15 WHERE co_presenter IN ( SELECT comedian FROM table_14345690_15 WHERE comedian IN ( 'Joe Swash', 'Russell Kane' ) ) ) ORDER BY"
+"  SELECT station_id, local_authority FROM weekly_weather WHERE precipitation > 50 ORDER BY precipitation DESC LIMIT 1 "
+  SELECT network FROM table_2857352_3 WHERE virtual_channel = 23.1; 
+  SELECT COUNT(*) FROM table_27771406_1 WHERE club = 'Guyana' 
+  select score from table_18278508_6 where score like '%Karanvir Bohra%' and date_performed = '2018-08-13' 
+  SELECT COUNT(DISTINCT barony) FROM table_30120559_1 WHERE barony = 'Kilmore' 
+"  SELECT school FROM table_11677100_18 WHERE hometown = 'Lake Charles, LA' "
+  SELECT * FROM results WHERE incumbent = 'Peter Deutsch' AND county = 'Riverside County' 
+  SELECT COUNT(*) FROM table_16751596_13 
+"  SELECT party FROM party WHERE delegate = 'feldman, brian j. brian j. feldman' "
+  SELECT * FROM has_allergy WHERE sex = 'M' AND allergytype IN ('Food'); 
+  SELECT type FROM table_2076533_1 WHERE enrollment__2005__ = '1245' 
+  SELECT COUNT(*) FROM table_12562214_1 WHERE date__to_ = '1919' 
+  SELECT * FROM table_27882867_9 WHERE high_assists = '10' AND team = 'Minnesota' 
+  SELECT DISTINCT scientist FROM assignedto 
+  SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM ( SELECT COUNT(*) FROM (
+  SELECT name FROM people WHERE name NOT IN (SELECT name FROM perpetrator); 
+  SELECT vote_percentage FROM table_26375386_20 WHERE vote_percentage = 'gary and maria'; 
+  SELECT party FROM table_1341577_36 WHERE incumbent = 'Tom Luken' 
+"  select part_1 from table_1745843_9 where document_status_code = ""done"" and document_type_code = ""paper"" "
+  SELECT DISTINCT location FROM perpetrator 
+  SELECT in_county_tuition_per_credit_hour__fall_2009_ FROM table_22308881_2 WHERE in_county_tuition_per_credit_hour__fall_2009_ = '200' 
+"  SELECT name, count(flight_id) AS flights FROM aircraft JOIN flight ON aircraft.aid = flight.aid GROUP BY name "
+  select * from table_12186309_1 where mixed_doubles = 'kim brodersen'; 
+  select school from table_16295365_2 where conference_record = 12-6 
+  select title from table_23399481_4 where written_by = 'Michael Gans & Richard Register'; 
+  SELECT title FROM table_21025437_5 WHERE written_by = 'Keith Temple' 
+"  select time_retired from table_17693171_1 where driver = ""Marco Andretti"" "
+  SELECT * FROM table_2113721_7 WHERE region_2 = '2'; 
+  SELECT DISTINCT product_name FROM product ORDER BY product_name 
+  select third_place from table_2146364_2 where third_place = (select min(third_place) from table_2146364_2 where third_place > 0);
+  select comment from table_17978052_2 where borough_or_census_area = 'Denali' 
+  select order_number from table_19508635_1 where theme = '1960s' 
+"  SELECT * FROM table_2160008_4 WHERE reason_for_change = ""Changed to another seat"" OR reason_for_change = ""Changed to the same seat"" OR reason_for_change = ""Changed to a different seat"" "
+  SELECT COUNT(*) FROM table_28365816_2 WHERE regular_season_winner = 'Texas Western' 
+  select distinct subdivides_in from table_26538461_2 
+  SELECT odds_of_winner FROM table_21676617_1 WHERE odds_of_winner = 'Gentleman'; 
+"  SELECT concert_name, theme, count(*) AS singer_count FROM concert GROUP BY concert_name, theme "
+  SELECT * FROM table_255812_1 WHERE income_class__2007_ = 'Profits elegance (2007) in which mayor is ma. Ester a. Hamor' 
+  SELECT title FROM table_28760804_1 WHERE directed_by = 'Alex Reid' 
+"  SELECT count(*) FROM teachers WHERE teacher.firstname = ""MADLOCK"" AND teacher.lastname = ""RAY""; "
+  select team_1 from table_19294812_2 where team_2 = 'koper' 
+"  SELECT owner_id, first_name, last_name FROM owners WHERE owner_id IN (SELECT owner_id FROM dogs GROUP BY owner_id) ORDER BY owner_id; "
+  SELECT DISTINCT written_by FROM table_23918997_1 WHERE us_viewers__million_ = 0.97; 
+  select count(distinct na__350_) from table_13663434_1 where title_and_source = 'bokumo sekai wo sukuitai: battle tournament' 
+  select others_number from table_1756284_1 order by others_number desc limit 1 
+  select replaced_by from table_26998135_2 where date_of_vacancy = '27 december 2010' 
+"  SELECT reason_for_change FROM table_2417345_4 WHERE successor = 'William Milnes, Jr. (C)' "
+  SELECT name FROM buildings WHERE building_id NOT IN (SELECT building_id FROM office_locations); 
+"  SELECT  ref_document_types.document_type_code, ref_document_types.document_type_name, ref_document_types.document_type_description FROM ref_document_types  "
+  SELECT official_itv_rating__millions_ FROM table_27319183_7 WHERE official_itv_rating__millions_ >= 8.53; 
+  SELECT member_in_charge_id FROM party_events GROUP BY member_in_charge_id ORDER BY count(*) DESC LIMIT 1 
+  SELECT COUNT(*) FROM table_19487922_2 WHERE country = 'India' 
+"  select count(*) from table_256286_39 where passed = ""52.11%"" "
+  SELECT * FROM table_24115349_6 WHERE municipality = 'Wakefield'; 
+"  SELECT DISTINCT product_characteristics.characteristic_name, product_characteristics.characteristic_data_type FROM product_characteristics JOIN products ON product_characteristics.product_id = products.product_id WHERE products.product_name = 'cumin'; "
+  SELECT french FROM table_15040_8 WHERE italian = 'nazione'
+" 1. Create a table called ""vacancy"" with the following columns: ""date_of_vacancy"" (date) and ""team"" (string). 2. Create a table called ""manager"" with the following columns: ""name"" (string), ""date_of_appointment"" (date), and ""date_of_departure"" (date). 3. Create a table called ""manager_vacancy"" with the following columns:"
+  SELECT * FROM table_23391714_1 WHERE team = 'lola t92/00/ buick'; 
+  select count(*) from vocals where songid in (select songid from vocals where songid = vocals.songid); 
+  SELECT * FROM table_23722304_2 WHERE stroke__mm_ = 't211' 
+  SELECT COUNT(DISTINCT building) FROM classroom WHERE building NOT IN ('Lamberton'); 
+  select class_aaa from table_14603212_5 where school_year = '2004-05'; 
+"  SELECT package_option, series_name FROM tv_channel WHERE hight_definition_tv = 'yes' "
+  SELECT power_kw FROM table_24673888_1 WHERE location__transmitter_site_ = 'Borongan'; 
+  SELECT DISTINCT advisor FROM student; 
+"  SELECT * FROM table_29077342_19 WHERE (mountains_classification = 'rabobank' AND team_classification = 'damiano cunego') ORDER BY mountains_classification, team_classification "
+  SELECT COUNT(*) FROM episodes WHERE written_by = 'David Jackson' AND directed_by = 'David Jackson' 
+  SELECT condition_parameter FROM table_15314901_1 WHERE velocity_angle_η_in_i_radians = 0.481 
+  SELECT team FROM table_29556461_8 WHERE high_points = 'La Salle' ORDER BY high_points DESC 
+  select distinct order_details from invoices where order_id in (select order_id from orders where order_id in (select order_id from invoices where order_id in (select order_id from invoices where order_id in (select order_id from orders where order_id in (select order_id from invoices where order_id in (select order_id from orders where order_id in (select order_id from invo
+  SELECT digital_channel FROM table_2857352_3 WHERE virtual_channel = '5.2' 
+"  select count(*) from table_21132404_1 where political_parties = ""social democratic party of germany"" "
+  select s_color_commentator from table_2941848_10 where pregame_hosts = 'jon sciambi' 
+"  SELECT status_code, COUNT(*) AS num_customers FROM customers GROUP BY status_code "
+"  SELECT * FROM ref_product_categories WHERE product_category_code = ""Spices"" "
+  select bus_width___bit__ from table_19161046_1 where core___mhz__ = 650 
+  SELECT school_club_team_country FROM table_11734041_3 WHERE years_for_rockets = '2000-01' 
+  select tv_season from table_27553627_2 where viewers__in_millions_ = 14.54  
+  SELECT fielding_team FROM table_1670921_1 ORDER BY wickets DESC LIMIT 10 
+"  select team from table_23248940_8 where high_rebounds = ""12"" "
+"  SELECT pole_position FROM table_25459168_2 WHERE supporting = ""USAC National Midget Series"" "
+  SELECT broadcast_network FROM table_21076286_2 WHERE broadcast_scope = 'chiba prefecture' 
+"  SELECT claim_id, date_claim_made, count(*) FROM claims GROUP BY claim_id, date_claim_made ORDER BY count(*) DESC "
+  SELECT COUNT(*) FROM documents WHERE document_status_code = 'done' AND document_type_code = 'paper' GROUP BY document_id 
+  SELECT name_name_of_act FROM table_28180840_15 WHERE hometown = 'zhou jinsong' 
+  select team from table_23249053_11 where high_points = (select max(high_points) from table_23249053_11) 
+ 1. SELECT distance__m_ FROM table_1751142_2 WHERE shuttle_time__seconds_ = '6.86' 
+  SELECT hr_name FROM table_1886270_1 WHERE hr_no = 'river ness' 
+  SELECT original_artist FROM table_27614707_1 WHERE original_artist IN (SELECT original_artist FROM table_27614707_1 WHERE original_artist = 'The Top 12 Men' GROUP BY original_artist HAVING COUNT(*) = 1) 
+  SELECT owner_s___2009_ FROM table_23958917_1 WHERE owner_s___2009_ LIKE '2009%' AND location LIKE'south side indianapolis'; 
+  SELECT title FROM table_23958944_5 WHERE directed_by = 'Bryan Spicer' AND written_by = 'Terence Paul Winter' 
+  SELECT * FROM table_28668784_1 WHERE city___town = 'Stadion Zlatica'; 
+  SELECT  (sat_29_aug - fri_28_aug) / 60 / 60 / 24 / 1000 AS time_achieved FROM  table_23465864_4 ORDER BY time_achieved DESC 
+  select distinct product_name from products join product_characteristics on product_id = product_characteristics.product_id where product_characteristics.characteristic_name = 'warm' 
+  select count(*) from population_2006 where local_government_area = 'Coober Pedy' 
+"  select zodiac_sign from table_20354_5 where thai_name = ""มกราคม"" "
+  select * from table_24910733_1 where directed_by = 'Andrea Newman'; 
+  select gp from table_26176081_29 where gp = (select min(gp) from table_26176081_29); 
+  select city_code from student group by city_code having count(*)>1 
+"  select length_of_stay_permitted from table_25965003_3 where countries_and_territories = ""Jersey""; "
+  SELECT COUNT(*) FROM table_2518850_4 WHERE year_of_previous_participation = '1' 
+  SELECT COUNT(*) FROM STADIUM WHERE COUNTRY = (SELECT MAX(COUNTRY) FROM STADIUM); 
+  SELECT record_company FROM orchestra GROUP BY record_company HAVING COUNT(*) = (SELECT COUNT(*) FROM orchestra) ORDER BY COUNT(*) DESC 
+  SELECT entrant FROM table_28578594_1 WHERE driver = 'bruno sterzi' 
+  select * from table_1998037_9 where television_commentator = 'Kateryna Osadcha' 
+  SELECT COUNT(*) FROM sprints_classification WHERE winner = 'Joaquin Rodriguez' 
+  select percent__1990_ from table_1182314_5 where state ='mississippi' 
+  SELECT second FROM table_25563779_4 WHERE national_trophy_rookie = 'Gerrard Barrabeig' 
+  select nhl_team from table_1013129_11 where nhl_team <> 'None' and nhl_team <> 'None' and nhl_team <> 'None' and nhl_team <> 'None' and nhl_team <> 'None' and nhl_team <> 'None' and nhl_team <> 'None' and nhl_team <> 'None' and nhl_team <> 'None' and
+  select hometown from table_11677691_10 where hometown like 'Muscle Shoals' 
+"  SELECT title, publication_date FROM publication WHERE book_id = 'title' ORDER BY publication_date DESC "
+  SELECT pop_density__per_km²_ FROM table_261951_1 WHERE municipality = 'lubang'; 
+  SELECT (CASE WHEN bayonet_lug ='m4 hbar' THEN 'done' WHEN bayonet_lug ='m4 le carbine' THEN 'done' WHEN bayonet_lug ='m4a1' THEN 'done' ELSE 'not done' END) AS lug_status FROM table_12834315_5 
+"  SELECT * FROM table_1198175_1 WHERE pro_team = ""arizona cardinals"" AND drafted = ""under""  "
+  SELECT DISTINCT dates_of_australian_involvement FROM table_10121127_1 WHERE number_of_australians_involved = '65' 
+  SELECT * FROM table_23292220_7 WHERE seans_team = '13 november 2008' 
+"  select count(*) from documents where document_status_code = ""done"" and document_type_code = ""paper"" "
+  SELECT DISTINCT document_id FROM paragraphs WHERE paragraphs.paragraphs.length > 1 
+  SELECT winning_driver FROM table_26137666_3 WHERE winning_team = 'Carlin Motorsport' AND circuit = 'Croft'; 
+  SELECT DISTINCT film_festival FROM table_26282750_1 WHERE category = 'Best Male Actor' 
+  SELECT network_station FROM table_2879165_1 WHERE country = 'Brunei' 
+  select count(*) from candidates where candidates like '%Mac Sweeney%' and candidates like '%incumbent%' 
+  SELECT * FROM table_1211545_2 WHERE light_vehicle = 'plaza'; 
+  select count(*) from county_public_safety 
+  SELECT DISTINCT hometown FROM table_23476629_2 WHERE province = 'Huesca'; 
+"  SELECT COUNT(*) FROM races WHERE race_time LIKE ""%88.924%"" AND driver LIKE ""%Yarborough%"" "
+  SELECT status FROM table_142159_1 WHERE location = 'Museum' 
+"  select * from table_2104176_1 where homeland_security_distinguished_service_medal = ""Coast guard Medal"" order by medal_of_honor "
+  SELECT high_rebounds FROM table_27700375_8 WHERE high_points = 'Brook Lopez (15)'; 
+  SELECT COUNT(*) FROM table_1952065_4 WHERE afc_titles > 2
+  SELECT womens_doubles FROM table_12171145_1 WHERE mixed_doubles = 'jacco arends selena piek'; 
+  SELECT DISTINCT city_code FROM student ORDER BY city_code 
+  select chairman from table_27374004_2 where current_manager = 'bob peeters' 
+  SELECT document_id FROM paragraphs ORDER BY COUNT(*) DESC LIMIT 1 
+"  select high_rebounds, record from table_17104539_10 where record = '11-13' and high_rebounds = 'high' "
+  SELECT count(*) FROM table_1745843_10 WHERE verb_meaning = 'to bear' 
+  SELECT COUNT(*) FROM management WHERE department_id NOT IN (SELECT department_id FROM department WHERE department_id NOT IN (SELECT department_id FROM management)); 
+"  select barrel_length from table_12834315_5 where colt_model_no = ""le6921sp"" "
+  SELECT COUNT(*) FROM table_18536769_1 WHERE owner = 'vista radio' 
+  SELECT DISTINCT content FROM table_15887683_3 
+  SELECT donor_payment FROM table_16175217_1 WHERE country = 'Belgium' 
+  SELECT COUNT(*) FROM list 
+  SELECT written_by FROM table_21312845_1 WHERE written_by = 'David Straiton'; 
+  SELECT director FROM table_11404452_1 WHERE us_viewers__millions_ = 13660000000000000000000000000000000000000000000000000000000000000000000000
+  SELECT COUNT(*) FROM table_11934032_1 WHERE location = 'c03' 
+  select candidates from table_2668374_10 where incumbent = 'Samuel Riker' 
+  SELECT winning_driver FROM table_1137696_3 WHERE grand_prix = 'european'; 
+  SELECT title FROM episodes WHERE us_viewers__million__ = 5.6600000000000002; 
+"  SELECT location_name, location_code FROM ref_locations ORDER BY COUNT(*) DESC "
+"  SELECT DISTINCT orchestra FROM orchestra, performance WHERE orchestra.orchestra_id=performance.orchestra_id "
+  SELECT COUNT(*) FROM club WHERE clubname = 'Tennis Club'; 
+  SELECT  gender FROM  table_28523_2 WHERE  school = 'cunningham hill infant school'; 
+"  SELECT * FROM table_20785990_2 WHERE home_town = 'Blue Island, Il'; "
+  SELECT other_abbreviation FROM table_287159_1 WHERE other_abbreviation = 'Triangulum'  
+"  SELECT reference FROM table_30011_2 WHERE type_and_usage = ""Germanium small-signal RF transistor"" "
+"  SELECT DISTINCT composer FROM table_24521345_1 WHERE conductor = ""jaroslav Vogel""; "
+"  SELECT DISTINCT slovak FROM table_25008327_8 WHERE ukrainian = 'пес, собака' "
+  select program_name from program where program_id not in (select program_id from broadcast where time_of_day ='morning'); 
+  SELECT length_weight_of_missile FROM table_21012786_2 WHERE diameter_of_torsion_spring = 38.4 
+  SELECT name FROM student WHERE total_credits = (SELECT MAX(total_credits) FROM student WHERE dept_name = 'History'); 
+"  SELECT fname, lname FROM student WHERE NOT EXISTS (SELECT * FROM student WHERE major = (SELECT MAX(major) FROM student)) "
+  SELECT country FROM table_29789_3 WHERE _percentage_change = 5.7  
+  SELECT ioc_code FROM table_2879165_1 WHERE country = 'Singapore' 
+  SELECT team FROM table_28884858_2 WHERE capacity_percentage = '102.3%' 
+  SELECT numeral FROM table_1682865_1 WHERE english_name = 'Florin'; 
+  SELECT COUNT(*) FROM table_2592308_1 WHERE country = 'Austria'; 
+ 1 select * from table_16201038_4 where missouri_vs = 'ui' and at_opponents_venue = '4-1'; 
+  select title from table_10749143_2 where us_viewers__millions_ = '10.34' 
+"  select left_bloc, (select sum(social_democratic) from table_1463383_1 where left_bloc = left_bloc) / (select sum(left_bloc) from table_1463383_1) as percentage from table_1463383_1 group by left_bloc "
+  select guest_s_ from ratings where guest_s_ = '1234567890' 
+"  select university_name from table_1160660_1 where acronym = ""USF"" "
+  SELECT DISTINCT tourist_attraction_id FROM visitors WHERE tourist_details LIKE '%Vincent%' 
+  SELECT DISTINCT pilot FROM flight WHERE airport_id = 'Billund Airport' OR country = 'United States'; 
+"  select shop_name from shop join stock on shop.shop_id = stock.shop_id join device on device.device_id = stock.device_id  order by shop_name, device_id "
+  select count(*) from team_2182562_2 where avg_start = 12.9 
+  select count(*) from other_available_features 
+  SELECT COUNT(*) FROM ref_calendar 
+  SELECT rushing_yards_per_game FROM table_27487336_1 WHERE sacks = 25 ORDER BY rushing_yards_per_game; 
+"  SELECT $433.59 AS Detroit, $433.59 AS Lansing FROM `table_1637981_7` WHERE `detroit__dtw_` = $433.59 AND `lansing__lan_` = $433.59 "
+  SELECT zip_code_prefix_es_ FROM table_14253123_1 WHERE percentage_of_boundary_by_water = 63 ORDER BY zip_code_prefix_es_ ASC 
+  SELECT * FROM `table_1921_1` WHERE `conflict` = 'Yemen' 
+  select count(*) from cpu_type group by cpu_type 
+  SELECT name FROM song WHERE languages = 'en'; 
+  select first_broadcast from table_23292220_3 where seans_team = 'Peter Serafinowicz and Johnny Vegas' 
+  SELECT title FROM table_24910742_1 WHERE us_viewers__millions_ = 9.64; 
+  SELECT DISTINCT poor_law_union FROM table_30121075_1 WHERE townland = 'bohonagh' 
+  select sum(singles_w_l + doubles_w_l) as total_w_l from table_10023387_1 where doubles_w_l = 0 and total_w_l = 3 
+ 1) Select * from table_103084_4 where total_viewing>11616996.338225884; 2) Order by total_viewing; 
