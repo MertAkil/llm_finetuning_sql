@@ -1,6 +1,7 @@
 import re
 import json
 from typing import Any
+import pandas as pd
 import mysql.connector
 import os
 
@@ -17,19 +18,24 @@ def connect_db() -> mysql.connector.connection_cext.CMySQLConnection:
 
 
 def load_generated_queries(file_path: str) -> list[str]:
-    with open("./../data/test_data.json", "r") as stream:
-        file = json.load(stream)
-
-    print("Loaded generated data")
-    # with open(file_path, "r") as stream:
+    df = pd.read_csv(file_path)
+    return list(df["Results"])
+    # with open("./../data/test_data.json", "r") as stream:
     #     file = json.load(stream)
-    return [entry["answer"] for entry in file]
+
+    # print("Loaded generated data")
+    # # with open(file_path, "r") as stream:
+    # #     file = json.load(stream)
+    # return [entry["answer"] for entry in file]
 
 def load_true_queries() -> list[str]:
-    with open("./../data/test_data.json", "r") as stream:
-        file = json.load(stream)
+    data = []
+    with open("./../data/test_data.jsonl", "r") as stream:
+        for line in stream:
+            # Parse each line as JSON and append to list
+            data.append(json.loads(line.strip()))
     print("Loaded true data")
-    return file
+    return data
 
 def change_sql_mode(cursor: mysql.connector.cursor_cext.CMySQLCursor) -> None:
     change_full_group_sql = "SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));"

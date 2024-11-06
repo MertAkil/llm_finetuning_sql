@@ -1,0 +1,12 @@
+Metrics
+overal_exec,0.9453599306157849
+overall_accuracy,0.43972246313963576
+overall_query_similarity,0.6912925204141662
+overall_string_similarity,0.8692356538532299
+join_accuracy,0.0
+join_similarity,0.515149027940817
+mult_table_accuracy,0.0
+mult_table_similarity,0.5467866145905929
+single_table_accuracy,0.4810246679316888
+single_table_query_similarity,0.7087703994297923
+single_table_string_similarity,0.8995226129490566
