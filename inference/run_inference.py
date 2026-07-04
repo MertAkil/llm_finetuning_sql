@@ -1,34 +1,45 @@
 import json
-from templates import create_message, create_system_template, create_template
-from prompts import SYSTEM_PROMPT
-from few_shot_script import few_shot_template
-from utils import extract_sql_query
+import sys
+from pathlib import Path
 
-def run_inference(model, tokenizer, few_shot):
+REPO_ROOT = Path(__file__).resolve().parents[1]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from project_utils import resolve_path
+
+try:
+    from .commons import DATA_PATH, FEW_SHOT_PATH
+    from .templates import create_message, create_system_template, create_template
+    from .prompts import SYSTEM_PROMPT
+    from .few_shot_script import few_shot_template
+    from .utils import extract_sql_query
+except ImportError:
+    from commons import DATA_PATH, FEW_SHOT_PATH
+    from templates import create_message, create_system_template, create_template
+    from prompts import SYSTEM_PROMPT
+    from few_shot_script import few_shot_template
+    from utils import extract_sql_query
+
+
+def run_inference(model, tokenizer, few_shot, data_path=DATA_PATH, few_shot_path=FEW_SHOT_PATH):
     answer_list = []
  
-    file_path = 'data.jsonl'
-
-    # Open the file and read line-by-line
-    with open(file_path, 'r') as file:
+    with resolve_path(data_path).open("r", encoding="utf-8") as file:
         for line in file:
-            # Parse the JSON object from the line
+            if not line.strip():
+                continue
             data_sample = json.loads(line)
             
-            # Accessing the fields of the sample
             question = data_sample['question']
             context = data_sample['context']
-            query = data_sample['query']
 
-            USER_TEMPLATE = create_message(question, context)
+            user_message = create_message(question, context)
             system_template = create_system_template(SYSTEM_PROMPT)
-            user_template = create_template(SYSTEM_PROMPT, USER_TEMPLATE)
-
-            message_template = None
+            user_template = create_template(SYSTEM_PROMPT, user_message)
             
-            if few_shot == True:
-                few_shots = few_shot_template()
-                print(few_shots)
+            if few_shot:
+                few_shots = few_shot_template(few_shot_path=few_shot_path)
                 message_template = system_template + few_shots + user_template
 
             else:

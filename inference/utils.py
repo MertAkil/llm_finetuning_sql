@@ -1,43 +1,46 @@
-import os 
 import json
-from jinja2 import Template
-from prompts import USER_PROMPT
 import re
+import sys
+from pathlib import Path
 
-def save_queries(model_id, generated_queries, few_shot):
-    # Ensure the directory exists
-    if not os.path.exists("./generated_queries"):
-        os.makedirs("./generated_queries")
+REPO_ROOT = Path(__file__).resolve().parents[1]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from project_utils import resolve_path, safe_model_id
+
+try:
+    from .commons import RESULTS_DIR
+except ImportError:
+    from commons import RESULTS_DIR
+
+
+def save_queries(model_id, generated_queries, few_shot, output_dir=RESULTS_DIR):
+    output_path = resolve_path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
     
-    # Replace slashes in model_id to prevent directory errors
-    safe_model_id = model_id.replace('/', '_')
+    file_path = output_path / f"query_{safe_model_id(model_id)}_few_shot={few_shot}.json"
     
-    # Create the file path
-    file_path = f'./generated_queries/query_{safe_model_id}_few_shot={few_shot}.json'
-    
-    # Save the generated queries to a file
-    with open(file_path, 'w') as f:
+    with file_path.open("w", encoding="utf-8") as f:
         json.dump(generated_queries, f)
 
     print(f"Queries saved to {file_path}")
+    return file_path
 
 
 def extract_sql_query(text):
-    # Define patterns to identify and extract the SQL query
-    query_pattern = r"```[\s\S]*?```|SELECT[\s\S]*?;"
-    code_block_pattern = r"```[\s\S]*?```"
+    if not text:
+        return None
 
-    # Find all matches for the SQL query pattern
-    matches = re.findall(query_pattern, text)
+    code_block_pattern = re.compile(r"```(?:sql|mysql|sqlite)?\s*([\s\S]*?)```", re.IGNORECASE)
+    for match in code_block_pattern.finditer(text):
+        query = match.group(1).strip()
+        if query:
+            return query
 
-    if not matches:
-        return None  # No SQL query found
+    query_pattern = re.compile(r"\b(?:SELECT|WITH|INSERT|UPDATE|DELETE)\b[\s\S]*?(?:;|$)", re.IGNORECASE)
+    match = query_pattern.search(text)
+    if match:
+        return match.group(0).strip()
 
-    # Prioritize finding a query within triple backticks
-    for match in matches:
-        if re.match(code_block_pattern, match):
-            query = match.strip('`')
-            return query.strip()
-
-    # If no triple backtick query is found, return the first matched query
-    return matches[0].strip()
+    return None

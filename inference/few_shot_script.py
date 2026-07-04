@@ -1,28 +1,35 @@
 import json
-from templates import create_message
+import sys
+from pathlib import Path
 
-def few_shot_template():
+REPO_ROOT = Path(__file__).resolve().parents[1]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from project_utils import get_sql_label, resolve_path
+
+try:
+    from .commons import FEW_SHOT_PATH
+    from .templates import create_message
+except ImportError:
+    from commons import FEW_SHOT_PATH
+    from templates import create_message
+
+
+def few_shot_template(few_shot_path=FEW_SHOT_PATH):
     few_shots = []
-    TEMPLATE = []
-    with open("/home/ec2-user/efs/mert/Experiments/few_shot.jsonl", 'r') as file:
+    with resolve_path(few_shot_path).open("r", encoding="utf-8") as file:
         for line in file:
-            # print(line)
-            # Parse the JSON object from the line
+            if not line.strip():
+                continue
             data_sample = json.loads(line)
-            
-            # Accessing the fields of the sample
             question = data_sample['question']
             context = data_sample['context']
-            query = data_sample['query']
+            query = get_sql_label(data_sample)
 
             message_template = create_message(question=question, context=context)
 
-
-            TEMPLATE = [
-                # {
-                #     "role": "system",
-                #     "content": SYSTEM_PROMPT,
-                # },
+            template = [
                 {
                     "role": "user",
                     "content": message_template,
@@ -32,6 +39,6 @@ def few_shot_template():
                     "content": query,
                 },
             ]
-            few_shots += TEMPLATE
+            few_shots += template
     
     return few_shots

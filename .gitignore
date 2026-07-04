@@ -1,3 +1,26 @@
 *.ipynb
 experiments/
 data/test_data_copy.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments and secrets
+.env
+.venv/
+venv/
+
+# OS/editor metadata
+.DS_Store
+.idea/
+.vscode/
+
+# Generated model artifacts
+train/checkpoints_lora/
+checkpoints_lora/
+generated_queries/
